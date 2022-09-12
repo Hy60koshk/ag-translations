@@ -53,7 +53,7 @@ msgstr "Привет, алхимик! Добро пожаловать на зи�
 #: /Game/Blueprints/Actors/SeedExchange/Widget_SeedExchange.Widget_SeedExchange_C:WidgetTree.TextBlock_24.Text
 msgctxt ",02B01551442B629F89DCD281A56F8FE3"
 msgid "Convert"
-msgstr ""
+msgstr "Преобразовать"
 
 #. Key:	02B79B544DA0471720AC138D88691497
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
@@ -81,7 +81,7 @@ msgstr "Маленькая фигурка мумии, светящаяся в т
 #: /Game/UI/Credits/DT_Credits.DT_Credits.credit_1.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 msgctxt ",036FDE594C128D87FAC6F991B0848E7B"
 msgid "Music"
-msgstr ""
+msgstr "Музыка"
 
 #. Key:	037468434261735F410BA788A5631942
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:WidgetTree.QuestTitle.Text
@@ -109,7 +109,7 @@ msgstr "Древо мёртвых"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_249.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",041DA67F44FEEFDB8787808EF98DDFEF"
 msgid "A copper planter, plant your seeds both indoors and outdoors."
-msgstr ""
+msgstr "Медный горшок. В него можно посадить растение как на улице, так и у себя дома."
 
 #. Key:	044B57C44F06FE4F96F272832531347C
 #. SourceLocation:	/Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(1 - Value).DisplayNameMap
@@ -137,7 +137,7 @@ msgstr "САД"
 #: /Game/UI/Widget_EnergyBar.Widget_EnergyBar_C:UpdateEnergyBar [Script Bytecode]
 msgctxt ",04F99291421519CD67B5939FB91CFB8C"
 msgid "Energy: {currentAmount}/{maxAmount}"
-msgstr ""
+msgstr "Энергия: {currentAmount}/{maxAmount}"
 
 #. Key:	0504368B4DF77306ED5EC5BAF5E0FEA4
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:WidgetTree.TextBlock.Text
@@ -200,14 +200,14 @@ msgstr "Внимание!"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_268.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",07955CE74FDEB0EE0162A58F2200EA3D"
 msgid "Speed Potion"
-msgstr ""
+msgstr "Зелье скорости"
 
 #. Key:	07E339C34C89DDB543A9D39081A159FE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_296.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_296.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",07E339C34C89DDB543A9D39081A159FE"
 msgid "Green Amanita Spores"
-msgstr ""
+msgstr "Споры зелёного мухомора"
 
 #. Key:	0845CA864BF48DEEF3D38D8E2D7FAE2F
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_31.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -291,7 +291,7 @@ msgstr "Однажды у нас с отцом состоялся серьёзн
 #: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
 msgctxt ",0B53085B44A16E68464D4F946422980C"
 msgid "{Potion Name} has been created"
-msgstr ""
+msgstr "Вы создали {Potion Name}"
 
 #. Key:	0B795E754209FE75065029AC15F091DC
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
@@ -312,7 +312,7 @@ msgstr "Отпразднуйте наступление лета, устроив
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",0B8F81924EEE4A0B1822C08719150A57"
 msgid "Healing"
-msgstr ""
+msgstr "Исцеление"
 
 #. Key:	0BA765DE4AB0F308634D3EB410D775CB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SummerEvent.FirstDialog_30_243B85D042D5FA5C14C391832F631188(1).FirstDialog_30_243B85D042D5FA5C14C391832F631188
@@ -431,14 +431,14 @@ msgstr "Золотая игла"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_300.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",0FD1684A45CC56A5EAE5B6ADE68C8E9E"
 msgid "Spores that contains a Blue Trumpet Mushroom, it can be grown in your garden."
-msgstr ""
+msgstr "Споры синей лисички. Можно посадить в саду."
 
 #. Key:	0FFBB12A467F37869F6E429A9DB94305
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_303.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_303.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",0FFBB12A467F37869F6E429A9DB94305"
 msgid "Bromelia Seed"
-msgstr ""
+msgstr "Семена бромелии"
 
 #. Key:	10683C124F9E9413DB0AFB8EB06C1F9E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_066.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -522,14 +522,14 @@ msgstr "Небольшое кустарниковое растение. Его �
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_306.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",130387FB45BBD414E2BB9EAB0E17CF82"
 msgid "Musa Seed"
-msgstr ""
+msgstr "Семена банана"
 
 #. Key:	1319B61B48014DF032E933BF84D0760F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",1319B61B48014DF032E933BF84D0760F"
 msgid "Relaxing"
-msgstr ""
+msgstr "Отдых"
 
 #. Key:	1321D9FC496E6643CE0E6F847C1814D6
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_080.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -543,7 +543,7 @@ msgstr "Небольшой кустарник, который будет рад�
 #: /Game/UI/Credits/DT_Credits.DT_Credits.credit_3.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 msgctxt ",143817E545A203DC0733889920DA38EC"
 msgid "French Translation"
-msgstr ""
+msgstr "Перевод на французский язык"
 
 #. Key:	1439E21D4581E342B2D9C998554A4AD9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_14.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -564,7 +564,7 @@ msgstr "Семена ликориса лучистого"
 #: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:OnSaleSign_GEN_VARIABLE.Text
 msgctxt ",146AE2C44D172C6F4D73FEA262CB9163"
 msgid "On Sale"
-msgstr ""
+msgstr "Продаётся"
 
 #. Key:	14AC7D8E4647816878EFF686313F356B
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_199.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -613,7 +613,7 @@ msgstr "Прыжок"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_shopTable.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",16CCC3C64E9B4F9F3373E1A711603518"
 msgid "Shop Table"
-msgstr ""
+msgstr "Магазинный прилавок (Саня посмотри в игре чо это)"
 
 #. Key:	174C934B4A5309D19D49A8A9D041E4E3
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_114.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -648,7 +648,7 @@ msgstr "Нажмите <img id=\"{buttonCode}\"/>, чтобы взаимодей
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_185.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",1798F925404EB4F09CB9A2A8901AB60D"
 msgid "A rudimentary pickaxe with low durability. Use it to gather minerals."
-msgstr "Низкопрочная кирка, выполненная из камня."
+msgstr "Каменная кирка. Имеет низкую прочность. Используется для добычи камней и минералов."
 
 #. Key:	181ABE89453E54AEA9B98D9C768AE3FA
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:WidgetTree.TextBlock_2.Text
@@ -697,14 +697,14 @@ msgstr "Лилия"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_043.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",19E07E6B45AD8414949F6298737BA20A"
 msgid "Crystamber Figure"
-msgstr ""
+msgstr "Янтарная хрустальная статуэтка"
 
 #. Key:	1A1E31224CFA6BEA56A3439A02B8BB76
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_0.Text
 msgctxt ",1A1E31224CFA6BEA56A3439A02B8BB76"
 msgid "Change Appearance"
-msgstr ""
+msgstr "Изменить внешность"
 
 #. Key:	1A54977C4F181B979DF6D592DC45FD74
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:WidgetTree.TextBlock_4.Text
@@ -725,7 +725,7 @@ msgstr "Зимний фестиваль"
 #: /Game/UI/Widget_ToolBeltSlot.Widget_ToolBeltSlot_C:ExecuteUbergraph_Widget_ToolBeltSlot [Script Bytecode]
 msgctxt ",1A73872F4769E3DF832D3497435D2174"
 msgid "Unequip your tool first"
-msgstr ""
+msgstr "Сначала уберите свой инструмент (Саня!)"
 
 #. Key:	1A783A3548B6A4375E226CB9CF23F9DC
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -739,14 +739,14 @@ msgstr "Когда я была маленькой девочкой, я люби�
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_mine.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",1AA12B0E4ECF55658BB325B56C3F5772"
 msgid "Mining"
-msgstr ""
+msgstr "Горное дело"
 
 #. Key:	1AC6F4714612AB13BB0ECAA6E80A3E7E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_041.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_041.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",1AC6F4714612AB13BB0ECAA6E80A3E7E"
 msgid "A decorative skull... Why not?"
-msgstr "Декоративный череп."
+msgstr "Декоративный череп. Потому что почему бы и нет?"
 
 #. Key:	1AF6531540F561A24F75D298F12A1EED
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(5).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -774,14 +774,14 @@ msgstr "Болотная Азалия"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_286.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",1B66C2334A967F6DBD1FD287E82CA985"
 msgid "Strange mushroom with a tubular shape, it has relaxing properties. May be seen in swamps from fall to winter."
-msgstr ""
+msgstr "Странный гриб трубчатой формы. Расслабляет. Его можно найти на болотах осенью и зимой."
 
 #. Key:	1BCEF6E54A2498C20F5905B82CAFDE6D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_273.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_273.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",1BCEF6E54A2498C20F5905B82CAFDE6D"
 msgid "Brugmansia Petals"
-msgstr ""
+msgstr "Лепестки бругмансии"
 
 #. Key:	1BCF70164B4AB45B5D546EB05525472F
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Hans.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(3).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -879,7 +879,7 @@ msgstr "Голубой ковёр"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_278.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",1EB690624061BEB98ACC62A8B6366DC3"
 msgid "Amanita"
-msgstr ""
+msgstr "Мухомор"
 
 #. Key:	1F0ABB6846F0157E2701ACB2571ADA46
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_020.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -893,14 +893,14 @@ msgstr "Оградки, оградки, оградки, оградки, огра
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_299.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",1F138CEB4E6BE547B0A77198BAB4B114"
 msgid "Spores that contains a Yolk Nenhun Mushroom, it can be grown in your garden."
-msgstr ""
+msgstr "Споры желточного ненхана. Можно посадить в саду."
 
 #. Key:	1F6EA0DD489D07074F81C5956130727A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_18.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_18.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",1F6EA0DD489D07074F81C5956130727A"
 msgid "Stars Blue Floor"
-msgstr ""
+msgstr "Синие звёздочки"
 
 #. Key:	1F9A1AAE448570931D04D6AA114979F4
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
@@ -928,7 +928,7 @@ msgstr "Рубашка выпускника IV"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_306.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",20385A404217B4B9B3AB6599782C05C5"
 msgid "Seed that contains a Musa plant."
-msgstr ""
+msgstr "Семена банана."
 
 #. Key:	203BB0B2412C9DFB337254A0344B7580
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_236.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -963,7 +963,7 @@ msgstr "Светильник из потустороннего мира. Мож�
 #: /Game/UI/Credits/DT_Credits.DT_Credits.credit_4.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 msgctxt ",20DCACBC40D43B1295904488B2B9A35B"
 msgid "Polish Translation"
-msgstr ""
+msgstr "Перевод на польский язык"
 
 #. Key:	20F9429B4E97EC12E17166ABEB8968D2
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_226.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -977,7 +977,7 @@ msgstr "Парфюм с нежным ароматом секретов, пове
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_280.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",2147179D4973051BF51AB5A3EE89AE2E"
 msgid "Green Amanita"
-msgstr ""
+msgstr "Зелёный мухомор"
 
 #. Key:	2155C9384EDAC4622114E2A5CFE6302F
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_22.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -998,7 +998,7 @@ msgstr "Торс"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_301.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",21A4F03A4CE6370FF53FB3BB1705BE68"
 msgid "Spores that contains a Green Trumpet Mushroom, it can be grown in your garden."
-msgstr ""
+msgstr "Споры зелёной лисички. Можно посадить в саду."
 
 #. Key:	21A8C7FF4687FF696F15828D6774156D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_029.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -1033,28 +1033,28 @@ msgstr "Крупный паркет"
 #: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
 msgctxt ",22A76FB1478CD8AFE890DC887977E99A"
 msgid "Small Tree"
-msgstr ""
+msgstr "Маленькое дерево"
 
 #. Key:	22C03BCB4420DA26E08E38894801652C
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_ClothesSelector.Widget_ClothesSelector_C:WidgetTree.TextBlock_0.Text
 #: /Game/Blueprints/Actors/CharacterCreation/Widget_ClothesSelector.Widget_ClothesSelector_C:WidgetTree.TextBlock_0.Text
 msgctxt ",22C03BCB4420DA26E08E38894801652C"
 msgid "Clothing"
-msgstr ""
+msgstr "Одежда"
 
 #. Key:	22CAE81F4CFAE2296D1EA1BB43540545
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_275.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_275.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",22CAE81F4CFAE2296D1EA1BB43540545"
 msgid "Musa"
-msgstr ""
+msgstr "Банан"
 
 #. Key:	22F916264865E94F4266C18405747BE8
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_184.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_184.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",22F916264865E94F4266C18405747BE8"
 msgid "Hatchet made of iron with hight durability. Use it to chop down trees."
-msgstr ""
+msgstr "Железный топор. Имеет высокую прочность. Используется для добычи дерева."
 
 #. Key:	23A6E32147EA64A4BB9F1A99D1E42F07
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
@@ -1110,14 +1110,14 @@ msgstr "Верстак"
 #: /Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_4.Text
 msgctxt ",24F322884E0CC3D8C6C2E4B604185A93"
 msgid "Player Name"
-msgstr ""
+msgstr "Имя игрока"
 
 #. Key:	2551893745AE62753855CBA0D9EC0D61
 #. SourceLocation:	/Game/UI/Credits/DT_Credits.DT_Credits.credit_5.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 #: /Game/UI/Credits/DT_Credits.DT_Credits.credit_5.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 msgctxt ",2551893745AE62753855CBA0D9EC0D61"
 msgid "German Translation"
-msgstr ""
+msgstr "Перевод на немецкий язык"
 
 #. Key:	2559544F4BAEEDAEC27FF7A1844F8D26
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_092.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1159,7 +1159,7 @@ msgstr "Парфюм с ароматом густого леса."
 #: /Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_455.Text
 msgctxt ",26C8D27D49E96432A585818D32FE7D7F"
 msgid "I Understand"
-msgstr "Ясно"
+msgstr "Понятно"
 
 #. Key:	27203CFF45ADB059C8FE51B9668ECAEE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.WinterFestival.FirstDialog_30_243B85D042D5FA5C14C391832F631188(2).FirstDialog_30_243B85D042D5FA5C14C391832F631188
@@ -1187,7 +1187,7 @@ msgstr "Привет, алхимик!\r\n\r\nЯ хотел поблагодар�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_288.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",27C20EBE431762C073E38CA87DFE3836"
 msgid "Seed that contains a strawberry plant."
-msgstr ""
+msgstr "Семена клубники"
 
 #. Key:	27DB56D94586F6615595C5AA3295204D
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:WidgetTree.AttachmentText.Text
@@ -1243,14 +1243,14 @@ msgstr "Жуткий паук"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_room.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",299160B04505118D3F868785AA01DE21"
 msgid "Welcome to your house! At the moment it is somewhat empty and both the walls and the floors are not at their best...\r\n\r\nBut don't worry, with some work and enthusiasm you can repair the house and decorate it as you like. Turn this filthy house into a beautiful alchemy shop!"
-msgstr ""
+msgstr "Добро пожаловать к себе домой! Сейчас здесь довольно пусто и стены с полом выглядят не лучшим образом...\r\n\r\nНо не волнуйся, при желании и должном усердии ты можешь превратить свой дом в уютнейшее местечко!"
 
 #. Key:	29B5DEE345912248D2266C94B6028249
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Widgets/Widget_WellDone.Widget_WellDone_C:WidgetTree.TextBlock_25.Text
 #: /Game/Blueprints/Actors/AlchemyTable/Widgets/Widget_WellDone.Widget_WellDone_C:WidgetTree.TextBlock_25.Text
 msgctxt ",29B5DEE345912248D2266C94B6028249"
 msgid "Well Done!"
-msgstr ""
+msgstr "Отлично!"
 
 #. Key:	2AB938CD470E1BD0441CF19B2AC53624
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_166.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1320,7 +1320,7 @@ msgstr "Страшная тыквенная голова с голубой св�
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_bed.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",2CF7C4ED49BDD86B706354ADDE669690"
 msgid "Go to bed to save progress, finish the day and recover your energy.\r\n\r\nThere is nothing like a good fluffy bed!"
-msgstr ""
+msgstr "Когда вы ложитесь спать, день завершается, вы восстанавливаете энергию, а ваш прогресс в игре сохраняется.\r\n\r\nНет ничего лучше мягкой кроватки!"
 
 #. Key:	2D531E5445C2E99AE205B29BDB36D9B9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_062.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1355,7 +1355,7 @@ msgstr "Синие полоски"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_264.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",2ED92BB0485F0241062FF9AA46F2E394"
 msgid "Potion that increases your chances to find more than 1 seed "
-msgstr ""
+msgstr "Это зелье повышает шансы получить более одного семени при сборе растений."
 
 #. Key:	2F01324245A02BFEEE9C27A99D3EE280
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(4 - Value).DisplayNameMap
@@ -1369,14 +1369,14 @@ msgstr "Зимний фестиваль"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_274.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",2F6E8353465B8648F9FD9E9231BD7EAB"
 msgid "Crocosmia"
-msgstr ""
+msgstr "Крокосмия"
 
 #. Key:	302FAF57459D2FD8A4C4948AE86C5F80
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.TextBlock_82.Text
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.TextBlock_82.Text
 msgctxt ",302FAF57459D2FD8A4C4948AE86C5F80"
 msgid "Item List"
-msgstr ""
+msgstr "Список предметов"
 
 #. Key:	305561F64F72790B2AC0F98DE4C07A4E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.HalloweenEvent.FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381(1).FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381
@@ -1418,7 +1418,7 @@ msgstr "Открытые виды растений"
 #: /Game/UI/Credits/DT_Credits.DT_Credits.credit_6.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 msgctxt ",314235E34B3DB3781A89158D5E1D8716"
 msgid "Russian Translation"
-msgstr ""
+msgstr "Перевод на русский язык"
 
 #. Key:	315DA5F5460355A0C90F5099D7BDAED0
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
@@ -1446,21 +1446,21 @@ msgstr "Чёрное дерево"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_290.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",3307D4C04520F9767E18F5969EA79B55"
 msgid "Watermelon Seed"
-msgstr ""
+msgstr "Семена арбуза"
 
 #. Key:	331F25574865EBD4C7EB7E9883BBB162
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_276.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_276.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",331F25574865EBD4C7EB7E9883BBB162"
 msgid "Musa Velutina"
-msgstr ""
+msgstr "Банан бархатный"
 
 #. Key:	335F52A646542A442561F4AD02A8116B
 #. SourceLocation:	/Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_292.Text
 #: /Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_292.Text
 msgctxt ",335F52A646542A442561F4AD02A8116B"
 msgid "Disclaimer"
-msgstr ""
+msgstr "Отказ от ответственности"
 
 #. Key:	3376EFA94A14E50743A9FBA90AAA396C
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
@@ -1544,7 +1544,7 @@ msgstr "Язык:"
 #: /Game/UI/Widget_Workbench.Widget_Workbench_C:WidgetTree.TextBlock_54.Text
 msgctxt ",35B9D760414E8ED438F31F8EF0F1313C"
 msgid "Crafting Menu"
-msgstr ""
+msgstr "Меню создания предметов"
 
 #. Key:	35F1665E4316E86275429DBA1D2FE0FA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_260.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -1572,7 +1572,7 @@ msgstr "Розовые полоски"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_20.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",370631EE4747E2A9CA40538C52A46331"
 msgid "Stars Peach Floor"
-msgstr ""
+msgstr "Персиковые звёздочки"
 
 #. Key:	371772304FF9570C18380CBBBB1AE6AA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_11.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -1593,7 +1593,7 @@ msgstr "Маленькая фигурка мумии, светящаяся в т
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_277.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",379A01254CBC064928252390EA278905"
 msgid "Fucshia Petals"
-msgstr ""
+msgstr "Лепестки фуксии"
 
 #. Key:	37A537A94B99DA7E46436C8ED6A1E5FA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_39.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -1642,7 +1642,7 @@ msgstr "Звук"
 #: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
 msgctxt ",38D8B46A4411EE84EADADBAA2BCE35A7"
 msgid "Use a Hatchet to chop down the tree."
-msgstr ""
+msgstr "Чтобы срубить дерево, используйте топор"
 
 #. Key:	3A5B3F38476FFFA4CEB04CBD430D344D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_053.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -1677,7 +1677,7 @@ msgstr "Страшный и ужасный фестиваль"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_188.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",3B8F6568493A52AE3619B28887ADEC33"
 msgid "Made of stone, low durability. Use it for tilling the soil."
-msgstr "Низкопрочная каменная мотыга. Используется для обработки почвы."
+msgstr "Каменная мотыга. Имеет низкую прочность. Используется для обработки почвы."
 
 #. Key:	3C15624F4CD63BA64ED2A982018E52E4
 #. SourceLocation:	/Game/UI/Widget_NewdayScreeen.Widget_NewdayScreeen_C:WidgetTree.DayText.Text
@@ -1712,7 +1712,7 @@ msgstr "Зимняя ярмарка"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_217.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",3D2DBB3D46AF6E10152DCE90144B2D1E"
 msgid "Fresh fragrance reminiscent of sea foam with a pungent smell."
-msgstr ""
+msgstr "Свежий, но едкий аромат морской пены."
 
 #. Key:	3D844A9F476B8E52293A09B25EF2D18A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_232.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1761,7 +1761,7 @@ msgstr "Привет, алхимик!\r\n\r\nЯ хотел поблагодар�
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_villageShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",3F43ABCB4054AC77F408D4B59EDD9EC6"
 msgid "In the village you will find some shops where you can buy all kinds of products.\r\n\r\nSeeds, clothes, tools and even furniture!"
-msgstr ""
+msgstr "В городке вы найдёте несколько магазинов, в которых можно приобрести разнообразные товары.\r\n\r\nСемена, одежду, инструменты и даже мебель!"
 
 #. Key:	3F565C4C4872636BA42565BEEFDB8F61
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
@@ -1789,7 +1789,7 @@ msgstr "Нажмите [{ToggleGrid}], чтобы включить или отк
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:UpdateKnownRecipe [Script Bytecode]
 msgctxt ",3FC5398247B8FCC02E7784B190F4AC14"
 msgid "Recipe Not Valid"
-msgstr ""
+msgstr "Неправильный рецепт"
 
 #. Key:	3FECFB474EE05F124DF5C7BC14D4C5AC
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_239.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1817,7 +1817,7 @@ msgstr "компонент"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_296.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",402A774F49C6A63686E878A8496B05A8"
 msgid "Spores that contains a Green Amanita, it can be grown in your garden."
-msgstr ""
+msgstr "Споры зелёного мухомора. Можно посадить в саду."
 
 #. Key:	40385F524AFBC893932A679C064C6A89
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Patchy.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(4).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -1838,14 +1838,14 @@ msgstr "Растение с ароматом лимона, которое час
 #: /Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.CatTop_1.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 msgctxt ",4067F53A4CF55113A6318B8691BB79D9"
 msgid "Gat I"
-msgstr ""
+msgstr "Кат I"
 
 #. Key:	4081B7094AECFF9CADFFA6BD220EE8C4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_283.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_283.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",4081B7094AECFF9CADFFA6BD220EE8C4"
 msgid "Mushroom with relaxing properties, it is usually seen in the swamps from spring."
-msgstr ""
+msgstr "Расслабляющий грибочек. Его можно найти на болотах по весне."
 
 #. Key:	4087939D40D8FE12F7C30AA2FDE4D8C9
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Skirt_1.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -1880,7 +1880,7 @@ msgstr "Семена пурпурного хоботка"
 #: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
 msgctxt ",41A87DFD4E6CD8AEB875B8ABD36E0085"
 msgid "Recipe Failed"
-msgstr ""
+msgstr "Готовка не удалась"
 
 #. Key:	41FD7E734968CCB92D8CBF8D476BA3BE
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Patchy.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
@@ -1908,7 +1908,7 @@ msgstr "Закончить день"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_278.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",430F7F6A40C9C929D6ECCDB0E526C695"
 msgid "A red mushroom that appears in the woods from autumn. It has healing properties."
-msgstr ""
+msgstr "Красный гриб, который по осени появляется в лесах. Обладает целебными свойствами."
 
 #. Key:	43169B1F43D9F20C313F8E90A8C0B262
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_15.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -1922,14 +1922,14 @@ msgstr "Чёрный"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_shopTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",4366CC0E42D8BCB22878409AF7FDCCD0"
 msgid "At these tables you can place your products for sale. You can sell potions, plants and minerals.\r\n\r\nAt the moment, you only have a table but later you can buy more tables to expand your offer."
-msgstr ""
+msgstr "На прилавке вы можете выставлять свои товары на продажу. Вы можете продавать зелья, растения и полезные ископаемые.\r\n\r\nСейчас у вас есть только прилавок, но позже вы сможете купить дополнительные столы и витрины."
 
 #. Key:	43EE49E847296B2BAE3DEE82BF33291E
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:WidgetTree.DayText.Text
 #: /Game/UI/Widget_Game.Widget_Game_C:WidgetTree.DayText.Text
 msgctxt ",43EE49E847296B2BAE3DEE82BF33291E"
 msgid "Monday, 1"
-msgstr ""
+msgstr "1, Понедельник"
 
 #. Key:	445DFC3C47131ECF3AF8E1AB6128FA50
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_062.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -1950,7 +1950,7 @@ msgstr "Возможно, я помешалась, но ещё не было д�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_305.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",452211934AD10FA683C3DD8135D4FF32"
 msgid "Crocosmia Seed"
-msgstr ""
+msgstr "Семена крокосмии"
 
 #. Key:	4538D5674D8C22B1BAC79B99D2991EA3
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_171.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1964,21 +1964,21 @@ msgstr "Семена эхинацеи. Чтобы растение выросл�
 #: /Game/UI/MainMenu/OptionModules/Widget_FPSModule.Widget_FPSModule_C:WidgetTree.TextBlock_74.Text
 msgctxt ",45A94DC54850CE3E85343893043890C6"
 msgid "Limit FPS:"
-msgstr ""
+msgstr "Ограничение FPS:"
 
 #. Key:	4616B290438DDCD010DD66AABD634F0E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",4616B290438DDCD010DD66AABD634F0E"
 msgid "Stars Black Floor"
-msgstr ""
+msgstr "Черные звёздочки"
 
 #. Key:	470C10104A2ADAAEB167A3A4FE9A0D33
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",470C10104A2ADAAEB167A3A4FE9A0D33"
 msgid "Apply this potion to a plant for gather x2"
-msgstr ""
+msgstr "Примените это зелье к растению, чтобы удвоить урожай"
 
 #. Key:	472AF37E44CF015A55FB1DAB0407D338
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_052.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2034,7 +2034,7 @@ msgstr "Кориандр"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_301.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",499D58F8430682A43E6AA39271903DAC"
 msgid "Green Trumpet Spores"
-msgstr ""
+msgstr "Споры зелёной лисички"
 
 #. Key:	49D6B8BA4E6A3113F7A90784147C89B7
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_243.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2069,7 +2069,7 @@ msgstr "Железная руда"
 #: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
 msgctxt ",4B3A0FF74BC6F3B348FFB3A937E9D0A3"
 msgid "Ends on {dayName} {dayNumber}, {month}."
-msgstr ""
+msgstr "Заканчивается в {dayName} ({month}, {dayNumber})"
 
 #. Key:	4BDCF1F140DF23F6EFB6768AACEC2DA3
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_135.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -2097,7 +2097,7 @@ msgstr "Моя работа — это моя страсть. И тишина и
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_294.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",4BE6F8D948E739C9C0EEF299296A89C6"
 msgid "Spores that contains an Amanita, it can be grown in your garden."
-msgstr ""
+msgstr "Споры мухомора. Можно посадить в саду."
 
 #. Key:	4BEA2E5749AACEDB2FE434A7D5CBA1E1
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.WinterFestival.FirstDialog_30_243B85D042D5FA5C14C391832F631188(3).FirstDialog_30_243B85D042D5FA5C14C391832F631188
@@ -2118,7 +2118,7 @@ msgstr "Качество графики:"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_187.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",4C1D45544867EDAC735D8382AF1F64AD"
 msgid "Made of iron with high durability. Use it to gather minerals."
-msgstr ""
+msgstr "Железная кирка. Имеет высокую прочность. Используется для добычи камней и минералов."
 
 #. Key:	4C86E7764CB1B81199E93BB617A4F3BD
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_16.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -2174,7 +2174,7 @@ msgstr "Наверное, тебя удивляет, что имея столь 
 #: /Game/UI/Credits/DT_Credits.DT_Credits.credit_2.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 msgctxt ",4E3C61C941AC20391ED63BB838D7D844"
 msgid "Concept Art"
-msgstr ""
+msgstr "Концепт-арт"
 
 #. Key:	4E46E9A74CC10D9136E87491AB7AC083
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:WidgetTree.QuestDescriptionText.Text
@@ -2230,14 +2230,14 @@ msgstr "Разнообразие ассортимента"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_289.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",4F89F92C43E7FF2E02D518B19FD8D3EF"
 msgid "Watermelon"
-msgstr ""
+msgstr "Арбуз"
 
 #. Key:	4F8A45174B2BC9C70F06B3951780C443
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_3.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_3.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",4F8A45174B2BC9C70F06B3951780C443"
 msgid "Stone Wall"
-msgstr ""
+msgstr "Каменная стена"
 
 #. Key:	4F9420504A488FB3107823B01A8BC8A1
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_019.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -2279,14 +2279,14 @@ msgstr "Компоненты:"
 #: /Game/UI/Credits/Widget_GameCredits.Widget_GameCredits_C:WidgetTree.TextBlock_108.Text
 msgctxt ",50106D7144FAD2AABEE011852DFE805A"
 msgid "A Game Created By"
-msgstr ""
+msgstr "Игру разработали"
 
 #. Key:	50A06AB240C3683A281812BEED5C871F
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_room.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_room.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",50A06AB240C3683A281812BEED5C871F"
 msgid "Home, Sweet Home"
-msgstr ""
+msgstr "Дом, милый дом"
 
 #. Key:	50AC7D0448A74DDA5A9B1F9540F13972
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_258.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2307,14 +2307,14 @@ msgstr "Дерево"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_308.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",50C8A6C445BBB96160B5C78D00FF401D"
 msgid "Seed that contains a Fuchsia plant."
-msgstr ""
+msgstr "Семена фуксии"
 
 #. Key:	510AE39B41E300D6FB25A39A1EE63EE4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_284.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_284.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",510AE39B41E300D6FB25A39A1EE63EE4"
 msgid "Strange mushroom with a tubular shape, it has stimulating properties. May be seen in swamps from spring to summer."
-msgstr ""
+msgstr "Непростой гриб трубчатой формы. Имеет стимулирующие свойства. Растёт на болотах весной и летом."
 
 #. Key:	51402C4948FDD150DC0FEFBCFCF883F4
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Nomad_Top_2.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -2335,7 +2335,7 @@ msgstr "Золото: {amount}"
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.TextBlock_2.Text
 msgctxt ",51B23E2F4BBFB97EE9607CA74D610C37"
 msgid "Recipe List"
-msgstr ""
+msgstr "Список рецептов"
 
 #. Key:	51BC063041CDA35F3C02A4998AFC9D3D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_030.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2377,7 +2377,7 @@ msgstr "Дерево с камнем"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_272.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",53C01F3E4960058B754D858298FD1C5C"
 msgid "Bromelia Petals"
-msgstr ""
+msgstr "Лепестки бромелии"
 
 #. Key:	53CD0D9A4AE9333789DB6082C52B3862
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_41.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -2391,7 +2391,7 @@ msgstr "Мистика и солнце"
 #: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:WidgetTree.TextBlock_78.Text
 msgctxt ",53EE2D59458575E0FBA356AAD7367766"
 msgid "Send a Bug Report"
-msgstr ""
+msgstr "Сообщить об ошибке"
 
 #. Key:	53FE677548DAD302F63D7B95E995943F
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_162.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -2419,7 +2419,7 @@ msgstr "{yearnNumber} год"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_284.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",54960A764856AA22CED1E7919F1392EE"
 msgid "Blue Trumpet"
-msgstr ""
+msgstr "Синяя лисичка"
 
 #. Key:	5496C5E84364638DE6EA42B37C4B7323
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(5 - Value).DisplayNameMap
@@ -2538,7 +2538,7 @@ msgstr "Выбрать семена"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_279.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",592F7B2F4B7629A7F927C3A9DD59FABA"
 msgid "Purple Amanita"
-msgstr ""
+msgstr "Фиолетовый мухомор"
 
 #. Key:	594873A144EADE721869D38541E4F54E
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:WidgetTree.TextBlock_4.Text
@@ -2636,7 +2636,7 @@ msgstr "Зелье исцеления"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_186.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",5D4FE9674EC9F7CB4DD407A0FC111FCF"
 msgid "Made of copper with medium durability. Use it to gather minerals."
-msgstr ""
+msgstr "Медная кирка. Имеет среднюю прочность. Используется для добычи камней и минералов."
 
 #. Key:	5D826FBC4C97132EBDF810BAC1770875
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
@@ -2664,7 +2664,7 @@ msgstr "Зелёный светильник Джека"
 #: /Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.CatTop_3.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 msgctxt ",5E155E2447B32FE0A8E97AB3D722063E"
 msgid "Gat III"
-msgstr ""
+msgstr "Кат III"
 
 #. Key:	5E174FC94C8DB149DE170AAC1CE73543
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
@@ -2713,7 +2713,7 @@ msgstr "Приветствую тебя, алхимик! Добро пожало
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.PotionNameText_1.Text
 msgctxt ",600CD89F4091BF502364B5A0F4F70444"
 msgid "Base Price"
-msgstr ""
+msgstr "Базовая стоимость"
 
 #. Key:	605E6A0C4CD3D1794802AC90E63047F1
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_178.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -2755,7 +2755,7 @@ msgstr "Зелье остолбенения"
 #: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
 msgctxt ",613CE3714C0C1BD24E8EAF8CED011A28"
 msgid "{retrieverName} needs you to bring him the following items before the deadline.  "
-msgstr ""
+msgstr "{retrieverName} ждёт от вас, что вы успеете вовремя принести ему следующие предметы: "
 
 #. Key:	6180F1C948B9F64EDE7E37B52EE805B8
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_PlayerHouse.BP_PlayerHouse_C:ExecuteUbergraph_BP_PlayerHouse [Script Bytecode]
@@ -2790,7 +2790,7 @@ msgstr "Семена раффлезии"
 #: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
 msgctxt ",628338D24C21755A80F427B5EA8233B0"
 msgid "Close your shop before going to sleep."
-msgstr ""
+msgstr "Прежде чем пойти спать, закройте свой магазин."
 
 #. Key:	629B8DBE4983CE1E88578498C54D04EE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_17.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -2825,14 +2825,14 @@ msgstr "Шкаф с выдвижными ящиками. Храните в нё�
 #: /Game/Blueprints/Actors/ModularShop/Widget_ObjectList.Widget_ObjectList_C:WidgetTree.TextBlock.Text
 msgctxt ",633B6ABF4788E8699CA472AFABDD802C"
 msgid "Sales today: "
-msgstr "Продано сегодня:"
+msgstr "Оборот за сегодня: "
 
 #. Key:	6359ADA24F8B867C6B3075BF4B341C88
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:WidgetTree.TextBlock.Text
 #: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:WidgetTree.TextBlock.Text
 msgctxt ",6359ADA24F8B867C6B3075BF4B341C88"
 msgid "You will recieve: "
-msgstr "Вы получите:"
+msgstr "Вы получите: "
 
 #. Key:	63C1B20F475269D7F4C2D7954DC4D21E
 #. SourceLocation:	/Game/UI/Widget_LandPrice.Widget_LandPrice_C:WidgetTree.TextBlock.Text
@@ -2846,7 +2846,7 @@ msgstr "Участок"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_285.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",63DEB5D6459150D6C7AB49835C4DC64B"
 msgid "Green Trumpet"
-msgstr ""
+msgstr "Зелёная лисичка"
 
 #. Key:	646B9A64455CDA704BA2208D143BBC59
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_009.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2895,7 +2895,7 @@ msgstr "Название растения"
 #: /Game/Blueprints/Actors/CharacterCreation/Widget_ClothSeller.Widget_ClothSeller_C:WidgetTree.TextBlock_0.Text
 msgctxt ",65E68746408ABD1BE8385B8B33E85C0E"
 msgid "Clothing Vendor"
-msgstr ""
+msgstr "Продавец одежды"
 
 #. Key:	661E28ED495992490ADE6EA0A2E001EF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_1.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -2909,7 +2909,7 @@ msgstr "Дерево"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_280.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",66586BCC49C0F8FE8AEF2CB444EEF92C"
 msgid "A green mushroom that appears in the woods from spring. It has a sweet and fresh aroma."
-msgstr ""
+msgstr "Зелёный грибочек, появляющийся в лесу по весне. Пахнет сладко и свежо."
 
 #. Key:	66BAB612427599CEE9A7578D489A196A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_117.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2937,7 +2937,7 @@ msgstr "Штаны бродяги III"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_305.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",67C3639F4C3D5A47D7F6CDA95A2D8545"
 msgid "Seed that contains a Crocosmia plant."
-msgstr ""
+msgstr "Семена крокосмии"
 
 #. Key:	67DDE9A343BBC1D62BD40DBF42A699A8
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_083.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2972,14 +2972,14 @@ msgstr "Базовый компонент для создания предмет
 #: /Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:ExecuteUbergraph_Widget_Mailbox_Message [Script Bytecode]
 msgctxt ",69A8F5AB4B690487D05AC4837AA5D37D"
 msgid "Remove Message"
-msgstr ""
+msgstr "Удалить письмо"
 
 #. Key:	69F6F30044084F6CAE6B1FA1BCAA7581
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Boots_01.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 #: /Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Boots_01.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 msgctxt ",69F6F30044084F6CAE6B1FA1BCAA7581"
 msgid "Basic Boots"
-msgstr ""
+msgstr "Обычные сапоги"
 
 #. Key:	6A04064644FC2D7317EFBD834A030A83
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(0 - Value).DisplayNameMap
@@ -2993,7 +2993,7 @@ msgstr "Семена"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_287.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",6A41438F44D62335F8AE1B886998DB80"
 msgid "Strawberry"
-msgstr ""
+msgstr "Клубника"
 
 #. Key:	6A6333954C0D565BC9C9B09B43B64798
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
@@ -3028,7 +3028,7 @@ msgstr "Найдите все блуждающие огоньки в город�
 #: /Game/UI/Widget_AmountSelector.Widget_AmountSelector_C:WidgetTree.Description.Text
 msgctxt ",6AA7EACD4B073E09E27625B9816CF53F"
 msgid "Select Amount"
-msgstr ""
+msgstr "Укажите количество"
 
 #. Key:	6AF2BBCD4C35CC55682816AA0722CC75
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(2 - Value).DisplayNameMap
@@ -3056,7 +3056,7 @@ msgstr "Отпив этого зелья, вы сладко уснёте."
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_262.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",6C6A46BE4C7ECDE1CFC6F0A0407058AD"
 msgid "Potion that restores 35 energy points."
-msgstr ""
+msgstr "Зелье, восстанавливающее 35 единиц энергии"
 
 #. Key:	6C78F1014E291E1D50F898B02794A8C5
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_148.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -3070,14 +3070,14 @@ msgstr "Семена лобелии пурпурной. Чтобы растен�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_295.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",6CCC69E343543B9BD77FAD8F14AF9D1E"
 msgid "Spores that contains a Purple Amanita, it can be grown in your garden."
-msgstr ""
+msgstr "Споры фиолетового мухомора. Можно посадить в саду."
 
 #. Key:	6F2A7F974331936AFBD4F088307D82BE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_268.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_268.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",6F2A7F974331936AFBD4F088307D82BE"
 msgid "Potion that increases your speed for 10 minutes"
-msgstr ""
+msgstr "Зелье, повышающее вашу скорость на 10 минут"
 
 #. Key:	6F30E5994FB3DC58ADAB5B95095AD5A4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_19.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -3133,14 +3133,14 @@ msgstr "В этот день нет событий."
 #: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
 msgctxt ",712249FB4A83E38983597CAA0D3126DF"
 msgid "Do you want to buy the Swamp House for {amount} gold?"
-msgstr ""
+msgstr "Хотите приобрести дом на болоте за {amount} золотых?"
 
 #. Key:	71544F40467F9772AF9CBD85EA3ABD48
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_273.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_273.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",71544F40467F9772AF9CBD85EA3ABD48"
 msgid "Plant with a strange name, can be seen in swampy areas. It has stimulating properties."
-msgstr ""
+msgstr "Растение со странным названием. Его можно найти на болотах. Обладает стимулирующими свойствами."
 
 #. Key:	717904624221BF2F8E7214910845AF27
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
@@ -3161,14 +3161,14 @@ msgstr "Прихоть феи"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_exploration.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",71B4DE5A4CECF51D745FD8A7C1B80B22"
 msgid "Go explore!"
-msgstr ""
+msgstr "На встречу неизведанному!"
 
 #. Key:	71DEEC4A44B5C3329C45239550D2A274
 #. SourceLocation:	/Game/UI/Widget_Inventory.Widget_Inventory_C:WidgetTree.TextBlock.Text
 #: /Game/UI/Widget_Inventory.Widget_Inventory_C:WidgetTree.TextBlock.Text
 msgctxt ",71DEEC4A44B5C3329C45239550D2A274"
 msgid "Item Menu"
-msgstr ""
+msgstr "Инвентарь"
 
 #. Key:	722FBD344FFC219F047FF8A9A307947D
 #. SourceLocation:	/Game/UI/Widget_ShopItemSlot.Widget_ShopItemSlot_C:OnDrop [Script Bytecode]
@@ -3238,7 +3238,7 @@ msgstr "Зелье маны"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_099.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",74DD7C674E14287DC8082CA595DFF586"
 msgid "Potion that restores vitality."
-msgstr ""
+msgstr "Зелье, восстанавливающее здоровье."
 
 #. Key:	757976D54BAD81A8CDFEA7A648A2468E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_2.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -3329,14 +3329,14 @@ msgstr "Дождливое утро"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",77AC92B1457F991EB84E5D83E934FEF8"
 msgid "Stars Blue Wall"
-msgstr ""
+msgstr "Синие звёздочки"
 
 #. Key:	77B21D6E4BF349FF715AECAFC6CFC0EA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_304.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_304.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",77B21D6E4BF349FF715AECAFC6CFC0EA"
 msgid "Brugmansia Seed"
-msgstr ""
+msgstr "Семена бругмансии"
 
 #. Key:	77BF3E004026E79EB6D2B5BE1E933514
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_ScreenTypeMod.Widget_ScreenTypeMod_C:WidgetTree.TextBlock_2.Text
@@ -3357,7 +3357,7 @@ msgstr "Остальным детям больше нравилось делат
 #: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
 msgctxt ",78569458453E25BD2E6E15B77166086B"
 msgid "Finsh Day"
-msgstr ""
+msgstr "Рыбный день"
 
 #. Key:	7883D1734E6EA47EA5F52EBF0AEC3273
 #. SourceLocation:	/Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:WidgetTree.TextBlock_4.Text
@@ -3392,7 +3392,7 @@ msgstr "Кремовый"
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",7A1B124348B2EF4D009B18922F52D0B6"
 msgid "Aromatic"
-msgstr ""
+msgstr "Ароматный"
 
 #. Key:	7A99A96E4FE736388A47C4826AE481C0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_132.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3469,7 +3469,7 @@ msgstr "Рубашка выпускника II"
 #: /Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.CatTop_4.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 msgctxt ",7EDC8B5E4DCC54CFB9993096D46C65E7"
 msgid "Gat IV"
-msgstr ""
+msgstr "Кат IV"
 
 #. Key:	7EFE0FCF456DE7808E44F78EA0B8E0EE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_5.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -3490,7 +3490,7 @@ msgstr "Семена золотой ромашки. Чтобы растение 
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_garden.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",7FD0F74A4ED4B9B9A5C5AE9CD647D0EF"
 msgid "Your Own Garden"
-msgstr ""
+msgstr "Ваш собственный сад"
 
 #. Key:	804CF5444B60A246E8AC219A2F7B146B
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_102.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -3560,7 +3560,7 @@ msgstr "Зажмите \"{interact}\", чтобы сорвать."
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_291.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",825F0EC54DAF46B3A9DCC5A5E6F1AA23"
 msgid "Cylindrical exotic fruit with yellow pulp, eating it recovers 10 energy points"
-msgstr ""
+msgstr "Цилиндрический фрукт с жёлтой мякотью. Съешьте его, чтобы восстановить 10 единиц энергии."
 
 #. Key:	8294341440E028B0DB0B6B8C86CC4AAB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_059.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3637,7 +3637,7 @@ msgstr "Алхимик-аптекарь"
 #: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
 msgctxt ",844394C34E4FBF3355F26981BECD8345"
 msgid "Do you want save your progress and end the day? "
-msgstr ""
+msgstr "Сохранить прогресс и закончить день?"
 
 #. Key:	847C83B74D2562272B69A39CEEDB0351
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6(0).Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -3686,7 +3686,7 @@ msgstr "Штакетник"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_openShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",855B670F4733F6664EDB359E2DF31521"
 msgid "Touch the bell to open your shop, from that moment on all kinds of customers will enter your establishment.\r\n\r\nSome of them will find what they are looking for in the counters, however, others will make special requests.\r\n\r\nYou can close and open your shop at any time, but keep in mind that you will not be able to leave home while you have the shop open.\r\n\r\nGood luck!"
-msgstr ""
+msgstr "Позвоните в колокольчик, чтобы открыть ваш магазин для посетителей.\r\n\r\nКто-то найдёт что-то интересное для себя на ваших прилавках, а кто-то и захочет заказать у вас нечто особенное.\r\n\r\nМагазин можно открывать и закрывать в любое время, но учтите, что пока магазин открыт, вы не можете покидать дом или спать.\r\n\r\nУдачи!"
 
 #. Key:	8643BC15496E2A989C7202AA5E7C2031
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:WidgetTree.SubjectText.Text
@@ -3721,7 +3721,7 @@ msgstr "Семена подснежника"
 #: /Game/UI/Botanical/Widget_JournalPlantDetails.Widget_JournalPlantDetails_C:WidgetTree.NotDiscoveredPlant.Text
 msgctxt ",86FCB88947E5B9663D18DB9431196379"
 msgid "Plant not discovered."
-msgstr ""
+msgstr "Неизвестное растение"
 
 #. Key:	87181BBB4097AE200C051ABAA5522FFC
 #. SourceLocation:	/Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:WidgetTree.TextBlock_2.Text
@@ -3784,7 +3784,7 @@ msgstr "Семена пурпурного хоботка. Чтобы расте�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_300.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",897123384EF56077F7F33684CAFF87E5"
 msgid "Blue Trumpet Spores"
-msgstr ""
+msgstr "Споры синей лисички"
 
 #. Key:	8A5232E7491BC71EF1272EA56781C9A9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.HalloweenEvent.FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381(0).FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381
@@ -3833,14 +3833,14 @@ msgstr "Персиковый"
 #: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
 msgctxt ",8BBFD11841E2E09FE874D19A64D580B6"
 msgid "Congratulations, you are now the owner of The Swamp House!"
-msgstr ""
+msgstr "Поздравляем, вы приобрели дом на болоте!"
 
 #. Key:	8BFAD954463E8461A62BFCA936538C5D
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_ClothesSelector.Widget_ClothesSelector_C:WidgetTree.TextBlock_3.Text
 #: /Game/Blueprints/Actors/CharacterCreation/Widget_ClothesSelector.Widget_ClothesSelector_C:WidgetTree.TextBlock_3.Text
 msgctxt ",8BFAD954463E8461A62BFCA936538C5D"
 msgid "Boots"
-msgstr ""
+msgstr "Сапоги"
 
 #. Key:	8CCCE97D4B1F10401A7F36B846154E66
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.EditableTextBox_112.HintText
@@ -3854,14 +3854,14 @@ msgstr "Ваше имя"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_19.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",8D1440C04E924B3D26647DB5952DDD0A"
 msgid "Stars Green Floor"
-msgstr ""
+msgstr "Зелёные звёздочки"
 
 #. Key:	8D287D4042946A340FA2B3A3DC0557CF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_308.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_308.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",8D287D4042946A340FA2B3A3DC0557CF"
 msgid "Fuchsia Seed"
-msgstr ""
+msgstr "Семена фуксии"
 
 #. Key:	8D33250E4F68DF7B8A93788BA895FFD9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_108.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -3945,7 +3945,7 @@ msgstr "Этот участок земли стоит {price} золотых м�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_264.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",8FB51C224CA6B180592B7893E0407D2E"
 msgid "Seed Multiplicator Potion"
-msgstr ""
+msgstr "Зелье плодородия"
 
 #. Key:	8FE265E044B829B4B82FFF865CB6DF3F
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_11.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -3959,14 +3959,14 @@ msgstr "Повернуть мебель"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_18.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",906BF58248D49B45796089AA97E2DC40"
 msgid "Stars Black Wall"
-msgstr ""
+msgstr "Чёрные звёздочки"
 
 #. Key:	90B90C8C40DE9193F2B45DA554DF0F71
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",90B90C8C40DE9193F2B45DA554DF0F71"
 msgid "Stars Purple Floor"
-msgstr ""
+msgstr "Фиолетовые звёздочки"
 
 #. Key:	90BAB393427DD672EBD8F68FCDC5E451
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_193.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -3987,7 +3987,7 @@ msgstr "Надеюсь, вам это пригодится."
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_247.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",911E26164B9D61BDBF23348B51A7E9E0"
 msgid "A wooden planter, plant your seeds both indoors and outdoors."
-msgstr ""
+msgstr "Деревянный горшок. В него можно посадить растение как на улице, так и у себя дома."
 
 #. Key:	91AE888A435EF01FC32D549CEDBE7C08
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 - Value).DisplayNameMap
@@ -4008,7 +4008,7 @@ msgstr "Маленькая мумия I"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_alchemyTable.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",91DC904A49A720C5482D2B8E42F00FE9"
 msgid "Alchemy Table"
-msgstr ""
+msgstr "Алхимический стол"
 
 #. Key:	91E3F2AE4EFA1A6247FCE6971191663F
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_163.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4029,7 +4029,7 @@ msgstr "Вся моя семья занималась парикмахерски
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_mine.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",92776E66459A0FDDEDAD2AAF66193898"
 msgid "Here you can find some minerals every day.\r\n\r\nWith minerals, you can't make potions, but you can sell them to earn some money, or use them to make objects.\r\n\r\nUse the Pickaxe to extract them!"
-msgstr ""
+msgstr "Здесь вы каждый день можете найти какие-нибудь новые минералы.\r\n\r\nМинералы можно использовать при изготовлении зелий и некоторых предметов, или просто продать.\r\n\r\nДля добычи минералов используйте кирку."
 
 #. Key:	9287967E4689937F264DD1A2584EB78E
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(6 - Value).DisplayNameMap
@@ -4057,7 +4057,7 @@ msgstr "декор"
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.NoPlantsText.Text
 msgctxt ",92DB1DAC4C9BA35CC6B0FE94BF687B00"
 msgid "You don't have any components in your inventory"
-msgstr ""
+msgstr "У вас в инвентаре нет ингредиентов"
 
 #. Key:	92E3165A4FC51E3FF2A59082F8474383
 #. SourceLocation:	/Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:WidgetTree.UseText.Text
@@ -4106,7 +4106,7 @@ msgstr "Чт"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",94B58AB94DD403E639C5E983FF76C452"
 msgid "Plant Multiplicator"
-msgstr ""
+msgstr "Усилитель плодородности"
 
 #. Key:	94CBCBB6466C7012D337BC8832A6D2E6
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock.Text
@@ -4176,7 +4176,7 @@ msgstr "Перестроить стены / отремонтировать"
 #: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
 msgctxt ",96CA03B040FA11FFD3EFDBB67900C6A1"
 msgid "I want to change my appearance"
-msgstr ""
+msgstr "Я хочу изменить свой внешний вид"
 
 #. Key:	970A49E745E333F5E7410187F7E7D151
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_243.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4204,7 +4204,7 @@ msgstr "Мистическая кофта IV"
 #: /Game/Blueprints/Actors/SeedExchange/Widget_SeedExchange.Widget_SeedExchange_C:WidgetTree.TextBlock_174.Text
 msgctxt ",975CA131464423C3C49031A7385AC551"
 msgid "Exchange your common seeds for exotic seeds."
-msgstr ""
+msgstr "Обменяйте свои обычные семена на экзотические."
 
 #. Key:	975EFFC6450A0660F35773B253C51CCB
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Classic_5.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -4253,28 +4253,28 @@ msgstr "Железный топор"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_307.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",98F2B4E4438026F3E3FB4E8988A8AF9F"
 msgid "Seed that contains a Musa Velutina plant."
-msgstr ""
+msgstr "Семена банана бархатного"
 
 #. Key:	993B2DD14783E361237BECA829EA876A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.UseText_31_2408F33E4DFC5CE5C17922A1B5C36B63
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.UseText_31_2408F33E4DFC5CE5C17922A1B5C36B63
 msgctxt ",993B2DD14783E361237BECA829EA876A"
 msgid "Apply to a plant"
-msgstr ""
+msgstr "Применить к растению"
 
 #. Key:	99CA22C6441928863A5089A096AD0619
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_302.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_302.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",99CA22C6441928863A5089A096AD0619"
 msgid "Spores that contains a Red Trumpet Mushroom, it can be grown in your garden."
-msgstr ""
+msgstr "Споры красной лисички. Можно посадить в саду."
 
 #. Key:	9A2020DD4116306918D415A20F5FDBBA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",9A2020DD4116306918D415A20F5FDBBA"
 msgid "Stars Red Wall"
-msgstr ""
+msgstr "Красные звёздочки"
 
 #. Key:	9B2D24424F9B730953ECE7A5107BB69B
 #. SourceLocation:	/Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:WidgetTree.Sell.Text
@@ -4323,21 +4323,21 @@ msgstr "И как только она его увидела, сразу сказ
 #: /Game/Blueprints/Actors/SeedExchange/Widget_SeedExchangeSlot.Widget_SeedExchangeSlot_C:WidgetTree.DragnDropText.Text
 msgctxt ",9C5F073B490872F3C186FD89683D66CA"
 msgid "Drag Seeds Here"
-msgstr ""
+msgstr "Перетащите семена сюда"
 
 #. Key:	9C6D16774758F99A58D44DBC890444FC
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_286.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_286.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",9C6D16774758F99A58D44DBC890444FC"
 msgid "Red Trumpet"
-msgstr ""
+msgstr "Красная лисичка"
 
 #. Key:	9C90042543EF80FF150CD384E15F0B4D
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_alchemyTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_alchemyTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",9C90042543EF80FF150CD384E15F0B4D"
 msgid "Use the alchemy table to create your own potions.\r\n\r\nTo do this you will need 3 types of plants, experiment with combinations to discover new recipes to offer your customers!"
-msgstr ""
+msgstr "Используйте алхимический стол, чтобы создавать свои собственные зелья.\r\n\r\n"
 
 #. Key:	9CE64A83441F4AC2FD8513AAD720E4FC
 #. SourceLocation:	/Game/UI/Botanical/Widget_JournalPlantDetails.Widget_JournalPlantDetails_C:WidgetTree.PlantSeason.Text
@@ -4372,28 +4372,28 @@ msgstr "Семена кипариса. Чтобы растение выросл�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_298.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",9D2DBD38410C92F863093BA86CACB18B"
 msgid "Black Nenhun Spores"
-msgstr ""
+msgstr "Споры чёрного ненхана"
 
 #. Key:	9D3ED7AE4A7A7D3B1FFE5D9B0C86AE9E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_281.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_281.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",9D3ED7AE4A7A7D3B1FFE5D9B0C86AE9E"
 msgid "Mushroom with relaxing properties, it is usually seen in the swamps from spring."
-msgstr ""
+msgstr "Гриб, обладающий расслабляющим действием. Обычно появляется на болотах по весне."
 
 #. Key:	9D546A4B41CBE4D153C3319405D95D49
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_285.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_285.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",9D546A4B41CBE4D153C3319405D95D49"
 msgid "Strange mushroom with a tubular shape, it has stimulating properties. May be seen in swamps from fall to winter."
-msgstr ""
+msgstr "Диковинный гриб трубчатой формы. Обладает стимулирующим действием. Его можно встретить на болотах осенью и зимой."
 
 #. Key:	9D7AA3A14A335AFA69B967AACC25A6AF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Minerals.DT_Minerals.Mineral_3.Name_64_A59486144BB3DF5F2A6851979EFBA7D2
 #: /Game/Blueprints/Datatables/DT_Minerals.DT_Minerals.Mineral_3.Name_64_A59486144BB3DF5F2A6851979EFBA7D2
 msgctxt ",9D7AA3A14A335AFA69B967AACC25A6AF"
 msgid "Copper Ore"
-msgstr ""
+msgstr "Медная руда"
 
 #. Key:	9D91F2EB4C4FFD3CCD883494E3FDFE4E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_180.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4421,7 +4421,7 @@ msgstr "Я не так давно переехала в Роузвуд. Я ис�
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.TextBlock_1.Text
 msgctxt ",9E516B12410D6A7AA770F6BA3A496B48"
 msgid "Brew Potion"
-msgstr ""
+msgstr "Сварить зелье"
 
 #. Key:	9F4625694AFFA9500B92A080EAD8DB18
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_185.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4449,14 +4449,14 @@ msgstr "Цветочки"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_5.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",9FA4FA5D43B0D1C3B2A6B8BEB08D77FF"
 msgid "Stone Floor"
-msgstr ""
+msgstr "Каменный пол"
 
 #. Key:	9FF5A14546FF8B6F8FABEDB058D8CB7C
 #. SourceLocation:	/Game/UI/Widget_Vendor.Widget_Vendor_C:WidgetTree.SeedText.Text
 #: /Game/UI/Widget_Vendor.Widget_Vendor_C:WidgetTree.SeedText.Text
 msgctxt ",9FF5A14546FF8B6F8FABEDB058D8CB7C"
 msgid "The stock of seeds is renewed weekly, come back on Monday for more seeds."
-msgstr ""
+msgstr "Ассортимент семян обновляется каждую неделю. Приходи в понедельник за новыми семенами."
 
 #. Key:	A013C8F848619869B074859A7A44D459
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
@@ -4561,7 +4561,7 @@ msgstr "Не суди книгу по обложке!"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_289.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",A476101C40366045F87E2D9582EE8E5D"
 msgid "Refreshing piece of watermelon, eating it recovers 8 energy points"
-msgstr ""
+msgstr "Освежающий кусочек арбуза. Съешьте его, чтобы восстановить 10 единиц энергии."
 
 #. Key:	A49993B642C94DC1285C388D46E7F141
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_093.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4617,7 +4617,7 @@ msgstr "Медный подвесной горшок"
 #: /Game/UI/Credits/DT_Credits.DT_Credits.credit_7.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 msgctxt ",A5D968CD49AC9AB9568408B41FD9A396"
 msgid "Beta Testing"
-msgstr ""
+msgstr "Бета-тест"
 
 #. Key:	A5DFFF064A3FA68251B1A69BAAC317FE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_254.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4659,7 +4659,7 @@ msgstr "Невысокий кустарник с ароматными белым
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_250.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",A75FCFDF4228837B46F63084514411BA"
 msgid "A wall copper planter, plant your seeds both indoors and outdoors."
-msgstr ""
+msgstr "Медный подвесной горшок. В него можно посадить растение как на улице, так и у себя дома."
 
 #. Key:	A7D28B3143D5A93017D1EA8B1CFD7CC4
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
@@ -4687,14 +4687,14 @@ msgstr "Золото"
 #: /Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.CatTop_5.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 msgctxt ",A879D0824CE6ABF0138791821C59A7F2"
 msgid "Gat V"
-msgstr ""
+msgstr "Кат V"
 
 #. Key:	A8EDC3A447924D093B9A619634790719
 #. SourceLocation:	/Game/UI/Widget_Vendor.Widget_Vendor_C:PopulateItemsFunction [Script Bytecode]
 #: /Game/UI/Widget_Vendor.Widget_Vendor_C:PopulateItemsFunction [Script Bytecode]
 msgctxt ",A8EDC3A447924D093B9A619634790719"
 msgid "Weekly Seeds"
-msgstr ""
+msgstr "Семена недели"
 
 #. Key:	A90C05A34E9F1F32DB3BB48262EC6FB1
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_078.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4736,7 +4736,7 @@ msgstr "Семена лобелии пурпурной"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_276.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",AAE35F354AB92F2006C520A97B18DFB0"
 msgid "Plant with large leaves with a pink center. It has relaxing properties."
-msgstr ""
+msgstr "Растение с большими листьями с розовыми прожилками. Обладает расслабляющим действием."
 
 #. Key:	AAFC1E2540B3153DECE5E1B818FACC27
 #. SourceLocation:	/Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:WidgetTree.CONTROLS_1.Text
@@ -4764,7 +4764,7 @@ msgstr "Название предмета"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_287.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",ABAF87F642A1A8FB5278889C580BCB0E"
 msgid "Juicy and sweet red fruit, eating it recovers 5 energy points"
-msgstr ""
+msgstr "Сочный и сладкий красный фрукт. Съешьте его, чтобы восстановить 10 единиц энергии."
 
 #. Key:	ABB37E6A46661AD0ACE6D08E2CB568B3
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_160.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4792,7 +4792,7 @@ msgstr "Уведомление"
 #: /Game/UI/MainMenu/Widget_GameMainMenu.Widget_GameMainMenu_C:WidgetTree.Widget_DiscordButton.ButtonName
 msgctxt ",AD0075764DDDAFDBD87958BB8684F34B"
 msgid "Community"
-msgstr ""
+msgstr "Сообщество"
 
 #. Key:	AD12763C47C93A7DC6D15F9357EC27BE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Seasons.DT_Seasons.Winter.SeasonName_32_5B98423D4AD9CEA8DB6FEE8CA1BA2A43
@@ -4813,7 +4813,7 @@ msgstr "Высокое экзотическое растение с крепки
 #: /Game/Blueprints/Actors/ShopSign/Widget_AlchemyNameSelector.Widget_AlchemyNameSelector_C:WidgetTree.ButtonText.Text
 msgctxt ",AD63E1824357E9B57E06969C2EEEAB24"
 msgid "CREATE SHOP"
-msgstr ""
+msgstr "СОЗДАТЬ МАГАЗИН"
 
 #. Key:	AD88408542EADEE2BF1839BE728F2868
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
@@ -4855,7 +4855,7 @@ msgstr "Починка: "
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_281.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",AF62CE0B4430AE4A7C25ED810B3415E6"
 msgid "Honey Nenhun"
-msgstr ""
+msgstr "Медовый ненхан"
 
 #. Key:	AF8075F34E2E37F95774BBB8D00A520D
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Hans.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -4946,7 +4946,7 @@ msgstr "Зелье, способное успокоить даже самого 
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_299.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",B131D24B4C3512982E80A7AB025011EB"
 msgid "Yolk Nenhun Spores"
-msgstr ""
+msgstr "Споры желточного ненхана"
 
 #. Key:	B13FE8674AF427ED5B755FB965CF9AD6
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:WidgetTree.TextBlock_91.Text
@@ -4967,7 +4967,7 @@ msgstr "Городское событие"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_villageShop.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",B1A9E81D4F71266F5D0DAC9C75345741"
 msgid "Village Shops"
-msgstr ""
+msgstr "Магазины нашего городка"
 
 #. Key:	B1D8BB6D4B75F2B19573E79325E20F7F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(4 - Value).DisplayNameMap
@@ -5023,7 +5023,7 @@ msgstr "Привет, алхимик!\r\n\r\nЯ хотел поблагодар�
 #: /Game/UI/Widget_Inventory.Widget_Inventory_C:WidgetTree.TextBlock_65.Text
 msgctxt ",B42690ED4BE0420E7B41029E48690659"
 msgid "Swap Items"
-msgstr ""
+msgstr "Поменять предметы местами"
 
 #. Key:	B471E45A4E29ACC85506D0BB20CD39C7
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_23.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -5037,7 +5037,7 @@ msgstr "Руны"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_272.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",B48BB91F4A7A8518FB2D68BAA73299D6"
 msgid "Red-colored plant with a thick stem, it has stimulating properties."
-msgstr ""
+msgstr "Красное растение с толстым стеблем. Обладает стимулирующим действием."
 
 #. Key:	B52511FC467D6576BFD634AD12DFA472
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Classic_3.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -5065,7 +5065,7 @@ msgstr "Семена дафны. Чтобы растение выросло, п�
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_28.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",B539F1CD409744E1B2F086983CF1FB30"
 msgid "Rose Wall"
-msgstr ""
+msgstr "Розовый"
 
 #. Key:	B5C05E384D5CDA12FC7534AAF20BD16C
 #. SourceLocation:	/Game/UI/Widget_Workbench.Widget_Workbench_C:WidgetTree.TextBlock_118.Text
@@ -5114,7 +5114,7 @@ msgstr "Добро пожаловать в Alchemy Garden!"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_292.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",B791462049AD2BE4C7FF518BADB240EC"
 msgid "Pineapple Seed"
-msgstr ""
+msgstr "Семена ананаса"
 
 #. Key:	B7A22A1F48D25DD6EAF53E8DE752A1B0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_248.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5184,7 +5184,7 @@ msgstr "Название рецепта"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_248.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",B96340F64B02CB52AEC0EA885C024D6C"
 msgid "A wall wooden planter, plant your seeds both indoors and outdoors."
-msgstr ""
+msgstr "Деревянный подвесной горшок. В него можно посадить растение как на улице, так и у себя дома."
 
 #. Key:	B963665342461009ABF89B85902D68E9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_065.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5198,7 +5198,7 @@ msgstr "Перечная мята"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_board.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",B98511934F5742BAD6F5CFA666B16496"
 msgid "From the signboard you can accept orders from the Rosewood Ville villagers.\r\n\r\nYou will have a few days to be able to deliver the order, and if you deliver it in time you will be rewarded.\r\n\r\nMaking orders is another valid way of earning money apart from selling the products in the store.\r\n\r\nThe orders appear occasionally and may vary over time. Do not forget to go from time to time to check if there are new orders!"
-msgstr ""
+msgstr "На доске объявлений жители Роузвуда размещают свои заказы на те или иные предметы.\r\n\r\nВы можете принять такой заказ, и если вы выполните его вовремя, доставив нужные предметы заказчику, то получите вознаграждение.\r\n\r\nВыполнение заказов - неплохой источник дохода.\r\n\r\nВремя от времени на доске появляются новые объявления, так что не забывайте иногда поглядывать на доску!"
 
 #. Key:	B98C045646EC6281C9AC3FBFB1BD2FC8
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_230.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5240,7 +5240,7 @@ msgstr "Человек, выпивший это зелье, влюбится в 
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_openShop.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",BADD049D4C325828631EDFAA1DA27799"
 msgid "Open your shop!"
-msgstr ""
+msgstr "Откройте свой магазин!"
 
 #. Key:	BB2A322049C413AA381CD58D1C17CFBA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_6.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -5268,7 +5268,7 @@ msgstr "Вишнёвое дерево"
 #: /Game/UI/MainMenu/Widget_GameMainMenu.Widget_GameMainMenu_C:WidgetTree.Widget_StartGameButton.ButtonName
 msgctxt ",BBC1E3914C1063547C98B0BCE6CF2656"
 msgid "Start Game"
-msgstr ""
+msgstr "Начать игру"
 
 #. Key:	BBD0485643A111AABBC6F7AF09BB915D
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Nomad_Top_1.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -5303,7 +5303,7 @@ msgstr "Деревянный сундук. Вы можете хранить в �
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_297.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",BC1243A344F07B3C2F053F9A9E7A23B1"
 msgid "Spores that contains a Honey Nenhun mushroom, it can be grown in your garden."
-msgstr ""
+msgstr "Споры медового ненхана. Можно посадить в саду."
 
 #. Key:	BC4DFAC84304AD44EFD74695C8CEE92B
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(1).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -5373,7 +5373,7 @@ msgstr "Благодарственное письмо"
 #: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:WidgetTree.Widget_ResumeButton.ButtonName
 msgctxt ",C00EFA7E461AF53D5301EE99119091E4"
 msgid "Resume"
-msgstr ""
+msgstr "Продолжить"
 
 #. Key:	C027EB1D48D333150D076DAD814D8859
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_020.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5429,14 +5429,14 @@ msgstr "Зельеварочный стол"
 #: /Game/Blueprints/Actors/ShopSign/Widget_AlchemyNameSelector.Widget_AlchemyNameSelector_C:WidgetTree.TextBlock_155.Text
 msgctxt ",C20C152D4D1AED30763208B9466E173B"
 msgid "Choose a name for your shop"
-msgstr ""
+msgstr "Придумайте название своего магазина"
 
 #. Key:	C20E7A2F4DC00761A3739A9951CD1552
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_038.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_038.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",C20E7A2F4DC00761A3739A9951CD1552"
 msgid "Crystared Figure"
-msgstr ""
+msgstr "Хрустальная статуэтка"
 
 #. Key:	C2630EB4435EA2D55CAFCBBE58EC6068
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_KeyBindingModule.Widget_KeyBindingModule_C:WidgetTree.ActionNameText.Text
@@ -5471,7 +5471,7 @@ msgstr "Деревянная лейка"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_294.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",C341049440E21A1DED36F8AA6BA05E17"
 msgid "Amanita Spores"
-msgstr ""
+msgstr "Споры мухомора"
 
 #. Key:	C36CA92C4C86BC3587E20A9137F4D2AB
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_ClothSet.Default__Widget_ClothSet_C.Set Ref.SetName_7_0180FC21495D9D7BFC824285DD2897BD
@@ -5513,7 +5513,7 @@ msgstr "Семена медузника. Чтобы растение вырос�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_274.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",C463DBFF43942278645995887E74FD10"
 msgid "Plant with petals that do not seem from this world. It has relaxing properties."
-msgstr ""
+msgstr "Растение с невероятными лепестками, которые словно с другой планеты. Обладает расслабляющим действием."
 
 #. Key:	C479A6454B2247431CEDA89B4D79B00C
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_077.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5527,7 +5527,7 @@ msgstr "Маленький цветок, который, как правило, 
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_garden.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",C5339E35401FEB9234F62893A3CF0B13"
 msgid "Welcome to your own garden!\r\n\r\nHere you can plant all kinds of plants and decorate the garden to your liking. All you need is a hoe, some seeds and a watering can!\r\n\r\nIn addition, if you want to expand the size of your garden you can buy plots in case you run out of space for your crops."
-msgstr ""
+msgstr "А вот и ваш сад!\r\n\r\nЗдесь вы можете сажать любые растения и украсить сам сад так, как вам нравится! Всё, что вам для этого потребуется - мотыга, лейка и кое-какие семена.\r\n\r\nТакже вы можете купить дополнительные участки земли, если захотите увеличить площадь сада."
 
 #. Key:	C546067A4B0D71A6B7EE5DBDDDE34E9E
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
@@ -5548,7 +5548,7 @@ msgstr "Среда"
 #: /Game/UI/MainMenu/Widget_GameMainMenu.Widget_GameMainMenu_C:WidgetTree.Widget_CreditsButton.ButtonName
 msgctxt ",C5A483D74DBFA2ADAD24399980665481"
 msgid "Credits"
-msgstr ""
+msgstr "Авторы"
 
 #. Key:	C5EBC9724CC676981C6D57BF6E13ADB1
 #. SourceLocation:	/Game/UI/Journal/Widget_RecipesList.Widget_RecipesList_C:WidgetTree.TextBlock_89.Text
@@ -5646,7 +5646,7 @@ msgstr "Семена розы. Чтобы растение выросло, по�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_290.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",C8707C9640459F7A8B35D5ADD72B0044"
 msgid "Seed that contains a watermelon plant."
-msgstr ""
+msgstr "Семена арбуза"
 
 #. Key:	C9ABF26240A720B10F1186B45AE182E9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_181.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5667,7 +5667,7 @@ msgstr "Весь ваш прогресс будет удален. Вы дейс�
 #: /Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 msgctxt ",C9EC97ED4FD7D4C340765180E2EFCB94"
 msgid "Press <img id=\"{buttonCode3}\"/> to place\r\n\r\nPress <img id=\"{buttonCode}\"/> to rotate\r\n\r\nPress <img id=\"{buttonCode2}\"/> to toggle grid"
-msgstr ""
+msgstr "Нажмите <img id=\"{buttonCode3}\"/>, чтобы поставить\r\n\r\nНажмите <img id=\"{buttonCode}\"/>, чтобы повернуть\r\n\r\nНажмите <img id=\"{buttonCode2}\"/>, чтобы включить/выключить сетку"
 
 #. Key:	C9F0CB2D4ED3306A59A630BDE8328BAD
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:WidgetTree.TextBlock_5.Text
@@ -5709,21 +5709,21 @@ msgstr "Использовать"
 #: /Game/Blueprints/Actors/PlayerHouse/Widget_HouseSelectorButton.Widget_HouseSelectorButton_C:WidgetTree.HouseNameText.Text
 msgctxt ",CA9B8B8147A9BA8D7CED8CB294AACE0C"
 msgid "HouseName"
-msgstr ""
+msgstr "HouseName"
 
 #. Key:	CAC5137A4D9CD1EF5A44CEB7E464F77C
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(4 - Value).DisplayNameMap
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(4 - Value).DisplayNameMap
 msgctxt ",CAC5137A4D9CD1EF5A44CEB7E464F77C"
 msgid "Stimulant"
-msgstr ""
+msgstr "Стимулятор"
 
 #. Key:	CAD04FC34F3B50EC7F00189D6116C654
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_298.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_298.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",CAD04FC34F3B50EC7F00189D6116C654"
 msgid "Spores that contains a Black Nenhun Mushroom, it can be grown in your garden."
-msgstr ""
+msgstr "Споры чёрного ненхана. Можно посадить в саду."
 
 #. Key:	CAD2E59A4E6ED44E06D22E8EC6206FB3
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_157.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5821,7 +5821,7 @@ msgstr "Волосы"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_291.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",CDB9B30D46B9265555223CAA4C4199F0"
 msgid "Pineapple"
-msgstr ""
+msgstr "Ананас"
 
 #. Key:	CDEC92A7420F4D899816B2B0ABCC68F0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_114.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5891,7 +5891,7 @@ msgstr "Фосфоритовый коготь"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_262.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",CEB934B246C19521F1BA4DAE96FC25B2"
 msgid "Energy Potion"
-msgstr ""
+msgstr "Зелье энергии"
 
 #. Key:	CEE23A00421E218288BA008522DB03FF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_045.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5919,14 +5919,14 @@ msgstr "Декоративное зимнее дерево, огоньки ко�
 #: /Game/UI/Widget_Calendar.Widget_Calendar_C:WidgetTree.TextBlock_3.Text
 msgctxt ",CF83042B4497A46DECD08FB7B5D30402"
 msgid "Fri"
-msgstr ""
+msgstr "Пт"
 
 #. Key:	CFA2635B4E6D4E679A0C7FB8AD030DA4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_262.UseText_31_2408F33E4DFC5CE5C17922A1B5C36B63
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_262.UseText_31_2408F33E4DFC5CE5C17922A1B5C36B63
 msgctxt ",CFA2635B4E6D4E679A0C7FB8AD030DA4"
 msgid "Drink Potion"
-msgstr ""
+msgstr "Выпить зелье"
 
 #. Key:	CFBDDEE64D7C2A800BAFB383833A58EC
 #. SourceLocation:	/Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:WidgetTree.CONTROLS.Text
@@ -6017,7 +6017,7 @@ msgstr "Чёрное дерево"
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.TextBlock_405.Text
 msgctxt ",D2F419E44E7D645ADEA864A10BA3F492"
 msgid "Return Components To Table"
-msgstr ""
+msgstr "Вернуть ингредиенты на стол"
 
 #. Key:	D30C253F4E717BADE632B98EAE8F3C76
 #. SourceLocation:	/Game/Blueprints/Actors/Events/BP_Firework.BP_Firework_C:ExecuteUbergraph_BP_Firework [Script Bytecode]
@@ -6108,7 +6108,7 @@ msgstr "Внимание: наш перевод, как и большинств�
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_297.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",D5B2399149CC48609F44B9BCB4087613"
 msgid "Honey Nenhun Spores"
-msgstr ""
+msgstr "Споры медового ненхана"
 
 #. Key:	D5D3B9F64C49010DCB2D809A3395F0CE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_238.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6143,7 +6143,7 @@ msgstr "Вторник"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_302.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",D6BD1CF14083B4291550CB90F289DBA4"
 msgid "Red Trumpet Spores"
-msgstr ""
+msgstr "Споры красной лисички"
 
 #. Key:	D6C94E9A488A3C651C0FB18E9FE2C02F
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
@@ -6178,7 +6178,7 @@ msgstr "Семена прихоти феи. Чтобы растение выро
 #: /Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:ExecuteUbergraph_Widget_Mailbox_Message [Script Bytecode]
 msgctxt ",D762210A4883A3DFFA1A9F87BA264F3E"
 msgid "Do you want to remove the message?"
-msgstr ""
+msgstr "Удалить это письмо?"
 
 #. Key:	D8E9DA4A4D1E796DCDB900AFD3CC0B80
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant [Script Bytecode]
@@ -6206,7 +6206,7 @@ msgstr "Семена розовой фасоли. Чтобы растение в
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",D96B18D24849F7B6E96581A71B9FE098"
 msgid "Poisonous"
-msgstr ""
+msgstr "Ядовитый"
 
 #. Key:	D96B324749A407DF4A2639B060F427B5
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_159.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6241,7 +6241,7 @@ msgstr "Каменный топор"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_307.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",DA25C16C4455B73831EEAB8309102F5B"
 msgid "Musa Velutina Seed"
-msgstr ""
+msgstr "Семена банана бархатного"
 
 #. Key:	DA5B09434F62FA155B425B81479CDFDE
 #. SourceLocation:	/Game/UI/Widget_CalendarDayDetails.Widget_CalendarDayDetails_C:WidgetTree.TextBlock_61.Text
@@ -6255,7 +6255,7 @@ msgstr "Забрать"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_282.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",DA78A1B9439BF96ECED26DA3D6463011"
 msgid "Black Nenhun"
-msgstr ""
+msgstr "Чёрный ненхан"
 
 #. Key:	DAF6F3CC43AB4B82C56186B4DD6F8F14
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager [Script Bytecode]
@@ -6290,7 +6290,7 @@ msgstr "Добро пожаловать в Alchemy Garden!\r\n\r\nТеперь �
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:Populate Recipes [Script Bytecode]
 msgctxt ",DC059BB9486127FFBED0D9A421618811"
 msgid "Potions Discovered {recipesLearned}/{allRecipes}"
-msgstr ""
+msgstr "Выучено рецептов: {recipesLearned}/{allRecipes}"
 
 #. Key:	DC1288A64C5D42B610CD0A9CDF8A3CDD
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Mystic_Top_2.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -6339,7 +6339,7 @@ msgstr "Кресло в стиле модерн"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_275.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",DE80436846DECAC7D129B0A282F07E10"
 msgid "Plant with a thick stem and leaves that appears in the swamp on a few occasions. It has strange properties."
-msgstr ""
+msgstr "Растение с крепкими стеблем и листьями. Иногда вырастает на болоте. Обладает довольно странными свойствами."
 
 #. Key:	DE97E83D4B89840239FE13BE8C893CCA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_039.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6367,7 +6367,7 @@ msgstr "Маленькая фигурка мумии."
 #: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
 msgctxt ",DF3D5764456EEB0B89E317A5EDE3C134"
 msgid "Land chunk for sale"
-msgstr ""
+msgstr "Участок земли. Продаётся."
 
 #. Key:	DF6B50124684D135B88A0AA635D9DA76
 #. SourceLocation:	/Game/UI/Widget_StorageBox.Widget_StorageBox_C:WidgetTree.TextBlock_0.Text
@@ -6409,7 +6409,7 @@ msgstr "Высокое зеркало в стиле модерн"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_22.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",DFE6D85F4F91ECCD7E3874B6196CD042"
 msgid "Stars White Wall"
-msgstr ""
+msgstr "Белые звёздочки"
 
 #. Key:	E008AC014B38B4AC5B3060A888523DC5
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:WidgetTree.RichActionText.Text
@@ -6444,7 +6444,7 @@ msgstr "Семена ромашки. Чтобы растение выросло,
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.TextBlock_5.Text
 msgctxt ",E11DD0BE4B4712E3EEBB04BEFA200089"
 msgid "Select components from the item list"
-msgstr ""
+msgstr "Выберите ингредиент из списка предметов"
 
 #. Key:	E12999F64FCC346320552BBB5387A184
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_151.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6458,7 +6458,7 @@ msgstr "Семена медузника"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_292.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",E15421594CDBA9A6101649B31BF05A05"
 msgid "Seed that contains a pineapple plant."
-msgstr ""
+msgstr "Семена ананаса"
 
 #. Key:	E1E7DB1F4FF9107CB666419CC4DBCF15
 #. SourceLocation:	/Game/UI/Widget_CalendarDayDetails.Widget_CalendarDayDetails_C:WidgetTree.TextBlock_97.Text
@@ -6493,21 +6493,21 @@ msgstr "Громкость эффектов"
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.TextBlock_3.Text
 msgctxt ",E2FD08E649B9BCC481A9AB983D5B251D"
 msgid "Composition"
-msgstr ""
+msgstr "Композиция"
 
 #. Key:	E3145D394F4C26868B44C19C52DF2DF4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_182.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_182.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",E3145D394F4C26868B44C19C52DF2DF4"
 msgid "A rudimentary hatchet made of stone, it doesn't have much durability."
-msgstr "Низкопрочный топор из камня."
+msgstr "Каменный топор. Имеет низкую прочность. Используется для добычи дерева."
 
 #. Key:	E33E5F8F448DF55478C743B905590AC7
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion [Script Bytecode]
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion [Script Bytecode]
 msgctxt ",E33E5F8F448DF55478C743B905590AC7"
 msgid "Non-reactive components"
-msgstr ""
+msgstr "Компоненты не дают реакции"
 
 #. Key:	E3B39FC445932EE97222689637064AA0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_051.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6521,14 +6521,14 @@ msgstr "Жуткий чёрный стол с флуоресцентными ч�
 #: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
 msgctxt ",E3C0B57E42C7616FF4094186DB57B803"
 msgid "Swamp House"
-msgstr ""
+msgstr "Дом на болоте"
 
 #. Key:	E3CE1599499712DCAC30F4986D966964
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_bed.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_bed.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",E3CE1599499712DCAC30F4986D966964"
 msgid "Bed"
-msgstr ""
+msgstr "Кровать"
 
 #. Key:	E3E666EF4DF5E8BA2F602FB69A09A923
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Pants_2.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -6626,7 +6626,7 @@ msgstr "Маленькая светящаяся мумия II"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_282.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",E703F4CC426031734C8E2F9897996554"
 msgid "Mushroom with stimulating properties, it is usually seen in the swamps from autumn."
-msgstr ""
+msgstr "Гриб, обладающий стимулирующими свойствами. Его можно найти на болотах по осени."
 
 #. Key:	E770DF784E1B375BB351EBBC4FCDF590
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_246.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6661,7 +6661,7 @@ msgstr "Стул в стиле модерн"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_303.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",E8DDB7BC4E47B52C04201BB79B34D0A8"
 msgid "Seed that contains a bromelia plant."
-msgstr ""
+msgstr "Семена бромелии"
 
 #. Key:	E9136A594CF8BB8794F151A2631A4AF0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_172.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6738,14 +6738,14 @@ msgstr "Страшный и ужасный стол"
 #: /Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.CatTop_2.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 msgctxt ",EC269C4F46F3D47EEA9E108673452A3D"
 msgid "Gat II"
-msgstr ""
+msgstr "Кат II"
 
 #. Key:	EC51EA4F4B0FEC617AB490959ABF5DDF
 #. SourceLocation:	/Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:WidgetTree.UseText_1.Text
 #: /Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:WidgetTree.UseText_1.Text
 msgctxt ",EC51EA4F4B0FEC617AB490959ABF5DDF"
 msgid "Move to Storage"
-msgstr ""
+msgstr "Переместить в хранилище"
 
 #. Key:	EC73CCCA4202D4D28B64EEBFCC9F7C6D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_010.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6794,14 +6794,14 @@ msgstr "Семена тюльпана"
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(6 - Value).DisplayNameMap
 msgctxt ",EE903F7049213F0050E27792089C496D"
 msgid "Aether"
-msgstr ""
+msgstr "Эфир"
 
 #. Key:	EF6188694E34BD50AE742F9B28CC40A9
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
 #: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
 msgctxt ",EF6188694E34BD50AE742F9B28CC40A9"
 msgid "Buy this house"
-msgstr ""
+msgstr "Купить дом"
 
 #. Key:	EF99AD794CB52F6FE322E99BEC1FA079
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(1 - Value).DisplayNameMap
@@ -6843,7 +6843,7 @@ msgstr "Классические штаны II"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_042.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",F15BC06449733B40A9A93A99028E5CD8"
 msgid "Crystablue Figure"
-msgstr ""
+msgstr "Статуэтка из синего хрусталя"
 
 #. Key:	F19325BC4E315EF1BD9AE8AFAAD3F8C2
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_226.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6892,7 +6892,7 @@ msgstr "Мистическая кофта I"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_283.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",F320A82C402C184BBD63D1BB98E18D9F"
 msgid "Yolk Nenhun"
-msgstr ""
+msgstr "Желточный ненхан"
 
 #. Key:	F35EDE6A481F10670D77B7A9B826D4AA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_138.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6948,14 +6948,14 @@ msgstr "Продать зелье"
 #: /Game/Blueprints/Actors/CharacterCreation/Widget_ClothesSelector.Widget_ClothesSelector_C:WidgetTree.TextBlock_1.Text
 msgctxt ",F68372064EA1CE73B95646B809EB60CA"
 msgid "Pants"
-msgstr ""
+msgstr "Штаны"
 
 #. Key:	F6910AB042C0E82508FEAEAFC951B3F7
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_exploration.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_exploration.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",F6910AB042C0E82508FEAEAFC951B3F7"
 msgid "Explore the surroundings to discover new plants and materials for your experiments.\r\n\r\nEvery day new plants appear, you can discover a great variety during the passage of seasons.\r\n\r\nFind them all!"
-msgstr ""
+msgstr "Изучайте окресности, чтобы находить новые растения и материалы для ваших экспериментов.\r\n\r\nКаждый день вырастают новые растения, и в течение сезона можно найти огромное количество различных трав.\r\n\r\nСоберите их все!"
 
 #. Key:	F69D4D9745216B4819AF109C806C7186
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SummerEvent.FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381(0).FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381
@@ -6969,7 +6969,7 @@ msgstr "Именно так! Салют — это очень весело! Во
 #: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateQuestInfo [Script Bytecode]
 msgctxt ",F6E4CE5D4D749291C787F6908A5BE11C"
 msgid "Retrieve to: {NPC Name}"
-msgstr ""
+msgstr "Передать: {NPC Name}"
 
 #. Key:	F6F8ABA44CF31115956010B6CD8033A5
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterMineral.Default__BP_MasterMineral_C.Description
@@ -7004,7 +7004,7 @@ msgstr "Синяя клетка"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_183.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",F8736DD24F1A7C57527ACBA93A581652"
 msgid "Hatchet made of copper with medium durability. Use it for chop down trees."
-msgstr "Топор из меди. Имеет среднюю прочность."
+msgstr "Медный топор. Имеет среднюю прочность. Используется для добычи дерева."
 
 #. Key:	F8854B0C4DAA7A58E4B16FA621193C33
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Pants_1.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -7032,7 +7032,7 @@ msgstr "Юбка IV"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_board.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",F95F3F5B4FE355D3831C16A9A0D1BD5B"
 msgid "Village Signboard"
-msgstr ""
+msgstr "Доска объявлений"
 
 #. Key:	F9782FC5413ED32A1B9A1BAEC2A18BE7
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_015.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -7081,7 +7081,7 @@ msgstr "Медный горшок"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_288.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",FABAE6884B5F791EB356AB925ECFD902"
 msgid "Strawberry Seed"
-msgstr ""
+msgstr "Семена клубники"
 
 #. Key:	FAD733DC48E9AB521B81BBBD32BCEC9B
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
@@ -7102,7 +7102,7 @@ msgstr "Выполнени из чёрного металла, и... имеет 
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_295.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",FB949ED0450FD7D3ADFFF9AF51ED186A"
 msgid "Purple Amanita Spores"
-msgstr ""
+msgstr "Споры фиолетового мухомора"
 
 #. Key:	FBBD3AA4493E83B407DC0EB875B93886
 #. SourceLocation:	/Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
@@ -7116,7 +7116,7 @@ msgstr "Нельзя продать"
 #: /Game/Blueprints/Datatables/DT_Trees.DT_Trees.Tree_07.TreeName_108_D9E182DC49AADD428DA80FABD19E6D43
 msgctxt ",FBCDF4AB4FFECBA65AA07B8ECFA7ACA2"
 msgid "Oak"
-msgstr ""
+msgstr "Дуб"
 
 #. Key:	FBDA5A36461C508A8B624896E0AB8F10
 #. SourceLocation:	/Game/UI/Widget_Calendar.Widget_Calendar_C:WidgetTree.TextBlock_4.Text
@@ -7221,7 +7221,7 @@ msgstr "Деревянная кровать. Простенькая, но спи
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_279.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",FEC7779A4609F80010DC13A637093025"
 msgid "Purple mushroom reminiscent of a starry sky. Gives off a mild citrus scent."
-msgstr ""
+msgstr "Фиолетовый гриб, вид которого напоминает звёздное небо. Пахнет цитрусовыми."
 
 #. Key:	FF5FA9C944E8DE8D8A350BB16C572DFA
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Gloria.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -7235,7 +7235,7 @@ msgstr "Иногда я украшаю торты лепестками роз, �
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_190.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",FFA188F2484428B84259149667FB464A"
 msgid "Made of iron, high durability. Use it for tilling the soil."
-msgstr "Высокопрочная железная мотыга. Используется для обработки почвы."
+msgstr "Железная мотыга. Имеет высокую прочность. Используется для обработки почвы."
 
 #. Key:	FFF1EBF8405E5CA03D0B7E84912E80B5
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_153.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -7333,236 +7333,236 @@ msgstr "Ужасная кровать, на которой вам приснят
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_048.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt "DT_Items,Item_048_Description"
 msgid "A funny bat remind us to have a \"Halloween In Peace\"."
-msgstr ""
+msgstr "Забавная летучая мышь, как бы желающая нам беззаботного Хэллоуина."
 
 #. Key:	assignmentsKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,assignmentsKey"
 msgid "Assignments"
-msgstr ""
+msgstr "Задания"
 
 #. Key:	cancelKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,cancelKey"
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #. Key:	closeKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,closeKey"
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #. Key:	continue
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,continue"
 msgid "CONTINUE"
-msgstr ""
+msgstr "ПРОДОЛЖИТЬ"
 
 #. Key:	destroyKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,destroyKey"
 msgid "Destroy"
-msgstr ""
+msgstr "Уничтожить"
 
 #. Key:	eatKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,eatKey"
 msgid "Eat"
-msgstr ""
+msgstr "Съесть"
 
 #. Key:	elementKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,elementKey"
 msgid "Element"
-msgstr ""
+msgstr "Элемент"
 
 #. Key:	emptyDay
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,emptyDay"
 msgid "Day: ---"
-msgstr ""
+msgstr "День: ---"
 
 #. Key:	emptyYear
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,emptyYear"
 msgid "Year: --"
-msgstr ""
+msgstr "Год: --"
 
 #. Key:	eventCompleted
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,eventCompleted"
 msgid "Event Completed!"
-msgstr ""
+msgstr "Событие завершилось!"
 
 #. Key:	exitKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,exitKey"
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "Выйти на рабочий стол"
 
 #. Key:	finishKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,finishKey"
 msgid "Finish"
-msgstr ""
+msgstr "Завершить"
 
 #. Key:	missingCompKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,missingCompKey"
 msgid "Some components are missing"
-msgstr ""
+msgstr "Не хватает ингредиентов"
 
 #. Key:	NewGame
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,NewGame"
 msgid "NEW GAME"
-msgstr ""
+msgstr "НОВАЯ ИГРА"
 
 #. Key:	newPlantKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,newPlantKey"
 msgid "New Plant Discovered!"
-msgstr ""
+msgstr "Обнаружено новое растение!"
 
 #. Key:	No
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,No"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #. Key:	NoEnergy
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,NoEnergy"
 msgid "You don't have enough energy, drink a potion to recover energy points."
-msgstr ""
+msgstr "У вас мало энергии. Чтобы восстановить её, поешьте или выпейте зелье."
 
 #. Key:	noInventorySpace
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,noInventorySpace"
 msgid "You don't have space in your inventory."
-msgstr ""
+msgstr "У вас недостаточно места в инвентаре."
 
 #. Key:	NoMoney
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,NoMoney"
 msgid "You don't have enough gold."
-msgstr ""
+msgstr "Недостаточно золота."
 
 #. Key:	optionsKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,optionsKey"
 msgid "Options"
-msgstr ""
+msgstr "Настройки"
 
 #. Key:	popDescription
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,popDescription"
 msgid "Get special items at Pop The Traveler's shop in town!"
-msgstr ""
+msgstr "Успецте приобрести уникальные товары, пока магазин путешественника Пола остановился у нас в городке!"
 
 #. Key:	resultKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,resultKey"
 msgid "Result"
-msgstr ""
+msgstr "Результат"
 
 #. Key:	rewardKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,rewardKey"
 msgid "Reward"
-msgstr ""
+msgstr "Награда"
 
 #. Key:	seedExchangerKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,seedExchangerKey"
 msgid "Seed Exchange"
-msgstr ""
+msgstr "Обмен семян"
 
 #. Key:	sellKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,sellKey"
 msgid "Sell"
-msgstr ""
+msgstr "Продать"
 
 #. Key:	shopKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,shopKey"
 msgid "Shop"
-msgstr ""
+msgstr "Магазин"
 
 #. Key:	spookyEventDescription
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,spookyEventDescription"
 msgid "Buy exclusive items of the season in town!"
-msgstr ""
+msgstr "Покупайте эксклюзивные сезонные предметы в городе!"
 
 #. Key:	spookyFairKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,spookyFairKey"
 msgid "Spooky Fair"
-msgstr ""
+msgstr "Ярмарка ужасов"
 
 #. Key:	springKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,springKey"
 msgid "Spring"
-msgstr ""
+msgstr "Весна"
 
 #. Key:	summerKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,summerKey"
 msgid "Summer"
-msgstr ""
+msgstr "Лето"
 
 #. Key:	useKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,useKey"
 msgid "Use"
-msgstr ""
+msgstr "Использовать"
 
 #. Key:	writeName
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,writeName"
 msgid "Write a name"
-msgstr ""
+msgstr "Укажите имя"
 
 #. Key:	yes
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,yes"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
