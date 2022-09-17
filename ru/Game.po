@@ -312,7 +312,7 @@ msgstr "Отпразднуйте наступление лета, устроив
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",0B8F81924EEE4A0B1822C08719150A57"
 msgid "Healing"
-msgstr "Исцеление"
+msgstr "Лекарство"
 
 #. Key:	0BA765DE4AB0F308634D3EB410D775CB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SummerEvent.FirstDialog_30_243B85D042D5FA5C14C391832F631188(1).FirstDialog_30_243B85D042D5FA5C14C391832F631188
@@ -529,7 +529,7 @@ msgstr "Семена банана"
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 - Value).DisplayNameMap
 msgctxt ",1319B61B48014DF032E933BF84D0760F"
 msgid "Relaxing"
-msgstr "Отдых"
+msgstr "Релаксант"
 
 #. Key:	1321D9FC496E6643CE0E6F847C1814D6
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_080.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -613,7 +613,7 @@ msgstr "Прыжок"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_shopTable.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",16CCC3C64E9B4F9F3373E1A711603518"
 msgid "Shop Table"
-msgstr "Магазинный прилавок (Саня посмотри в игре чо это)"
+msgstr "Магазинный прилавок"
 
 #. Key:	174C934B4A5309D19D49A8A9D041E4E3
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_114.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -851,7 +851,7 @@ msgstr "Семена синего гадючего лука"
 #: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",1DE268AC4438667B35BC06858CF19478"
 msgid "Common"
-msgstr "Обычный"
+msgstr "Обыч."
 
 #. Key:	1E048B01401423853337D484FBF08FC3
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_38.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -900,7 +900,7 @@ msgstr "Споры желточного ненхана. Можно посади�
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_18.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",1F6EA0DD489D07074F81C5956130727A"
 msgid "Stars Blue Floor"
-msgstr "Синие звёздочки"
+msgstr "Синяя клетка со звёздами"
 
 #. Key:	1F9A1AAE448570931D04D6AA114979F4
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
@@ -1243,7 +1243,7 @@ msgstr "Жуткий паук"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_room.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",299160B04505118D3F868785AA01DE21"
 msgid "Welcome to your house! At the moment it is somewhat empty and both the walls and the floors are not at their best...\r\n\r\nBut don't worry, with some work and enthusiasm you can repair the house and decorate it as you like. Turn this filthy house into a beautiful alchemy shop!"
-msgstr "Добро пожаловать к себе домой! Сейчас здесь довольно пусто и стены с полом выглядят не лучшим образом...\r\n\r\nНо не волнуйся, при желании и должном усердии ты можешь превратить свой дом в уютнейшее местечко!"
+msgstr "Добро пожаловать к себе домой! Сейчас здесь довольно пусто и стены с полом выглядят не лучшим образом...\r\n\r\nНо не волнуйся, при желании и должном усердии, ты можешь превратить свой дом в уютнейшее местечко!"
 
 #. Key:	29B5DEE345912248D2266C94B6028249
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Widgets/Widget_WellDone.Widget_WellDone_C:WidgetTree.TextBlock_25.Text
@@ -1544,7 +1544,7 @@ msgstr "Язык:"
 #: /Game/UI/Widget_Workbench.Widget_Workbench_C:WidgetTree.TextBlock_54.Text
 msgctxt ",35B9D760414E8ED438F31F8EF0F1313C"
 msgid "Crafting Menu"
-msgstr "Меню создания предметов"
+msgstr "Создание предметов"
 
 #. Key:	35F1665E4316E86275429DBA1D2FE0FA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_260.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -1572,7 +1572,7 @@ msgstr "Розовые полоски"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_20.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",370631EE4747E2A9CA40538C52A46331"
 msgid "Stars Peach Floor"
-msgstr "Персиковые звёздочки"
+msgstr "Персиковая клетка со звёздами"
 
 #. Key:	371772304FF9570C18380CBBBB1AE6AA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_11.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -1922,7 +1922,7 @@ msgstr "Чёрный"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_shopTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",4366CC0E42D8BCB22878409AF7FDCCD0"
 msgid "At these tables you can place your products for sale. You can sell potions, plants and minerals.\r\n\r\nAt the moment, you only have a table but later you can buy more tables to expand your offer."
-msgstr "На прилавке вы можете выставлять свои товары на продажу. Вы можете продавать зелья, растения и полезные ископаемые.\r\n\r\nСейчас у вас есть только прилавок, но позже вы сможете купить дополнительные столы и витрины."
+msgstr "На прилавке вы можете выставлять свои товары на продажу. Вы можете продавать зелья, растения и полезные ископаемые.\r\n\r\nСейчас у вас есть только один прилавок, но позже вы сможете купить дополнительные столы и витрины."
 
 #. Key:	43EE49E847296B2BAE3DEE82BF33291E
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:WidgetTree.DayText.Text
@@ -1971,7 +1971,7 @@ msgstr "Ограничение FPS:"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",4616B290438DDCD010DD66AABD634F0E"
 msgid "Stars Black Floor"
-msgstr "Черные звёздочки"
+msgstr "Черная клетка со звёздами"
 
 #. Key:	470C10104A2ADAAEB167A3A4FE9A0D33
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -2356,7 +2356,7 @@ msgstr "Чёрные полоски с камнем"
 #: /Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_13.LocalizedName_31_4536304E415088940F6209BD50C2E090
 msgctxt ",52EFCFEF4FDB65815F17DA8E8D69C583"
 msgid "Use Tool"
-msgstr "Применить инструмент"
+msgstr "Действие руками"
 
 #. Key:	535ABCD04561D1601EB4DBB4063D8F9D
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Gloria.Dialogs_31_DD70E80D43885939B5750983268ED22F(2).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(2).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -3280,7 +3280,7 @@ msgstr "Старинная чернильница, которая будет п�
 #: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",7679A73249B51D0B2C6DC0B4E2137DFA"
 msgid "Exotic"
-msgstr "Экзотический"
+msgstr "Экзотич."
 
 #. Key:	7686BE0241728C717F9FEBB134877CAB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_150.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -3329,7 +3329,7 @@ msgstr "Дождливое утро"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",77AC92B1457F991EB84E5D83E934FEF8"
 msgid "Stars Blue Wall"
-msgstr "Синие звёздочки"
+msgstr "Синий со звёздами"
 
 #. Key:	77B21D6E4BF349FF715AECAFC6CFC0EA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_304.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3392,7 +3392,7 @@ msgstr "Кремовый"
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",7A1B124348B2EF4D009B18922F52D0B6"
 msgid "Aromatic"
-msgstr "Ароматный"
+msgstr "Аромат"
 
 #. Key:	7A99A96E4FE736388A47C4826AE481C0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_132.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3854,7 +3854,7 @@ msgstr "Ваше имя"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_19.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",8D1440C04E924B3D26647DB5952DDD0A"
 msgid "Stars Green Floor"
-msgstr "Зелёные звёздочки"
+msgstr "Зелёная клетка со звёздами"
 
 #. Key:	8D287D4042946A340FA2B3A3DC0557CF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_308.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3959,14 +3959,14 @@ msgstr "Повернуть мебель"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_18.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",906BF58248D49B45796089AA97E2DC40"
 msgid "Stars Black Wall"
-msgstr "Чёрные звёздочки"
+msgstr "Чёрный со звёздами"
 
 #. Key:	90B90C8C40DE9193F2B45DA554DF0F71
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",90B90C8C40DE9193F2B45DA554DF0F71"
 msgid "Stars Purple Floor"
-msgstr "Фиолетовые звёздочки"
+msgstr "Фиолетовая клетка со звёздами"
 
 #. Key:	90BAB393427DD672EBD8F68FCDC5E451
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_193.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4274,7 +4274,7 @@ msgstr "Споры красной лисички. Можно посадить в
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",9A2020DD4116306918D415A20F5FDBBA"
 msgid "Stars Red Wall"
-msgstr "Красные звёздочки"
+msgstr "Красный со звёздами"
 
 #. Key:	9B2D24424F9B730953ECE7A5107BB69B
 #. SourceLocation:	/Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:WidgetTree.Sell.Text
@@ -4673,7 +4673,7 @@ msgstr "Может быть позже"
 #: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A(0).QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
 msgctxt ",A83261484E3CB6D24C4C6A903A4EC45C"
 msgid "I'm glad you accepted the order, bring me the items and I will give you a reward! "
-msgstr "Как хорошо, что ты отозвались на моё объявление. Принеси мне указанные вещи, и я в долгу не останусь!"
+msgstr "Как хорошо, что ты отозвался на моё объявление. Принеси мне указанные вещи, и я в долгу не останусь!"
 
 #. Key:	A85AC7214CE39DF333D30D9400D2F964
 #. SourceLocation:	/Game/UI/Widget_ObtainedItemNotification.Widget_ObtainedItemNotification_C:ExecuteUbergraph_Widget_ObtainedItemNotification [Script Bytecode]
@@ -6206,7 +6206,7 @@ msgstr "Семена розовой фасоли. Чтобы растение в
 #: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",D96B18D24849F7B6E96581A71B9FE098"
 msgid "Poisonous"
-msgstr "Ядовитый"
+msgstr "Яд"
 
 #. Key:	D96B324749A407DF4A2639B060F427B5
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_159.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6248,7 +6248,7 @@ msgstr "Семена банана бархатного"
 #: /Game/UI/Widget_CalendarDayDetails.Widget_CalendarDayDetails_C:WidgetTree.TextBlock_61.Text
 msgctxt ",DA5B09434F62FA155B425B81479CDFDE"
 msgid "Retrieve"
-msgstr "Забрать"
+msgstr "Отдать"
 
 #. Key:	DA78A1B9439BF96ECED26DA3D6463011
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_282.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6374,7 +6374,7 @@ msgstr "Участок земли. Продаётся."
 #: /Game/UI/Widget_StorageBox.Widget_StorageBox_C:WidgetTree.TextBlock_0.Text
 msgctxt ",DF6B50124684D135B88A0AA635D9DA76"
 msgid "Storage Box"
-msgstr "Коробка для хранения"
+msgstr "Контейнер"
 
 #. Key:	DF847D91486E7742605E19B15258A764
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.François.Dialogs_31_DD70E80D43885939B5750983268ED22F(2).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(7).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -6409,7 +6409,7 @@ msgstr "Высокое зеркало в стиле модерн"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_22.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",DFE6D85F4F91ECCD7E3874B6196CD042"
 msgid "Stars White Wall"
-msgstr "Белые звёздочки"
+msgstr "Белый со звёздами"
 
 #. Key:	E008AC014B38B4AC5B3060A888523DC5
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:WidgetTree.RichActionText.Text
@@ -6493,7 +6493,7 @@ msgstr "Громкость эффектов"
 #: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:WidgetTree.TextBlock_3.Text
 msgctxt ",E2FD08E649B9BCC481A9AB983D5B251D"
 msgid "Composition"
-msgstr "Композиция"
+msgstr "Эффекты"
 
 #. Key:	E3145D394F4C26868B44C19C52DF2DF4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_182.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -7480,7 +7480,7 @@ msgstr "Настройки"
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,popDescription"
 msgid "Get special items at Pop The Traveler's shop in town!"
-msgstr "Успецте приобрести уникальные товары, пока магазин путешественника Пола остановился у нас в городке!"
+msgstr "Успейте приобрести уникальные товары, пока магазин путешественника Пола остановился у нас в городке!"
 
 #. Key:	resultKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
