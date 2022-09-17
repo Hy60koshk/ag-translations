@@ -725,7 +725,7 @@ msgstr "Зимний фестиваль"
 #: /Game/UI/Widget_ToolBeltSlot.Widget_ToolBeltSlot_C:ExecuteUbergraph_Widget_ToolBeltSlot [Script Bytecode]
 msgctxt ",1A73872F4769E3DF832D3497435D2174"
 msgid "Unequip your tool first"
-msgstr "Сначала уберите свой инструмент (Саня!)"
+msgstr "Сначала уберите свой инструмент"
 
 #. Key:	1A783A3548B6A4375E226CB9CF23F9DC
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
