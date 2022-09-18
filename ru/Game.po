@@ -4813,7 +4813,7 @@ msgstr "Высокое экзотическое растение с крепки
 #: /Game/Blueprints/Actors/ShopSign/Widget_AlchemyNameSelector.Widget_AlchemyNameSelector_C:WidgetTree.ButtonText.Text
 msgctxt ",AD63E1824357E9B57E06969C2EEEAB24"
 msgid "CREATE SHOP"
-msgstr "СОЗДАТЬ МАГАЗИН"
+msgstr "ОТКРЫТЬ МАГАЗИН"
 
 #. Key:	AD88408542EADEE2BF1839BE728F2868
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
@@ -5429,7 +5429,7 @@ msgstr "Зельеварочный стол"
 #: /Game/Blueprints/Actors/ShopSign/Widget_AlchemyNameSelector.Widget_AlchemyNameSelector_C:WidgetTree.TextBlock_155.Text
 msgctxt ",C20C152D4D1AED30763208B9466E173B"
 msgid "Choose a name for your shop"
-msgstr "Придумайте название своего магазина"
+msgstr "Назовите свой магазин"
 
 #. Key:	C20E7A2F4DC00761A3739A9951CD1552
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_038.Name_27_A88354F441C25CE5AC4A348435C3D81B
