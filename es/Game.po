@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2022-08-31 15:21\n"
-"PO-Revision-Date: 2022-09-16 17:31+0200\n"
+"PO-Revision-Date: 2022-09-23 17:22+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -355,7 +355,7 @@ msgstr "Precio final:"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_241.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",0CE109D5466A4DC438C85C940A267110"
 msgid "Chest"
-msgstr "Ajedrez"
+msgstr "Cofre"
 
 #. Key:	0DAC17A64B300995CDDA368F560325BA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_189.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -694,14 +694,14 @@ msgstr "Como sastre, siempre estoy tratando de encontrar nuevas telas y colores 
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_091.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",1883DB9D486F3B6699C3B48E968E555B"
 msgid "Primitive plant with large leaves. One day someone found a black feather among the leaves and said it was a crow's nest. Crows don't lay eggs on the ground, but the name stuck."
-msgstr "Planta primitiva con hojas grandes. Un día alguien encontró una pluma negra entre las hojas y dijo que era un nido de cuervos. Los cuervos no ponen huevos en el suelo, pero el nombre se quedó."
+msgstr "Planta primitiva con hojas grandes. Un día alguien encontró una pluma negra entre las hojas y dijo que era un nido de cuervos. Los cuervos no ponen huevos en el , pero el nombre se quedó."
 
 #. Key:	18B2AB1448CD25106F1D7FB0EC1613EA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_4.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_4.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",18B2AB1448CD25106F1D7FB0EC1613EA"
 msgid "Stone Blue"
-msgstr "Piedra Azul"
+msgstr "Piedra y Azul"
 
 #. Key:	194A6A8748F7234B970E6EB0AF0F740F
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(2).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -929,7 +929,7 @@ msgstr "Esporas de Hongo Yolk Nenhun, se puede cultivar en su jardín."
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_18.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",1F6EA0DD489D07074F81C5956130727A"
 msgid "Stars Blue Floor"
-msgstr "Piso Estrellas Azul"
+msgstr "Ajedrez Azul de estrellas"
 
 #. Key:	1F9A1AAE448570931D04D6AA114979F4
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
@@ -1050,7 +1050,7 @@ msgstr ""
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_246.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",224459224A038A108D6A7A9434EE74AD"
 msgid "Crystamber Lamp"
-msgstr "Lámpara de cristal"
+msgstr "Lámpara de Cristal Ambar"
 
 #. Key:	224DB07A4D87886603F6F2BA25B703C4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_24.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -1168,7 +1168,7 @@ msgstr "Extraña planta tóxica para cabras y ovejas. Si comen muchas plantas em
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_177.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",2596EB274250778454B9D58D91D6CBF3"
 msgid "Banana Liar Seed"
-msgstr ""
+msgstr "Semilla de Banana Liar"
 
 #. Key:	25B04EA6455DF2A31CF328B6978BD879
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Hans.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(1).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -1326,7 +1326,7 @@ msgstr "Banco de trabajo, utilízalo para fabricar todo tipo de muebles y herram
 #: [Script Bytecode]
 msgctxt ",2B8164384433B8C26B0CF9AF047A3A3C"
 msgid "Close Shop"
-msgstr "Tienda cerrada"
+msgstr "Cerrar Tienda"
 
 #. Key:	2B8761174D3B10500C19BB8C5CAF5739
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_8.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -1520,7 +1520,7 @@ msgstr "Madera negra"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_290.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",3307D4C04520F9767E18F5969EA79B55"
 msgid "Watermelon Seed"
-msgstr "Semilla de sandía"
+msgstr "Semilla de Sandía"
 
 #. Key:	331F25574865EBD4C7EB7E9883BBB162
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_276.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -1532,9 +1532,10 @@ msgstr "Musa Velutina"
 #. Key:	335F52A646542A442561F4AD02A8116B
 #. SourceLocation:	/Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_292.Text
 #: /Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_292.Text
+#, fuzzy
 msgctxt ",335F52A646542A442561F4AD02A8116B"
 msgid "Disclaimer"
-msgstr ""
+msgstr "Atencion"
 
 #. Key:	3376EFA94A14E50743A9FBA90AAA396C
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
@@ -1542,7 +1543,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",3376EFA94A14E50743A9FBA90AAA396C"
 msgid "Open Shop"
-msgstr "Tienda Abierta"
+msgstr "Abrir Tienda"
 
 #. Key:	337CFBEC465FF8DD7E8117BB59341219
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_30.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -1627,14 +1628,14 @@ msgstr "Menú de elaboración"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_260.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",35F1665E4316E86275429DBA1D2FE0FA"
 msgid "Wardrobe"
-msgstr "Wardrobe"
+msgstr "Armario"
 
 #. Key:	361D7FEA4DDF54C6210C8EB6F25C6721
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_229.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_229.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",361D7FEA4DDF54C6210C8EB6F25C6721"
 msgid "Wooden Exhibitor Shelf"
-msgstr "Estante Mostrador"
+msgstr "Estantertia Mostrador"
 
 #. Key:	3664B9EC4771038E0E208387ACED5B41
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_29.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -1648,14 +1649,14 @@ msgstr "Rayas Rosa"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_20.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",370631EE4747E2A9CA40538C52A46331"
 msgid "Stars Peach Floor"
-msgstr "Suelo de estrellas Melocotón"
+msgstr "Ajedrez melocotón de estrellas"
 
 #. Key:	371772304FF9570C18380CBBBB1AE6AA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_11.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_11.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",371772304FF9570C18380CBBBB1AE6AA"
 msgid "Stone Stripes Peach"
-msgstr "Poedra de rayas Melocotón "
+msgstr "Piedra y Rayas Melocotón"
 
 #. Key:	377481EF42B94E6815E415A2EE7FEEB4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_014.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1728,9 +1729,10 @@ msgstr "Usa un hacha para cortar el árbol."
 #. Key:	3A5B3F38476FFFA4CEB04CBD430D344D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_053.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_053.Name_27_A88354F441C25CE5AC4A348435C3D81B
+#, fuzzy
 msgctxt ",3A5B3F38476FFFA4CEB04CBD430D344D"
 msgid "Broken HIP Tombstone"
-msgstr ""
+msgstr "Lápida rota"
 
 #. Key:	3ABAB3C54A86BF43DACE49A6369B8598
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_211.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1770,9 +1772,10 @@ msgstr "Lunes, 15, Primavera"
 #. Key:	3C4FD65D4A53D1EACC07689C0CFDC4E8
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_242.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_242.Name_27_A88354F441C25CE5AC4A348435C3D81B
+#, fuzzy
 msgctxt ",3C4FD65D4A53D1EACC07689C0CFDC4E8"
 msgid "Cabinet"
-msgstr ""
+msgstr "Vitrina"
 
 #. Key:	3C8E66504163604F9D93FE90FD4B8C38
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
@@ -1805,7 +1808,7 @@ msgstr "Fragancia fresca que recuerda a la espuma del mar con un olor acre."
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_232.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",3D844A9F476B8E52293A09B25EF2D18A"
 msgid "A rocket with fireworks, handle with care! It can be used in the garden."
-msgstr "Un cohete con fuegos artificiales para uso exterior ¡Manéjalo con cuidado!"
+msgstr "Cohete con fuegos artificiales para uso exterior ¡Manéjalo con cuidado!"
 
 #. Key:	3DD7F21240CA58D522B937A391C33EDF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_174.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2017,14 +2020,14 @@ msgstr "Retirar de la mesa"
 #: /Game/UI/Widget_Sleep.Widget_Sleep_C:WidgetTree.TextBlock_376.Text
 msgctxt ",42197F69493D9B95E71B16B30BA8A811"
 msgid "End the day"
-msgstr "Acabar el día"
+msgstr "Fin del dia"
 
 #. Key:	430F7F6A40C9C929D6ECCDB0E526C695
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_278.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_278.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",430F7F6A40C9C929D6ECCDB0E526C695"
 msgid "A red mushroom that appears in the woods from autumn. It has healing properties."
-msgstr "Un hongo rojo que aparece en los bosques a partir del otoño. Tiene propiedades curativas."
+msgstr "Hongo rojo que aparece en los bosques a partir del otoño. Tiene propiedades curativas."
 
 #. Key:	43169B1F43D9F20C313F8E90A8C0B262
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_15.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -2093,7 +2096,7 @@ msgstr "Límite de FPS:"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",4616B290438DDCD010DD66AABD634F0E"
 msgid "Stars Black Floor"
-msgstr "Suelo de Estrellas Negro"
+msgstr "Ajedrez negro de estrellas"
 
 #. Key:	470C10104A2ADAAEB167A3A4FE9A0D33
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -2136,7 +2139,7 @@ msgstr "{amount} restantes"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_259.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",4892175C4AE235B387A62BB7740BC948"
 msgid "Crystamber"
-msgstr "Cristal"
+msgstr "Cristal Ambar"
 
 #. Key:	48A80F3A454F04FCD2835F8BEA587775
 #. SourceLocation:	/Game/UI/MainMenu/Widget_GameMainMenu.Widget_GameMainMenu_C:ExecuteUbergraph_Widget_GameMainMenu [Script Bytecode]
@@ -2328,7 +2331,7 @@ msgstr "Estrella Rosa"
 #: [Script Bytecode]
 msgctxt ",4EC5B5E747D13CD9DB24248CC77AC59B"
 msgid "Change Floor / Repair"
-msgstr "Cambiar Piso / Reparar"
+msgstr "Cambiar Suelo / Reparar"
 
 #. Key:	4EC63FB042618586EB401985101BEF87
 #. SourceLocation:	/Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:WidgetTree.TextBlock_1.Text
@@ -2349,7 +2352,7 @@ msgstr "Ayuda con los problemas digestivos y con las copiosas cenas familiares."
 #: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:WidgetTree.TextBlock_4.Text
 msgctxt ",4EF1DC98486081E1DEA76A8FA0D6CCEC"
 msgid "Shop Variety"
-msgstr "Tienda de Variedades"
+msgstr "Variedad en Tienda"
 
 #. Key:	4F89F92C43E7FF2E02D518B19FD8D3EF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_289.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2406,7 +2409,7 @@ msgid ""
 msgstr ""
 "¡Gracias por participar en Alchemy Garden Early Access!\n"
 "\n"
-"Tenga en cuenta que está jugando una versión Alpha del juego, lo que implica lo siguiente:\n"
+"Tenga en cuenta que está jugando una versión Beta del juego, lo que implica lo siguiente:\n"
 "    - Puede experimentar errores.\n"
 "    - Extrañas decisiones de diseño por parte del desarrollador.\n"
 "    - Contenido y funciones limitadas.\n"
@@ -2443,7 +2446,7 @@ msgstr "Hogar dulce hogar"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_258.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",50AC7D0448A74DDA5A9B1F9540F13972"
 msgid "Crystared"
-msgstr ""
+msgstr "Cristal Rojo"
 
 #. Key:	50B0A98B49ACAAB6CD073C86491734F7
 #. SourceLocation:	/Game/UI/Widget_ItemNotification.Widget_ItemNotification_C:WidgetTree.ItemNameText.Text
@@ -2500,7 +2503,7 @@ msgstr "Mesa auxiliar W.N."
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_8.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",52E12F7B4884153F9D2E35BB460CFDF0"
 msgid "Stone Stripes Black"
-msgstr "Piedra Rayas Negras"
+msgstr "Piedra y Rayas Negras"
 
 #. Key:	52EFCFEF4FDB65815F17DA8E8D69C583
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_13.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -2521,7 +2524,7 @@ msgstr "Y que tenía que tener cuidado con las flores que recogía porque podía
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_14.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",535B9AC4472C64BFF56184BACCD71C52"
 msgid "Stone Stripes Wood"
-msgstr ""
+msgstr "Piedra y Madera"
 
 #. Key:	53C01F3E4960058B754D858298FD1C5C
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_272.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3063,7 +3066,7 @@ msgstr "Vendedor de ropa"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_1.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",661E28ED495992490ADE6EA0A2E001EF"
 msgid "Wood Brown"
-msgstr "Marrón Madera"
+msgstr "Madera Marrón"
 
 #. Key:	66586BCC49C0F8FE8AEF2CB444EEF92C
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_280.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -3424,7 +3427,7 @@ msgstr "Rombo"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_24.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",75CAEFF74B6DB83018901B87CEC50938"
 msgid "Wood Brown"
-msgstr ""
+msgstr "Madera Marrón"
 
 #. Key:	7611AF8C45AC68810D6F43B632D41CD9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_255.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3503,7 +3506,7 @@ msgstr "Mañana Lluviosa"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",77AC92B1457F991EB84E5D83E934FEF8"
 msgid "Stars Blue Wall"
-msgstr "Muro de estrellas azules"
+msgstr "Pared azul de estrellas"
 
 #. Key:	77B21D6E4BF349FF715AECAFC6CFC0EA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_304.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3802,7 +3805,7 @@ msgstr "Mena de Piedra"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_7.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",8401A87947CC480D860F62B38B8992BC"
 msgid "Stone Red"
-msgstr "Piedra Roja"
+msgstr "Piedra y Rojo"
 
 #. Key:	8409952544112F7B675D988562977384
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
@@ -4056,7 +4059,7 @@ msgstr "Tu nombre"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_19.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",8D1440C04E924B3D26647DB5952DDD0A"
 msgid "Stars Green Floor"
-msgstr "Suelo de Estrellas verdes"
+msgstr "Ajedrez verde de estrellas"
 
 #. Key:	8D287D4042946A340FA2B3A3DC0557CF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_308.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4163,14 +4166,14 @@ msgstr "Rotar Mueble"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_18.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",906BF58248D49B45796089AA97E2DC40"
 msgid "Stars Black Wall"
-msgstr "Pared de estrellas negras"
+msgstr "Pared negra de estrellas"
 
 #. Key:	90B90C8C40DE9193F2B45DA554DF0F71
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",90B90C8C40DE9193F2B45DA554DF0F71"
 msgid "Stars Purple Floor"
-msgstr "Suelo de estrellas púrpura"
+msgstr "Ajedrez púrpura de estrellas"
 
 #. Key:	90BAB393427DD672EBD8F68FCDC5E451
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_193.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4260,7 +4263,7 @@ msgstr "Festival de Primavera"
 #: /Game/UI/Widget_Calendar.Widget_Calendar_C:WidgetTree.TextBlock_1.Text
 msgctxt ",92AED8DC45FE0646FDFEFA81596CD3C6"
 msgid "Wed"
-msgstr ""
+msgstr "Miércoles"
 
 #. Key:	92B567D34CD7916E5CE95B9F4402605F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(2 - Value).DisplayNameMap
@@ -4317,7 +4320,7 @@ msgstr "Presione <img id=\"{buttonCode}\"/> para cambiar el modo de vista"
 #: /Game/UI/Widget_Calendar.Widget_Calendar_C:WidgetTree.TextBlock_2.Text
 msgctxt ",94B4AA864BBD2613E360BFB29E441499"
 msgid "Thur"
-msgstr "Jue"
+msgstr "Jueves"
 
 #. Key:	94B58AB94DD403E639C5E983FF76C452
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4495,7 +4498,7 @@ msgstr "Esporas de Hongo Trompeta Rojo, se puede cultivar en tu jardín."
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_21.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",9A2020DD4116306918D415A20F5FDBBA"
 msgid "Stars Red Wall"
-msgstr "Pared de Estrellas Rojas"
+msgstr "Pared roja de Estrellas"
 
 #. Key:	9B2D24424F9B730953ECE7A5107BB69B
 #. SourceLocation:	/Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:WidgetTree.Sell.Text
@@ -4627,7 +4630,6 @@ msgstr "Mineral de cobre"
 #. Key:	9D91F2EB4C4FFD3CCD883494E3FDFE4E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_180.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_180.Name_27_A88354F441C25CE5AC4A348435C3D81B
-#, fuzzy
 msgctxt ",9D91F2EB4C4FFD3CCD883494E3FDFE4E"
 msgid "Golden Gerbera Seed"
 msgstr "Semilla de Golden Gerbera"
@@ -4823,7 +4825,7 @@ msgstr "Pantalones nómadas I"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_9.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",A4FAAEF7441C1AD726A9D6AAA30335AD"
 msgid "Stone Stripes Blue"
-msgstr "Rayas de Piedra Azul"
+msgstr "Rayas y Piedra Azul"
 
 #. Key:	A53E7BC44CD44F1B84014788372DA154
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_032.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5323,7 +5325,7 @@ msgstr "Semilla de Daphne. Plántala en un suelo labrado o en una maceta y riég
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_28.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",B539F1CD409744E1B2F086983CF1FB30"
 msgid "Rose Wall"
-msgstr "Pared Rosa"
+msgstr "Rosa"
 
 #. Key:	B5C05E384D5CDA12FC7534AAF20BD16C
 #. SourceLocation:	/Game/UI/Widget_Workbench.Widget_Workbench_C:WidgetTree.TextBlock_118.Text
@@ -5520,7 +5522,7 @@ msgstr "¡Abre tu tienda!"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_6.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",BB2A322049C413AA381CD58D1C17CFBA"
 msgid "Stone Purple"
-msgstr "Piedra Púrpura"
+msgstr "Piedra y Púrpura"
 
 #. Key:	BB41483A4F8C5A173E7880B540538D5A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_OrderSignMK2.BP_OrderSignMK2_C:ExecuteUbergraph_BP_OrderSignMK2 [Script Bytecode]
@@ -5613,7 +5615,7 @@ msgstr "Camisa Nómada IV"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_5.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",BE4281D844BF6AD18CEA2C94F8BFC89D"
 msgid "Stone Cream"
-msgstr "Piedra Crema"
+msgstr "Piedra y Crema"
 
 #. Key:	BEE5D94644858F0E7C6F04A6BEBFC96E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_082.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5698,7 +5700,6 @@ msgstr "Poción que mejora la velocidad."
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
 #: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
 #: [Script Bytecode]
-#, fuzzy
 msgctxt ",C1FD2CA3443DFF35AD183A8A5777EA88"
 msgid "Potion Workshop"
 msgstr "Tienda de Pociones"
@@ -5772,7 +5773,7 @@ msgstr "Semilla de Roble"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_251.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",C3E92E5A48CA8EA8FF6DFCAE210768A5"
 msgid "Horn-shaped torch. Perfect for lighting up a Jarl's house!"
-msgstr ""
+msgstr "Antorcha en forma de cuerno. ¡Perfecto para iluminar la casa de un Viquingo!"
 
 #. Key:	C3FB12CE4D59EE27571499A5253AA524
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_245.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6178,7 +6179,7 @@ msgstr ""
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_10.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",CE215DC946727490CFF0E7A094407E1E"
 msgid "Stone Stripes Brown"
-msgstr "Rayas de Piedra Marrón"
+msgstr "Piedra y madera marrón"
 
 #. Key:	CE596EC74D43C66BBC5E91A9C2B767C5
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:WidgetTree.TextBlock_103.Text
@@ -6267,7 +6268,6 @@ msgstr "Nido de Cuervos"
 #. Key:	D009D00C4D55B9B309C57BACE0ED7501
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_072.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_072.Name_27_A88354F441C25CE5AC4A348435C3D81B
-#, fuzzy
 msgctxt ",D009D00C4D55B9B309C57BACE0ED7501"
 msgid "Golden Gerbera"
 msgstr "Golden Gerbera"
@@ -6384,7 +6384,7 @@ msgstr "Otoño"
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_26.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",D49313124F602FB8B3B974831A8A8DEA"
 msgid "Stone Green"
-msgstr "Piedra Verde"
+msgstr "Piedra y Verde"
 
 #. Key:	D4B988A04CF90F71852762AE3530F2C1
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_173.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6413,7 +6413,7 @@ msgstr "Regateo completo!"
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_13.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",D540B4524393C6890622698EB7578819"
 msgid "Stone Stripes Blackwood"
-msgstr ""
+msgstr "Piedra y Madera Oscura"
 
 #. Key:	D57A5A0A43FE2468F8C97784BDB1561E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_132.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6788,7 +6788,7 @@ msgstr "Espejo de pared vertical W.N."
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_22.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",DFE6D85F4F91ECCD7E3874B6196CD042"
 msgid "Stars White Wall"
-msgstr "Pared de Estrellas Blancaa"
+msgstr "Pared blanca de Estrellas"
 
 #. Key:	E008AC014B38B4AC5B3060A888523DC5
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:WidgetTree.RichActionText.Text
@@ -6879,7 +6879,7 @@ msgstr "Composición"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_182.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",E3145D394F4C26868B44C19C52DF2DF4"
 msgid "A rudimentary hatchet made of stone, it doesn't have much durability."
-msgstr "Un hacha rudimentaria hecha de piedra, no tiene mucha durabilidad."
+msgstr "Haha rudimentaria hecha de piedra, no tiene mucha durabilidad."
 
 #. Key:	E33E5F8F448DF55478C743B905590AC7
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion [Script Bytecode]
@@ -7039,7 +7039,7 @@ msgstr "Precio: "
 #: /Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_12.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 msgctxt ",E8820D5F4679FD4C99784AA31B9E1444"
 msgid "Stone Stripes Purple"
-msgstr ""
+msgstr "Piedra y Rayas Púrpura"
 
 #. Key:	E8C82E8E4CC6A1CAA48108A9DB8ADE70
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_024.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -7189,7 +7189,7 @@ msgstr "Semilla de Tulipán"
 #: Value).DisplayNameMap
 msgctxt ",EE903F7049213F0050E27792089C496D"
 msgid "Aether"
-msgstr ""
+msgstr "Éter"
 
 #. Key:	EF6188694E34BD50AE742F9B28CC40A9
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
@@ -7539,7 +7539,7 @@ msgstr "Roble"
 #: /Game/UI/Widget_Calendar.Widget_Calendar_C:WidgetTree.TextBlock_4.Text
 msgctxt ",FBDA5A36461C508A8B624896E0AB8F10"
 msgid "Sat"
-msgstr "Sab"
+msgstr "Sabado"
 
 #. Key:	FC00F3E342E5EC2A5815B19B4A292001
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_237.Description_28_8E19938F4202DF81D6D312ABE107A7F9
