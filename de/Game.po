@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2022-08-31 15:19\n"
-"PO-Revision-Date: 2022-08-31 15:19\n"
+"POT-Creation-Date: 2022-09-28 18:16\n"
+"PO-Revision-Date: 2022-09-28 18:16\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -54,13 +54,6 @@ msgstr "Hallo Alchemist und willkommen zum Winterfest!"
 msgctxt ",02B01551442B629F89DCD281A56F8FE3"
 msgid "Convert"
 msgstr "Übersetzen"
-
-#. Key:	02B79B544DA0471720AC138D88691497
-#. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-msgctxt ",02B79B544DA0471720AC138D88691497"
-msgid "Today there is an event in the town, if you enter you will not be able to leave until you finish the event. If you have pending tasks to do today, finish them before entering. "
-msgstr "Heute findet in der Stadt ein Ereignis statt. Wenn du daran teilnimmst, wirst du die Stadt erst nach Beenden des Ereignisses wieder verlassen können. Wenn du heute noch Aufgaben zu erledigen hast, solltest du dies tun, bevor du die Stadt betrittst. "
 
 #. Key:	02F84CD8496EBC4EE6E1DDB9C4340744
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_244.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -678,6 +671,13 @@ msgctxt ",18B2AB1448CD25106F1D7FB0EC1613EA"
 msgid "Stone Blue"
 msgstr "Stein Blau"
 
+#. Key:	19294FF649AF940F2BDF5D859D70647B
+#. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+msgctxt ",19294FF649AF940F2BDF5D859D70647B"
+msgid "Village Event"
+msgstr ""
+
 #. Key:	194A6A8748F7234B970E6EB0AF0F740F
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(2).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
 #: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(2).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -1252,6 +1252,13 @@ msgctxt ",29B5DEE345912248D2266C94B6028249"
 msgid "Well Done!"
 msgstr "Gut gemacht!"
 
+#. Key:	2A0DA0FD4E9EA108F248658E5B7AB403
+#. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+msgctxt ",2A0DA0FD4E9EA108F248658E5B7AB403"
+msgid "Do you want to end the event and the day? "
+msgstr ""
+
 #. Key:	2AB938CD470E1BD0441CF19B2AC53624
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_166.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_166.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1770,6 +1777,13 @@ msgctxt ",3F565C4C4872636BA42565BEEFDB8F61"
 msgid "Retrieve Items"
 msgstr "Gegenstände Übergeben"
 
+#. Key:	3FA9A2DC4C8490A8F1123CB8CBB4264E
+#. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+msgctxt ",3FA9A2DC4C8490A8F1123CB8CBB4264E"
+msgid "Today there is an event in the town, if you enter you will not be able to leave until you finish the event. If you have pending tasks to do today, finish them before entering. "
+msgstr ""
+
 #. Key:	3FAABA05401A279C6B1A10A6FD9A9C71
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_VSyncModule.Widget_VSyncModule_C:WidgetTree.TextBlock.Text
 #: /Game/UI/MainMenu/OptionModules/Widget_VSyncModule.Widget_VSyncModule_C:WidgetTree.TextBlock.Text
@@ -2264,8 +2278,8 @@ msgstr "Ziegentrunk"
 #. SourceLocation:	/Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_135.Text
 #: /Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_135.Text
 msgctxt ",4FD9448A409516993DC39FBEB8048B8D"
-msgid "Thank you for participating in Alchemy Garden Early Access!\r\n\r\nPlease note that you are playing an Alpha version of the game, which implies the following:\r\n    - You may experience bugs.\r\n    - Strange design decisions by the developer.\r\n    - Limited content and features.\r\n    - Partial translations.\r\n    - Saved games may not be compatible with major updates.\r\n\r\nThe development process is long and iterative, so the game usually receives regular updates. Although I work hard to offer the best possible version of Alchemy Garden, it is possible that your user experience is not what you expected.\r\n\r\nPlease continue only if you agree with this, thank you for your patience. "
-msgstr "Danke, dass du beim Early Access von Alchemy Garden mitmachst!\r\n\r\nBitte bedenke, dass du eine Alpha-Version des Spiels spielst, was bedeutet:\r\n    - Es könnte Bugs geben.\r\n    - Du siehst seltsame Design-Entscheidungen des Entwicklers.\r\n    - Inhalt und Features sind eingeschränkt.\r\n    - Teilweise Übersetzungen.\r\n    - Es kann passieren, dass Speicherstände inkompatibel mit neuen Versionen nach großen Updates sind.\r\n\r\nDer Entwicklungsprozess ist lang und iterativ, das Spiel erhält daher regelmäßig Updates. Obwohl ich hart daran arbeite, die bestmögliche Version von Alchemy Garden zur Verfügung zu stellen, kann es passieren, dass deine Nutzererfahrung nicht deinen Erwartungen entspricht.\r\n\r\nBitte spiele nur weiter, wenn diese Sachen für dich in Ordnung sind. Danke für deine Geduld. "
+msgid "Thank you for participating in Alchemy Garden Early Access!\r\n\r\nYou are about to play a development version of the game, which involves the following:\r\n    - You may experience bugs.\r\n    - Strange design decisions by the developer.\r\n    - Limited content and features.\r\n    - Partial translations.\r\n    - Saved games may not be compatible with major updates.\r\n\r\nThe development process is long and iterative, so the game usually receives regular updates. Although I work hard to offer the best possible version of Alchemy Garden, it is possible that your user experience is not what you expected.\r\n\r\nPlease continue only if you agree with this, thank you for your patience. "
+msgstr ""
 
 #. Key:	5005C1444A5B985950060F8EEA8C013A
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:WidgetTree.PotionName_1.Text
@@ -2904,6 +2918,13 @@ msgctxt ",661E28ED495992490ADE6EA0A2E001EF"
 msgid "Wood Brown"
 msgstr "Holz Braun"
 
+#. Key:	6653B87F47B7C733AB4F64B48CADCB9A
+#. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+msgctxt ",6653B87F47B7C733AB4F64B48CADCB9A"
+msgid "SALE"
+msgstr ""
+
 #. Key:	66586BCC49C0F8FE8AEF2CB444EEF92C
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_280.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_280.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -2952,6 +2973,13 @@ msgstr "Mohnblume"
 msgctxt ",680407444400593734863F8F9C2D2FC5"
 msgid "Rosewood Ville is a beautiful place, don't you think?"
 msgstr "Rosewood Ville ist ein schöner Ort, findest du nicht auch?"
+
+#. Key:	687246954A84C29F482EDB856DF6157D
+#. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
+#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
+msgctxt ",687246954A84C29F482EDB856DF6157D"
+msgid "Wait to unstuck again"
+msgstr ""
 
 #. Key:	68BEA9424A496CF6F42F7B9B3EB438FB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_058.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3171,8 +3199,8 @@ msgid "Item Menu"
 msgstr "Gegenstands Menü"
 
 #. Key:	722FBD344FFC219F047FF8A9A307947D
-#. SourceLocation:	/Game/UI/Widget_ShopItemSlot.Widget_ShopItemSlot_C:OnDrop [Script Bytecode]
-#: /Game/UI/Widget_ShopItemSlot.Widget_ShopItemSlot_C:OnDrop [Script Bytecode]
+#. SourceLocation:	/Game/UI/Widget_InventorySlot.Widget_InventorySlot_C:OnDrop [Script Bytecode]
+#: /Game/UI/Widget_InventorySlot.Widget_InventorySlot_C:OnDrop [Script Bytecode]
 msgctxt ",722FBD344FFC219F047FF8A9A307947D"
 msgid "Use"
 msgstr "Benutzen"
@@ -4794,13 +4822,6 @@ msgctxt ",AD0075764DDDAFDBD87958BB8684F34B"
 msgid "Community"
 msgstr ""
 
-#. Key:	AD12763C47C93A7DC6D15F9357EC27BE
-#. SourceLocation:	/Game/Blueprints/Datatables/DT_Seasons.DT_Seasons.Winter.SeasonName_32_5B98423D4AD9CEA8DB6FEE8CA1BA2A43
-#: /Game/Blueprints/Datatables/DT_Seasons.DT_Seasons.Winter.SeasonName_32_5B98423D4AD9CEA8DB6FEE8CA1BA2A43
-msgctxt ",AD12763C47C93A7DC6D15F9357EC27BE"
-msgid "Winter"
-msgstr "Winter"
-
 #. Key:	AD3F97BF4FA13667CFE23FB32F98D01A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_076.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_076.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4954,13 +4975,6 @@ msgstr "Dotter Nenhun Sporen"
 msgctxt ",B13FE8674AF427ED5B755FB965CF9AD6"
 msgid "Accept"
 msgstr "Akzeptieren"
-
-#. Key:	B15EECD640B763D7137A7CA02F1F9CD5
-#. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-msgctxt ",B15EECD640B763D7137A7CA02F1F9CD5"
-msgid "Village Event"
-msgstr "Dorf-Event"
 
 #. Key:	B1A9E81D4F71266F5D0DAC9C75345741
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_villageShop.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
@@ -5214,13 +5228,6 @@ msgctxt ",BA33F10D4408CBEE7E2350B8E6200656"
 msgid "Rafflessia"
 msgstr "Rafflessie"
 
-#. Key:	BA3EF14B4AFF9E07AF21C2BE9F8498E2
-#. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-msgctxt ",BA3EF14B4AFF9E07AF21C2BE9F8498E2"
-msgid "Do you want to end the event and the day? "
-msgstr "Möchten du die Veranstaltung und den Tag beenden? "
-
 #. Key:	BA5584234558704460CC1F97087DDA1F
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Skirt_5.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 #: /Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Skirt_5.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -5375,6 +5382,13 @@ msgctxt ",C00EFA7E461AF53D5301EE99119091E4"
 msgid "Resume"
 msgstr "Zurück kehren"
 
+#. Key:	C026E89345DFADD6B30A5393D5B80435
+#. SourceLocation:	/Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:Update [Script Bytecode]
+#: /Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:Update [Script Bytecode]
+msgctxt ",C026E89345DFADD6B30A5393D5B80435"
+msgid "Convert to {amount}"
+msgstr ""
+
 #. Key:	C027EB1D48D333150D076DAD814D8859
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_020.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_020.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5436,7 +5450,7 @@ msgstr "Gibt deinem Laden einen Namen"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_038.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",C20E7A2F4DC00761A3739A9951CD1552"
 msgid "Crystared Figure"
-msgstr ""
+msgstr "Kristarot"
 
 #. Key:	C2630EB4435EA2D55CAFCBBE58EC6068
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_KeyBindingModule.Widget_KeyBindingModule_C:WidgetTree.ActionNameText.Text
@@ -5472,13 +5486,6 @@ msgstr "Hölzerne Gießkanne"
 msgctxt ",C341049440E21A1DED36F8AA6BA05E17"
 msgid "Amanita Spores"
 msgstr "Amanita Sporen"
-
-#. Key:	C36CA92C4C86BC3587E20A9137F4D2AB
-#. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_ClothSet.Default__Widget_ClothSet_C.Set Ref.SetName_7_0180FC21495D9D7BFC824285DD2897BD
-#: /Game/Blueprints/Actors/CharacterCreation/Widget_ClothSet.Default__Widget_ClothSet_C.Set Ref.SetName_7_0180FC21495D9D7BFC824285DD2897BD
-msgctxt ",C36CA92C4C86BC3587E20A9137F4D2AB"
-msgid "Set 01"
-msgstr "Set 01"
 
 #. Key:	C36EBB014709F098FADFAA81014F4F15
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_253.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5673,8 +5680,8 @@ msgstr "Drücke <img id=\"{buttonCode3}\"/> um zu platzieren\r\n\r\nDrücke <img
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:WidgetTree.TextBlock_5.Text
 #: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",C9F0CB2D4ED3306A59A630BDE8328BAD"
-msgid "All your unsaved progress will be lost, are you sure?"
-msgstr "Alle nicht gespeicherten Fortschritte gehen verloren, bist du sicher?"
+msgid "Do you want to leave the game?"
+msgstr ""
 
 #. Key:	C9F8D2054582FE7B1D9C6A81FF276DF7
 #. SourceLocation:	/Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
@@ -5942,6 +5949,13 @@ msgctxt ",CFFA60C24307EC4331A6E78200CC63B7"
 msgid "Crow's Nest Ferm"
 msgstr "Krähennestfarn"
 
+#. Key:	D00362974CA916D829B0D7B64E5EB1AB
+#. SourceLocation:	/Game/UI/Credits/DT_Credits.DT_Credits.credit_8.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
+#: /Game/UI/Credits/DT_Credits.DT_Credits.credit_8.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
+msgctxt ",D00362974CA916D829B0D7B64E5EB1AB"
+msgid "Spanish Translation"
+msgstr ""
+
 #. Key:	D009D00C4D55B9B309C57BACE0ED7501
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_072.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_072.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6046,13 +6060,6 @@ msgstr "Sie hat mir erzählt, dass es mal Wesen gab, die von irgendeiner Art Blu
 msgctxt ",D416D77647537514EF6A9F81786F3D47"
 msgid "Tue"
 msgstr "Di"
-
-#. Key:	D41B35E44AC5BC9995AC88AA4ADC8217
-#. SourceLocation:	/Game/Blueprints/Datatables/DT_Seasons.DT_Seasons.Autumn.SeasonName_32_5B98423D4AD9CEA8DB6FEE8CA1BA2A43
-#: /Game/Blueprints/Datatables/DT_Seasons.DT_Seasons.Autumn.SeasonName_32_5B98423D4AD9CEA8DB6FEE8CA1BA2A43
-msgctxt ",D41B35E44AC5BC9995AC88AA4ADC8217"
-msgid "Autumn"
-msgstr "Herbst"
 
 #. Key:	D49313124F602FB8B3B974831A8A8DEA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_26.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -6179,6 +6186,13 @@ msgstr "Ein Samen, der eine Feenlaune-Pflanze enthält. Pflanze ihn in bearbeite
 msgctxt ",D762210A4883A3DFFA1A9F87BA264F3E"
 msgid "Do you want to remove the message?"
 msgstr "Willst du die Nachricht löschen?"
+
+#. Key:	D8359A7B4513B130A6AB69BAE5F52E4A
+#. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
+#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
+msgctxt ",D8359A7B4513B130A6AB69BAE5F52E4A"
+msgid "Unstuck Player"
+msgstr ""
 
 #. Key:	D8E9DA4A4D1E796DCDB900AFD3CC0B80
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant [Script Bytecode]
@@ -6460,6 +6474,13 @@ msgctxt ",E15421594CDBA9A6101649B31BF05A05"
 msgid "Seed that contains a pineapple plant."
 msgstr "Saat aus der eine Ananas wächst."
 
+#. Key:	E1BEA4BC43C90EC9568FB2B2593A3E34
+#. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+msgctxt ",E1BEA4BC43C90EC9568FB2B2593A3E34"
+msgid "ON"
+msgstr ""
+
 #. Key:	E1E7DB1F4FF9107CB666419CC4DBCF15
 #. SourceLocation:	/Game/UI/Widget_CalendarDayDetails.Widget_CalendarDayDetails_C:WidgetTree.TextBlock_97.Text
 #: /Game/UI/Widget_CalendarDayDetails.Widget_CalendarDayDetails_C:WidgetTree.TextBlock_97.Text
@@ -6508,6 +6529,13 @@ msgstr "Ein rudimentäres Beil aus Stein, es hat nicht viel Haltbarkeit."
 msgctxt ",E33E5F8F448DF55478C743B905590AC7"
 msgid "Non-reactive components"
 msgstr "Komponenten haben nicht miteinander Reagiert"
+
+#. Key:	E38DCB0B4FB92232B2A826A2C1D29786
+#. SourceLocation:	/Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
+#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
+msgctxt ",E38DCB0B4FB92232B2A826A2C1D29786"
+msgid "This item is from a previous version and is obsolete, press the right mouse button to exchange it for gold."
+msgstr ""
 
 #. Key:	E3B39FC445932EE97222689637064AA0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_051.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -7342,6 +7370,13 @@ msgctxt "LocalizatedMessages,assignmentsKey"
 msgid "Assignments"
 msgstr "Aufträge"
 
+#. Key:	autumnKey
+#. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
+#: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
+msgctxt "LocalizatedMessages,autumnKey"
+msgid "Autumn"
+msgstr ""
+
 #. Key:	cancelKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
@@ -7551,6 +7586,13 @@ msgstr "Sommer"
 msgctxt "LocalizatedMessages,useKey"
 msgid "Use"
 msgstr "Benutzen"
+
+#. Key:	WinterKey
+#. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
+#: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
+msgctxt "LocalizatedMessages,WinterKey"
+msgid "Winter"
+msgstr ""
 
 #. Key:	writeName
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
