@@ -1,21 +1,24 @@
-﻿# Game Spanish translation.
+# Game Spanish translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2022-09-28 18:16\n"
-"PO-Revision-Date: 2022-09-28 18:16\n"
+"PO-Revision-Date: 2022-10-07 18:24+0200\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. Key:	003A60CC41864F1AA7140E88138383B2
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",003A60CC41864F1AA7140E88138383B2"
 msgid "Next"
 msgstr "Siguiente"
@@ -25,7 +28,7 @@ msgstr "Siguiente"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_033.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",00C917A04E9229858FAA9DA22D04F376"
 msgid "W.N. Bench"
-msgstr "Banco de trabajo W.N."
+msgstr "Banco W.N."
 
 #. Key:	01A4E46F4AC5340496B065A4D709534D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_069.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -106,7 +109,8 @@ msgstr "Jardinera de cobre, planta tus semillas tanto en interior como en exteri
 
 #. Key:	044B57C44F06FE4F96F272832531347C
 #. SourceLocation:	/Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",044B57C44F06FE4F96F272832531347C"
 msgid "Pickaxe"
 msgstr "Pico"
@@ -116,7 +120,9 @@ msgstr "Pico"
 #: /Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Base_02_Boots.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
 msgctxt ",049E43FA4834FFF8A86AE6AFAD948416"
 msgid "Gat Boots"
-msgstr "Botas\n Gato"
+msgstr ""
+"Botas\n"
+" Gato"
 
 #. Key:	04D5161347D7AADE1D4F8FA2C6F5C79E
 #. SourceLocation:	/Game/Blueprints/Actors/ShopSign/Widget_AlchemyNameSelector.Widget_AlchemyNameSelector_C:WidgetTree.EditableText1_1.Text
@@ -127,7 +133,8 @@ msgstr "JARDIN"
 
 #. Key:	04F99291421519CD67B5939FB91CFB8C
 #. SourceLocation:	/Game/UI/Widget_EnergyBar.Widget_EnergyBar_C:UpdateEnergyBar [Script Bytecode]
-#: /Game/UI/Widget_EnergyBar.Widget_EnergyBar_C:UpdateEnergyBar [Script Bytecode]
+#: /Game/UI/Widget_EnergyBar.Widget_EnergyBar_C:UpdateEnergyBar [Script
+#: Bytecode]
 msgctxt ",04F99291421519CD67B5939FB91CFB8C"
 msgid "Energy: {currentAmount}/{maxAmount}"
 msgstr "Energia: {currentAmount}/{maxAmount}"
@@ -148,7 +155,8 @@ msgstr "Lunes"
 
 #. Key:	06713A4547E902B006744A8E14C4710E
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText
+#: [Script Bytecode]
 msgctxt ",06713A4547E902B006744A8E14C4710E"
 msgid "Hold \"{Interact Button}\" to pick up"
 msgstr "Mantén pulsado \"{Interact Button}\" para recoger"
@@ -169,7 +177,8 @@ msgstr "Hola amigo alquimista. Después de un tiempo de viaje, decidí quedarme 
 
 #. Key:	071E956F4E0FEAA7080387B8F85F05F6
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",071E956F4E0FEAA7080387B8F85F05F6"
 msgid "Friday"
 msgstr "Viernes"
@@ -225,7 +234,8 @@ msgstr "Todas las tiendas necesitan de un mostrador para colocar los artículos 
 
 #. Key:	08F3AD95445EBBB8C7EE07BBCDF365FB
 #. SourceLocation:	/Game/Blueprints/Actors/BP_QuestManager.BP_QuestManager_C:GetNewQuest [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_QuestManager.BP_QuestManager_C:GetNewQuest [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_QuestManager.BP_QuestManager_C:GetNewQuest
+#: [Script Bytecode]
 msgctxt ",08F3AD95445EBBB8C7EE07BBCDF365FB"
 msgid "I need the following items"
 msgstr "Necesito los siguientes objetos"
@@ -246,7 +256,8 @@ msgstr "Venditas I (Brillante)"
 
 #. Key:	0A370A6744A4E0F965D89292DBA0640F
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
-#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
+#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter
+#: [Script Bytecode]
 msgctxt ",0A370A6744A4E0F965D89292DBA0640F"
 msgid "Your shop is now closed"
 msgstr "Tu tienda está cerrada"
@@ -281,14 +292,16 @@ msgstr "Un día mi padre me dijo muy serio: \"François, no puedes escribirle po
 
 #. Key:	0B53085B44A16E68464D4F946422980C
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton
+#: [Script Bytecode]
 msgctxt ",0B53085B44A16E68464D4F946422980C"
 msgid "{Potion Name} has been created"
 msgstr "{Potion Name} ha sido creada"
 
 #. Key:	0B795E754209FE75065029AC15F091DC
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant
+#: [Script Bytecode]
 msgctxt ",0B795E754209FE75065029AC15F091DC"
 msgid "Hold \"{interact}\" to harvest"
 msgstr "Mantén pulsado \"{interact}\" para cosechar"
@@ -302,7 +315,8 @@ msgstr "Celebra el verano disparando fuegos artificiales en la ciudad."
 
 #. Key:	0B8F81924EEE4A0B1822C08719150A57
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",0B8F81924EEE4A0B1822C08719150A57"
 msgid "Healing"
 msgstr "Curación"
@@ -351,7 +365,8 @@ msgstr "Semilla de Lavanda"
 
 #. Key:	0DF2C4E646EF5EC9A80952A90BE5011E
 #. SourceLocation:	/Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script Bytecode]
-#: /Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script Bytecode]
+#: /Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script
+#: Bytecode]
 msgctxt ",0DF2C4E646EF5EC9A80952A90BE5011E"
 msgid "SOLD"
 msgstr "VENDIDO"
@@ -393,7 +408,8 @@ msgstr "Lápida vacía. Colóquela en su jardín como una advertencia."
 
 #. Key:	0F153DA24E1A2F635963128BCDE50646
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",0F153DA24E1A2F635963128BCDE50646"
 msgid "Comfort"
 msgstr "Comodidad"
@@ -519,7 +535,8 @@ msgstr "Semilla de Musa"
 
 #. Key:	1319B61B48014DF032E933BF84D0760F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",1319B61B48014DF032E933BF84D0760F"
 msgid "Relaxing"
 msgstr "Relajante"
@@ -568,14 +585,16 @@ msgstr "Vibras de Perezoso"
 
 #. Key:	1565477643EE1BDC73FEE1A04194F35D
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(3
+#: - Value).DisplayNameMap
 msgctxt ",1565477643EE1BDC73FEE1A04194F35D"
 msgid "Furniture"
 msgstr "Mueble"
 
 #. Key:	157FB3D24CA8231E46A080B87F17B075
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:WatercanUsing [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:WatercanUsing [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:WatercanUsing
+#: [Script Bytecode]
 msgctxt ",157FB3D24CA8231E46A080B87F17B075"
 msgid "You have run out of water, go to a river to fill the watering can."
 msgstr "Te has quedado sin agua, rellena la regadera en el río."
@@ -619,8 +638,12 @@ msgstr "Poción medicinal que mejora la respiración."
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 #: /Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 msgctxt ",17692EC345335ED37D20E5B5A473C399"
-msgid "Press [{RotationKey}] to rotate\r\nPress [{ToggleGrid}] to toggle grid\r\n"
-msgstr "Pulsar [{RotationKey}] para girar\r\nPulsar [{ToggleGrid}] para alternar la cuadrícula\r\n"
+msgid ""
+"Press [{RotationKey}] to rotate\r\n"
+"Press [{ToggleGrid}] to toggle grid\r\n"
+msgstr ""
+"Pulsar [{RotationKey}] para girar\r\n"
+"Pulsar [{ToggleGrid}] para alternar la cuadrícula\r\n"
 
 #. Key:	1776D071433BC1E928A29C97680D309D
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(6).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -631,7 +654,8 @@ msgstr "¡Tenemos mucho que aprender!"
 
 #. Key:	177C2727464CF93D9F6360B4A27DA467
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText
+#: [Script Bytecode]
 msgctxt ",177C2727464CF93D9F6360B4A27DA467"
 msgid "Press <img id=\"{buttonCode}\"/> to interact"
 msgstr "Presiona <img id=\"{buttonCode}\"/> para interactuar"
@@ -673,7 +697,8 @@ msgstr "Piedra y Azul"
 
 #. Key:	19294FF649AF940F2BDF5D859D70647B
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter
+#: [Script Bytecode]
 msgctxt ",19294FF649AF940F2BDF5D859D70647B"
 msgid "Village Event"
 msgstr ""
@@ -697,7 +722,7 @@ msgstr "Campanilla Silvestre"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_043.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",19E07E6B45AD8414949F6298737BA20A"
 msgid "Crystamber Figure"
-msgstr "Figura de cristal"
+msgstr "Figura de Cristal Ambar"
 
 #. Key:	1A1E31224CFA6BEA56A3439A02B8BB76
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_0.Text
@@ -722,7 +747,8 @@ msgstr "Festival de Invierno"
 
 #. Key:	1A73872F4769E3DF832D3497435D2174
 #. SourceLocation:	/Game/UI/Widget_ToolBeltSlot.Widget_ToolBeltSlot_C:ExecuteUbergraph_Widget_ToolBeltSlot [Script Bytecode]
-#: /Game/UI/Widget_ToolBeltSlot.Widget_ToolBeltSlot_C:ExecuteUbergraph_Widget_ToolBeltSlot [Script Bytecode]
+#: /Game/UI/Widget_ToolBeltSlot.Widget_ToolBeltSlot_C:ExecuteUbergraph_Widget_ToolBeltSlot
+#: [Script Bytecode]
 msgctxt ",1A73872F4769E3DF832D3497435D2174"
 msgid "Unequip your tool first"
 msgstr "Desequipa tu herramienta primero"
@@ -813,7 +839,8 @@ msgstr "Calavera de Flores"
 
 #. Key:	1CC6021A480D43AB03779C870C4AD250
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(5
+#: - Value).DisplayNameMap
 msgctxt ",1CC6021A480D43AB03779C870C4AD250"
 msgid "Fences"
 msgstr "Cercas"
@@ -834,7 +861,8 @@ msgstr "Remedio para los huesos rotos, tan comunes en los niños intrépidos."
 
 #. Key:	1DBABC1B41D200481A99FDA0D5355305
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture
+#: [Script Bytecode]
 msgctxt ",1DBABC1B41D200481A99FDA0D5355305"
 msgid "This item cannot be placed inside"
 msgstr "Este artículo no puede colocarse en interiores"
@@ -848,7 +876,8 @@ msgstr "Semilla de Jacinto Muscari"
 
 #. Key:	1DE268AC4438667B35BC06858CF19478
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",1DE268AC4438667B35BC06858CF19478"
 msgid "Common"
 msgstr "Común"
@@ -904,7 +933,8 @@ msgstr "Ajedrez Azul de estrellas"
 
 #. Key:	1F9A1AAE448570931D04D6AA114979F4
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame
+#: [Script Bytecode]
 msgctxt ",1F9A1AAE448570931D04D6AA114979F4"
 msgid "Press on the green zone"
 msgstr "Pulsa en la zona verde"
@@ -939,7 +969,8 @@ msgstr "Fabricado en madera, ilumina los rincones más oscuros."
 
 #. Key:	209DD94D4814DBE8C82033ADF5FBCD03
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",209DD94D4814DBE8C82033ADF5FBCD03"
 msgid "Laboratory"
 msgstr "Laboratorio"
@@ -956,7 +987,7 @@ msgstr "Planta silvestre con delicadas flores de color escarlata brillante. ¡Mu
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_050.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",20C73A3A4439DF2E65B0E093DC595308"
 msgid "A lamp from the underworld, it can be placed both indoors and outdoors."
-msgstr "Espeluznante lámpara del inframundo. Puede colocarse tanto en interiores como en exteriores."
+msgstr "Lámpara espeluznante del inframundo. Puede colocarse tanto en interiores como en exteriores."
 
 #. Key:	20DCACBC40D43B1295904488B2B9A35B
 #. SourceLocation:	/Game/UI/Credits/DT_Credits.DT_Credits.credit_4.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
@@ -1030,7 +1061,8 @@ msgstr "Cuadrado de madera"
 
 #. Key:	22A76FB1478CD8AFE890DC887977E99A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText
+#: [Script Bytecode]
 msgctxt ",22A76FB1478CD8AFE890DC887977E99A"
 msgid "Small Tree"
 msgstr "Árbol pequeño"
@@ -1058,28 +1090,32 @@ msgstr "Hacha fabricada en hierro de alta durabilidad. Úsalo para talar árbole
 
 #. Key:	23A6E32147EA64A4BB9F1A99D1E42F07
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",23A6E32147EA64A4BB9F1A99D1E42F07"
 msgid "Saturday"
 msgstr "Sábado"
 
 #. Key:	23AE7AE540BFB9A0183A3BA4C61B16D7
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(3
+#: - Value).DisplayNameMap
 msgctxt ",23AE7AE540BFB9A0183A3BA4C61B16D7"
 msgid "Lighting"
 msgstr "Iluminación"
 
 #. Key:	2461A5A0490DAD58D0D0049C0A543396
 #. SourceLocation:	/Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",2461A5A0490DAD58D0D0049C0A543396"
 msgid "Hoe"
 msgstr "Azada"
 
 #. Key:	2487021E451402C58469FA84AC03AF6C
 #. SourceLocation:	/Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",2487021E451402C58469FA84AC03AF6C"
 msgid "Watercan"
 msgstr "Regadera Rudimentaria"
@@ -1093,7 +1129,8 @@ msgstr "Callicarpa"
 
 #. Key:	24BF937B424FDDB7252F178257CFB55B
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterMineral.BP_MasterMineral_C:ExecuteUbergraph_BP_MasterMineral [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterMineral.BP_MasterMineral_C:ExecuteUbergraph_BP_MasterMineral [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterMineral.BP_MasterMineral_C:ExecuteUbergraph_BP_MasterMineral
+#: [Script Bytecode]
 msgctxt ",24BF937B424FDDB7252F178257CFB55B"
 msgid "Use a pickaxe to extract the mineral"
 msgstr "Usa un pico para extraer el mineral"
@@ -1170,7 +1207,8 @@ msgstr "El invierno está a punto de terminar, y para augurar un próspero Año 
 
 #. Key:	275021B74C57FAB2E4F7A38BD9E90461
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture
+#: [Script Bytecode]
 msgctxt ",275021B74C57FAB2E4F7A38BD9E90461"
 msgid "This item cannot be placed outside"
 msgstr "Este objeto no puede colocarse en el exterior"
@@ -1179,8 +1217,18 @@ msgstr "Este objeto no puede colocarse en el exterior"
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 #: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 msgctxt ",278CCA9D4B7BAEB21EC4FB801791AB3F"
-msgid "Hello Alchemist!\r\n\r\nI wanted to thank you for helping me with that assignment the other day.\r\n\r\nI have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
-msgstr "¡Hola Alquimista!\r\n\r\nQuería darte las gracias por ayudarme con la tarea del otro día.\r\n\r\nHe encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
+msgid ""
+"Hello Alchemist!\r\n"
+"\r\n"
+"I wanted to thank you for helping me with that assignment the other day.\r\n"
+"\r\n"
+"I have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
+msgstr ""
+"¡Hola Alquimista!\r\n"
+"\r\n"
+"Quería darte las gracias por ayudarme con la tarea del otro día.\r\n"
+"\r\n"
+"He encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
 
 #. Key:	27C20EBE431762C073E38CA87DFE3836
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_288.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1242,8 +1290,14 @@ msgstr "Araña Espeluznante"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_room.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_room.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",299160B04505118D3F868785AA01DE21"
-msgid "Welcome to your house! At the moment it is somewhat empty and both the walls and the floors are not at their best...\r\n\r\nBut don't worry, with some work and enthusiasm you can repair the house and decorate it as you like. Turn this filthy house into a beautiful alchemy shop!"
-msgstr "¡Bienvenido a tu casa! De momento está vacío y tanto las paredes como los suelos no están en su mejor momento...\n\nPero no te preocupes, con algo de trabajo e ilusión podrás reparar la casa y decorarla a tu gusto. ¡Convierte esta sucia casa en una hermosa tienda de alquimia!"
+msgid ""
+"Welcome to your house! At the moment it is somewhat empty and both the walls and the floors are not at their best...\r\n"
+"\r\n"
+"But don't worry, with some work and enthusiasm you can repair the house and decorate it as you like. Turn this filthy house into a beautiful alchemy shop!"
+msgstr ""
+"¡Bienvenido a tu casa! De momento está vacío y tanto las paredes como los suelos no están en su mejor momento...\n"
+"\n"
+"Pero no te preocupes, con algo de trabajo e ilusión podrás reparar la casa y decorarla a tu gusto. ¡Convierte esta sucia casa en una hermosa tienda de alquimia!"
 
 #. Key:	29B5DEE345912248D2266C94B6028249
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Widgets/Widget_WellDone.Widget_WellDone_C:WidgetTree.TextBlock_25.Text
@@ -1254,10 +1308,11 @@ msgstr "¡Bien hecho!"
 
 #. Key:	2A0DA0FD4E9EA108F248658E5B7AB403
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter
+#: [Script Bytecode]
 msgctxt ",2A0DA0FD4E9EA108F248658E5B7AB403"
 msgid "Do you want to end the event and the day? "
-msgstr ""
+msgstr "¿Quieres terminar el evento y el día?"
 
 #. Key:	2AB938CD470E1BD0441CF19B2AC53624
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_166.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1275,7 +1330,8 @@ msgstr "Banco de trabajo, utilízalo para fabricar todo tipo de muebles y herram
 
 #. Key:	2B8164384433B8C26B0CF9AF047A3A3C
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell
+#: [Script Bytecode]
 msgctxt ",2B8164384433B8C26B0CF9AF047A3A3C"
 msgid "Close Shop"
 msgstr "Cerrar Tienda"
@@ -1291,8 +1347,18 @@ msgstr "Abrir Diario"
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.François.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 #: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.François.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 msgctxt ",2BC89A774FC077C39F84C0AEA976CBFB"
-msgid "Hello Alchemist!\r\n\r\nI wanted to thank you for helping me with that assignment the other day.\r\n\r\nI have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
-msgstr "¡Hola Alquimista!\r\n\r\nQuería darte las gracias por ayudarme con la tarea del otro día.\r\n\r\nHe encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
+msgid ""
+"Hello Alchemist!\r\n"
+"\r\n"
+"I wanted to thank you for helping me with that assignment the other day.\r\n"
+"\r\n"
+"I have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
+msgstr ""
+"¡Hola Alquimista!\r\n"
+"\r\n"
+"Quería darte las gracias por ayudarme con la tarea del otro día.\r\n"
+"\r\n"
+"He encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
 
 #. Key:	2C4879AF475D98C12C5475BE8397387A
 #. SourceLocation:	/Game/UI/Widget_ThrowItem.Widget_ThrowItem_C:WidgetTree.TextBlock_1.Text
@@ -1326,8 +1392,14 @@ msgstr "Calabaza con una vela azul en su interior... Espeluznante..."
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_bed.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_bed.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",2CF7C4ED49BDD86B706354ADDE669690"
-msgid "Go to bed to save progress, finish the day and recover your energy.\r\n\r\nThere is nothing like a good fluffy bed!"
-msgstr "Acuéstate para guardar tu progreso, terminar el día y recuperar energías.\n\n¡No hay nada como una buena cama mullida!"
+msgid ""
+"Go to bed to save progress, finish the day and recover your energy.\r\n"
+"\r\n"
+"There is nothing like a good fluffy bed!"
+msgstr ""
+"Acuéstate para guardar tu progreso, terminar el día y recuperar energías.\n"
+"\n"
+"¡No hay nada como una buena cama mullida!"
 
 #. Key:	2D531E5445C2E99AE205B29BDB36D9B9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_062.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1366,7 +1438,8 @@ msgstr "Poción que aumenta tus posibilidades de encontrar más de una semilla"
 
 #. Key:	2F01324245A02BFEEE9C27A99D3EE280
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(4 -
+#: Value).DisplayNameMap
 msgctxt ",2F01324245A02BFEEE9C27A99D3EE280"
 msgid "Winter Festival"
 msgstr "Festival de Invierno"
@@ -1401,7 +1474,8 @@ msgstr "Selecciona la ranura"
 
 #. Key:	308AC2DA47E2005922F034962D2B098F
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Mailbox.BP_Mailbox_C:ExecuteUbergraph_BP_Mailbox [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Mailbox.BP_Mailbox_C:ExecuteUbergraph_BP_Mailbox [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Mailbox.BP_Mailbox_C:ExecuteUbergraph_BP_Mailbox
+#: [Script Bytecode]
 msgctxt ",308AC2DA47E2005922F034962D2B098F"
 msgid "Mailbox"
 msgstr "Correo"
@@ -1429,7 +1503,8 @@ msgstr "Traducción rusa"
 
 #. Key:	315DA5F5460355A0C90F5099D7BDAED0
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message
+#: Rewards [Script Bytecode]
 msgctxt ",315DA5F5460355A0C90F5099D7BDAED0"
 msgid "Thank you Alchemist!"
 msgstr "¡Gracias Alquimista!"
@@ -1471,7 +1546,8 @@ msgstr "Atencion"
 
 #. Key:	3376EFA94A14E50743A9FBA90AAA396C
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell
+#: [Script Bytecode]
 msgctxt ",3376EFA94A14E50743A9FBA90AAA396C"
 msgid "Open Shop"
 msgstr "Abrir Tienda"
@@ -1520,7 +1596,8 @@ msgstr "Botas nómadas"
 
 #. Key:	34EB52084A66F3808B120BA08C938925
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
-#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
+#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New [Script
+#: Bytecode]
 msgctxt ",34EB52084A66F3808B120BA08C938925"
 msgid "Requested by: {npcName}"
 msgstr "Solicitado por: {npcName}"
@@ -1530,7 +1607,7 @@ msgstr "Solicitado por: {npcName}"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_050.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",34F25F334B72F0E90B23D5A6CF6037D0"
 msgid "Spooky Pocus Lamp"
-msgstr "Lámpara  Espeluznante"
+msgstr "Lámpara Espeluznante"
 
 #. Key:	354A95F24154DB695B85D3919D7BEBFA
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -1620,8 +1697,12 @@ msgstr "Veneno"
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.HalloweenEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
 #: /Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.HalloweenEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
 msgctxt ",380A57334ABECA1D619BCEA6AECE2BDB"
-msgid "Jack-O-Greedy has come to Rosewood Ville with tricks for everyone!\r\nFind all the wisps and bring them to Jack-O-Greedy, he will surely have a good reward for you."
-msgstr "¡Jack-O-Greedy ha llegado a Villa Palisandro con trucos para todos!\r\nEncuentra todos los wisps y llévaselos a Jack-O-Greedy, seguro que tendrá una buena recompensa para ti."
+msgid ""
+"Jack-O-Greedy has come to Rosewood Ville with tricks for everyone!\r\n"
+"Find all the wisps and bring them to Jack-O-Greedy, he will surely have a good reward for you."
+msgstr ""
+"¡Jack-O-Greedy ha llegado a Villa Palisandro con trucos para todos!\r\n"
+"Encuentra todos los wisps y llévaselos a Jack-O-Greedy, seguro que tendrá una buena recompensa para ti."
 
 #. Key:	3814600D430DEE498EEBFDB29D142FBF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_047.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -1646,7 +1727,8 @@ msgstr "Audio"
 
 #. Key:	38D8B46A4411EE84EADADBAA2BCE35A7
 #. SourceLocation:	/Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText
+#: [Script Bytecode]
 msgctxt ",38D8B46A4411EE84EADADBAA2BCE35A7"
 msgid "Use a Hatchet to chop down the tree."
 msgstr "Usa un hacha para cortar el árbol."
@@ -1704,12 +1786,17 @@ msgstr "Vitrina"
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
 #: /Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
 msgctxt ",3C8E66504163604F9D93FE90FD4B8C38"
-msgid "Press [{RotationKey}] to rotate\r\nPress [{ToggleGrid}] to toggle grid"
-msgstr "Pulsar [{RotationKey}] para girar\r\nPulsar [{ToggleGrid}] para alternar la cuadrícula"
+msgid ""
+"Press [{RotationKey}] to rotate\r\n"
+"Press [{ToggleGrid}] to toggle grid"
+msgstr ""
+"Pulsar [{RotationKey}] para girar\r\n"
+"Pulsar [{ToggleGrid}] para alternar la cuadrícula"
 
 #. Key:	3CD0113640AB8F40D9B0F49360E64A5D
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(9 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(9 -
+#: Value).DisplayNameMap
 msgctxt ",3CD0113640AB8F40D9B0F49360E64A5D"
 msgid "Winter Fair"
 msgstr "Festival de Invierno"
@@ -1760,29 +1847,47 @@ msgstr "Pequeña figura de momia. Póngalo en su casa o jardín para que su hoga
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 #: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 msgctxt ",3E77C2E8441ED374403927ABD13A4851"
-msgid "Hello Alchemist!\r\n\r\nI wanted to thank you for helping me with that assignment the other day.\r\n\r\nI have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
-msgstr "¡Hola Alquimista!\r\n\r\nQuería darte las gracias por ayudarme con la tarea del otro día.\r\n\r\nHe encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
+msgid ""
+"Hello Alchemist!\r\n"
+"\r\n"
+"I wanted to thank you for helping me with that assignment the other day.\r\n"
+"\r\n"
+"I have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
+msgstr ""
+"¡Hola Alquimista!\r\n"
+"\r\n"
+"Quería darte las gracias por ayudarme con la tarea del otro día.\r\n"
+"\r\n"
+"He encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
 
 #. Key:	3F43ABCB4054AC77F408D4B59EDD9EC6
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_villageShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_villageShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",3F43ABCB4054AC77F408D4B59EDD9EC6"
-msgid "In the village you will find some shops where you can buy all kinds of products.\r\n\r\nSeeds, clothes, tools and even furniture!"
-msgstr "En el pueblo encontrarás algunas tiendas donde comprar todo tipo de productos.\n\n¡Semillas, ropa, herramientas y hasta muebles!"
+msgid ""
+"In the village you will find some shops where you can buy all kinds of products.\r\n"
+"\r\n"
+"Seeds, clothes, tools and even furniture!"
+msgstr ""
+"En el pueblo encontrarás algunas tiendas donde comprar todo tipo de productos.\n"
+"\n"
+"¡Semillas, ropa, herramientas y hasta muebles!"
 
 #. Key:	3F565C4C4872636BA42565BEEFDB8F61
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",3F565C4C4872636BA42565BEEFDB8F61"
 msgid "Retrieve Items"
 msgstr "Recuperar elementos"
 
 #. Key:	3FA9A2DC4C8490A8F1123CB8CBB4264E
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter
+#: [Script Bytecode]
 msgctxt ",3FA9A2DC4C8490A8F1123CB8CBB4264E"
 msgid "Today there is an event in the town, if you enter you will not be able to leave until you finish the event. If you have pending tasks to do today, finish them before entering. "
-msgstr ""
+msgstr "Hoy hay un evento en el pueblo, si entras no podrás salir hasta que termine el evento. Si tienes tareas pendientes para hacer hoy, finalízalas antes de entrar."
 
 #. Key:	3FAABA05401A279C6B1A10A6FD9A9C71
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_VSyncModule.Widget_VSyncModule_C:WidgetTree.TextBlock.Text
@@ -1800,7 +1905,8 @@ msgstr "Pulsa [{ToggleGrid}] para alternar la cuadrícula"
 
 #. Key:	3FC5398247B8FCC02E7784B190F4AC14
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:UpdateKnownRecipe [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:UpdateKnownRecipe [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:UpdateKnownRecipe
+#: [Script Bytecode]
 msgctxt ",3FC5398247B8FCC02E7784B190F4AC14"
 msgid "Recipe Not Valid"
 msgstr "Receta no válida"
@@ -1821,7 +1927,8 @@ msgstr "Chaleco I"
 
 #. Key:	3FFFAA514542C524489E14BF2A0D8E2C
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(4
+#: - Value).DisplayNameMap
 msgctxt ",3FFFAA514542C524489E14BF2A0D8E2C"
 msgid "Component"
 msgstr "Componente"
@@ -1891,7 +1998,8 @@ msgstr "Semilla de Hocico Púrpura"
 
 #. Key:	41A87DFD4E6CD8AEB875B8ABD36E0085
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton
+#: [Script Bytecode]
 msgctxt ",41A87DFD4E6CD8AEB875B8ABD36E0085"
 msgid "Recipe Failed"
 msgstr "Receta fallida"
@@ -1900,8 +2008,18 @@ msgstr "Receta fallida"
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Patchy.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 #: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Patchy.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 msgctxt ",41FD7E734968CCB92D8CBF8D476BA3BE"
-msgid "Hello Alchemist!\r\n\r\nI wanted to thank you for helping me with that assignment the other day.\r\n\r\nI have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
-msgstr "¡Hola Alquimista!\r\n\r\nQuería darte las gracias por ayudarme con la tarea del otro día.\r\n\r\nHe encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
+msgid ""
+"Hello Alchemist!\r\n"
+"\r\n"
+"I wanted to thank you for helping me with that assignment the other day.\r\n"
+"\r\n"
+"I have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
+msgstr ""
+"¡Hola Alquimista!\r\n"
+"\r\n"
+"Quería darte las gracias por ayudarme con la tarea del otro día.\r\n"
+"\r\n"
+"He encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
 
 #. Key:	41FEC87B44AD44AD36A806A207E61EA0
 #. SourceLocation:	/Game/UI/Widget_ShopItemSlot.Widget_ShopItemSlot_C:WidgetTree.RemoveText.Text
@@ -1935,8 +2053,14 @@ msgstr "Negro"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_shopTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_shopTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",4366CC0E42D8BCB22878409AF7FDCCD0"
-msgid "At these tables you can place your products for sale. You can sell potions, plants and minerals.\r\n\r\nAt the moment, you only have a table but later you can buy more tables to expand your offer."
-msgstr "En estas mesas puedes colocar tus productos a la venta. Puedes vender pociones, plantas y minerales.\n\nDe momento solo tienes una mesa pero más adelante podrás comprar más mesas para ampliar tu oferta."
+msgid ""
+"At these tables you can place your products for sale. You can sell potions, plants and minerals.\r\n"
+"\r\n"
+"At the moment, you only have a table but later you can buy more tables to expand your offer."
+msgstr ""
+"En estas mesas puedes colocar tus productos a la venta. Puedes vender pociones, plantas y minerales.\n"
+"\n"
+"De momento solo tienes una mesa pero más adelante podrás comprar más mesas para ampliar tu oferta."
 
 #. Key:	43EE49E847296B2BAE3DEE82BF33291E
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:WidgetTree.DayText.Text
@@ -1971,7 +2095,7 @@ msgstr "Semilla de Crocosmia"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_171.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",4538D5674D8C22B1BAC79B99D2991EA3"
 msgid "A seed that contains a Cone Flower plant. Plant it on a tilled soil or in a flowerpot and water it to grow."
-msgstr "Semilla de Flor de Cono. Plántala en un suelo labrado o en una maceta y riégalo para que crezca."
+msgstr "Semilla de Equinácea. Plántala en un suelo labrado o en una maceta y riégalo para que crezca."
 
 #. Key:	45A94DC54850CE3E85343893043890C6
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_FPSModule.Widget_FPSModule_C:WidgetTree.TextBlock_74.Text
@@ -2017,7 +2141,8 @@ msgstr "Araña decorativa que se puede colocar en una pared. ¡No entres en pán
 
 #. Key:	47CEE62849FC39347AE2EE9C657F8CDE
 #. SourceLocation:	/Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script Bytecode]
-#: /Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script Bytecode]
+#: /Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script
+#: Bytecode]
 msgctxt ",47CEE62849FC39347AE2EE9C657F8CDE"
 msgid "{amount} left"
 msgstr "{amount} restantes"
@@ -2031,7 +2156,8 @@ msgstr "Cristal Ambar"
 
 #. Key:	48A80F3A454F04FCD2835F8BEA587775
 #. SourceLocation:	/Game/UI/MainMenu/Widget_GameMainMenu.Widget_GameMainMenu_C:ExecuteUbergraph_Widget_GameMainMenu [Script Bytecode]
-#: /Game/UI/MainMenu/Widget_GameMainMenu.Widget_GameMainMenu_C:ExecuteUbergraph_Widget_GameMainMenu [Script Bytecode]
+#: /Game/UI/MainMenu/Widget_GameMainMenu.Widget_GameMainMenu_C:ExecuteUbergraph_Widget_GameMainMenu
+#: [Script Bytecode]
 msgctxt ",48A80F3A454F04FCD2835F8BEA587775"
 msgid "Early Access Version | {version}"
 msgstr "Versión de Acceso Anticipado | {version}"
@@ -2080,7 +2206,8 @@ msgstr "Mineral de Hierro"
 
 #. Key:	4B3A0FF74BC6F3B348FFB3A937E9D0A3
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo
+#: [Script Bytecode]
 msgctxt ",4B3A0FF74BC6F3B348FFB3A937E9D0A3"
 msgid "Ends on {dayName} {dayNumber}, {month}."
 msgstr "Termina el {dayName} {dayNumber}, {month}."
@@ -2213,7 +2340,8 @@ msgstr "Estrella Rosa"
 
 #. Key:	4EC5B5E747D13CD9DB24248CC77AC59B
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_ModularFloor.BP_ModularFloor_C:ExecuteUbergraph_BP_ModularFloor [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_ModularFloor.BP_ModularFloor_C:ExecuteUbergraph_BP_ModularFloor [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_ModularFloor.BP_ModularFloor_C:ExecuteUbergraph_BP_ModularFloor
+#: [Script Bytecode]
 msgctxt ",4EC5B5E747D13CD9DB24248CC77AC59B"
 msgid "Change Floor / Repair"
 msgstr "Cambiar Suelo / Reparar"
@@ -2278,8 +2406,32 @@ msgstr "Emborrachacabras"
 #. SourceLocation:	/Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_135.Text
 #: /Game/UI/Widget_SplashScreen.Widget_SplashScreen_C:WidgetTree.TextBlock_135.Text
 msgctxt ",4FD9448A409516993DC39FBEB8048B8D"
-msgid "Thank you for participating in Alchemy Garden Early Access!\r\n\r\nYou are about to play a development version of the game, which involves the following:\r\n    - You may experience bugs.\r\n    - Strange design decisions by the developer.\r\n    - Limited content and features.\r\n    - Partial translations.\r\n    - Saved games may not be compatible with major updates.\r\n\r\nThe development process is long and iterative, so the game usually receives regular updates. Although I work hard to offer the best possible version of Alchemy Garden, it is possible that your user experience is not what you expected.\r\n\r\nPlease continue only if you agree with this, thank you for your patience. "
-msgstr "¡Gracias por participar en Alchemy Garden Early Access!\r\n\r\nTen en cuenta que estás jugando una versión en desarrollo del juego, lo que implica lo siguiente:\r\n    - Puedes experimentar errores.\r\n    - Extrañas decisiones de diseño por parte del desarrollador.\r\n    - Contenido y funciones limitadas.\r\n    - Traducciones parciales.\r\n    - Es posible que las partidas guardadas no sean compatibles con las actualizaciones principales.\r\n\r\nEl proceso de desarrollo es largo e iterativo, por lo que el juego suele recibir actualizaciones periódicas. Aunque trabajo duro para ofrecer la mejor versión posible de Alchemy Garden, es posible que tu experiencia de usuario no sea la que esperabas.\r\n\r\nContinúa solo si estás de acuerdo con esto, gracias por tu paciencia."
+msgid ""
+"Thank you for participating in Alchemy Garden Early Access!\r\n"
+"\r\n"
+"You are about to play a development version of the game, which involves the following:\r\n"
+"    - You may experience bugs.\r\n"
+"    - Strange design decisions by the developer.\r\n"
+"    - Limited content and features.\r\n"
+"    - Partial translations.\r\n"
+"    - Saved games may not be compatible with major updates.\r\n"
+"\r\n"
+"The development process is long and iterative, so the game usually receives regular updates. Although I work hard to offer the best possible version of Alchemy Garden, it is possible that your user experience is not what you expected.\r\n"
+"\r\n"
+"Please continue only if you agree with this, thank you for your patience. "
+msgstr ""
+"¡Gracias por participar en Alchemy Garden Early Access!\r\n"
+"\r\n"
+"Ten en cuenta que estás jugando una versión en desarrollo del juego, lo que implica lo siguiente:\r\n"
+"    - Puedes experimentar errores.\r\n"
+"    - Extrañas decisiones de diseño por parte del desarrollador.\r\n"
+"    - Contenido y funciones limitadas.\r\n"
+"    - Traducciones parciales.\r\n"
+"    - Es posible que las partidas guardadas no sean compatibles con las actualizaciones principales.\r\n"
+"\r\n"
+"El proceso de desarrollo es largo e iterativo, por lo que el juego suele recibir actualizaciones periódicas. Aunque trabajo duro para ofrecer la mejor versión posible de Alchemy Garden, es posible que tu experiencia de usuario no sea la que esperabas.\r\n"
+"\r\n"
+"Continúa solo si estás de acuerdo con esto, gracias por tu paciencia."
 
 #. Key:	5005C1444A5B985950060F8EEA8C013A
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:WidgetTree.PotionName_1.Text
@@ -2339,7 +2491,8 @@ msgstr "Camisa Nómada II"
 
 #. Key:	515CBAFF463338E89FD86E8E689DD4DB
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
-#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
+#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New [Script
+#: Bytecode]
 msgctxt ",515CBAFF463338E89FD86E8E689DD4DB"
 msgid "{amount} Gold"
 msgstr "{amount} Oros"
@@ -2423,7 +2576,8 @@ msgstr "¡Y desde ese día seguimos juntos!"
 
 #. Key:	5444AF7743B866AAC607A89B808FC60F
 #. SourceLocation:	/Game/UI/Widget_NewdayScreeen.Widget_NewdayScreeen_C:ShowNewDayMessage [Script Bytecode]
-#: /Game/UI/Widget_NewdayScreeen.Widget_NewdayScreeen_C:ShowNewDayMessage [Script Bytecode]
+#: /Game/UI/Widget_NewdayScreeen.Widget_NewdayScreeen_C:ShowNewDayMessage
+#: [Script Bytecode]
 msgctxt ",5444AF7743B866AAC607A89B808FC60F"
 msgid "Year {yearnNumber}"
 msgstr "Año {yearnNumber}"
@@ -2437,7 +2591,8 @@ msgstr "Trompeta Azul"
 
 #. Key:	5496C5E84364638DE6EA42B37C4B7323
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(5 -
+#: Value).DisplayNameMap
 msgctxt ",5496C5E84364638DE6EA42B37C4B7323"
 msgid "Exotic Fair"
 msgstr "Feria Exótica"
@@ -2451,14 +2606,16 @@ msgstr "Semilla de Amapola"
 
 #. Key:	552210E34F418B5CE15D59932339D8C7
 #. SourceLocation:	/Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script Bytecode]
-#: /Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script Bytecode]
+#: /Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script
+#: Bytecode]
 msgctxt ",552210E34F418B5CE15D59932339D8C7"
 msgid "Is Not Watered"
 msgstr "Necesita regado"
 
 #. Key:	55881FF247EBA6B36E73CA84B73C900C
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:CompleteQuest [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:CompleteQuest [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:CompleteQuest
+#: [Script Bytecode]
 msgctxt ",55881FF247EBA6B36E73CA84B73C900C"
 msgid "Quest complete!"
 msgstr "¡Tarea completada!"
@@ -2605,7 +2762,8 @@ msgstr "Plantas III"
 
 #. Key:	5B7E202C470D98A30BC03F971770479D
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant
+#: [Script Bytecode]
 msgctxt ",5B7E202C470D98A30BC03F971770479D"
 msgid "Press <img id=\"{buttonCode}\"/> to plant a seed"
 msgstr "Pulsa <img id=\"{buttonCode}\"/> para plantar una semilla"
@@ -2654,7 +2812,8 @@ msgstr "Fabricado en cobre con durabilidad media. Úsalo para recolectar mineral
 
 #. Key:	5D826FBC4C97132EBDF810BAC1770875
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText
+#: [Script Bytecode]
 msgctxt ",5D826FBC4C97132EBDF810BAC1770875"
 msgid "Hold <img id=\"{buttonCode}\"/> to pick up"
 msgstr "Mantén pulsado <img id=\"{buttonCode}\"/> para recoger"
@@ -2682,7 +2841,8 @@ msgstr ""
 
 #. Key:	5E174FC94C8DB149DE170AAC1CE73543
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",5E174FC94C8DB149DE170AAC1CE73543"
 msgid "Buy Clothes"
 msgstr "Comprar ropa"
@@ -2766,17 +2926,19 @@ msgstr "Poción de Petrificación"
 
 #. Key:	613CE3714C0C1BD24E8EAF8CED011A28
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo
+#: [Script Bytecode]
 msgctxt ",613CE3714C0C1BD24E8EAF8CED011A28"
 msgid "{retrieverName} needs you to bring him the following items before the deadline.  "
 msgstr "{retrieverName} necesita que le lleves los siguientes artículos antes de la fecha límite."
 
 #. Key:	6180F1C948B9F64EDE7E37B52EE805B8
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_PlayerHouse.BP_PlayerHouse_C:ExecuteUbergraph_BP_PlayerHouse [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_PlayerHouse.BP_PlayerHouse_C:ExecuteUbergraph_BP_PlayerHouse [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_PlayerHouse.BP_PlayerHouse_C:ExecuteUbergraph_BP_PlayerHouse
+#: [Script Bytecode]
 msgctxt ",6180F1C948B9F64EDE7E37B52EE805B8"
 msgid "Your House"
-msgstr "Tu Casa"
+msgstr "Entrar a Casa"
 
 #. Key:	6183EF3841B18428FB4045A40723C463
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/DT_Clothes.DT_Clothes.Nomad_Pants_2.Name_15_8FF278FD4147035C7A0FF1B384C41EE3
@@ -2801,7 +2963,8 @@ msgstr "Semilla de Rafflessia"
 
 #. Key:	628338D24C21755A80F427B5EA8233B0
 #. SourceLocation:	/Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
-#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
+#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01
+#: [Script Bytecode]
 msgctxt ",628338D24C21755A80F427B5EA8233B0"
 msgid "Close your shop before going to sleep."
 msgstr "Cierra tu tienda antes de irte a dormir."
@@ -2920,7 +3083,8 @@ msgstr "Madera Marrón"
 
 #. Key:	6653B87F47B7C733AB4F64B48CADCB9A
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",6653B87F47B7C733AB4F64B48CADCB9A"
 msgid "SALE"
 msgstr ""
@@ -2976,10 +3140,11 @@ msgstr "Villa Palisandro es un lugar precioso, ¿no crees?"
 
 #. Key:	687246954A84C29F482EDB856DF6157D
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
-#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
+#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu
+#: [Script Bytecode]
 msgctxt ",687246954A84C29F482EDB856DF6157D"
 msgid "Wait to unstuck again"
-msgstr ""
+msgstr "Esperar a colocarse de nuevo"
 
 #. Key:	68BEA9424A496CF6F42F7B9B3EB438FB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_058.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2997,7 +3162,8 @@ msgstr "Componente básico de la artesanía, extraído de las menas de cobre."
 
 #. Key:	69A8F5AB4B690487D05AC4837AA5D37D
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:ExecuteUbergraph_Widget_Mailbox_Message [Script Bytecode]
-#: /Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:ExecuteUbergraph_Widget_Mailbox_Message [Script Bytecode]
+#: /Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:ExecuteUbergraph_Widget_Mailbox_Message
+#: [Script Bytecode]
 msgctxt ",69A8F5AB4B690487D05AC4837AA5D37D"
 msgid "Remove Message"
 msgstr "Elimina mensaje"
@@ -3011,7 +3177,8 @@ msgstr "Botas Básicas"
 
 #. Key:	6A04064644FC2D7317EFBD834A030A83
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",6A04064644FC2D7317EFBD834A030A83"
 msgid "Seed"
 msgstr "Semilla"
@@ -3027,8 +3194,12 @@ msgstr "Fresa"
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
 #: /Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
 msgctxt ",6A6333954C0D565BC9C9B09B43B64798"
-msgid "The Spring Festival has arrived in Rosewood Ville.\r\nGo to town and collect all the hidden Easter Eggs to get an exclusive decorative item."
-msgstr "La Fiesta de la Primavera ha llegado a Villa Palisandro.\r\n¡Ve a la ciudad y recoge todos los Huevos de Pascua ocultos para conseguir un objeto decorativo exclusivo!"
+msgid ""
+"The Spring Festival has arrived in Rosewood Ville.\r\n"
+"Go to town and collect all the hidden Easter Eggs to get an exclusive decorative item."
+msgstr ""
+"La Fiesta de la Primavera ha llegado a Villa Palisandro.\r\n"
+"¡Ve a la ciudad y recoge todos los Huevos de Pascua ocultos para conseguir un objeto decorativo exclusivo!"
 
 #. Key:	6A7760354467D9D59F31D8949739BFC4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_149.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3060,7 +3231,8 @@ msgstr "Selecciona cantidad"
 
 #. Key:	6AF2BBCD4C35CC55682816AA0722CC75
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",6AF2BBCD4C35CC55682816AA0722CC75"
 msgid "Tool"
 msgstr "Herramienta"
@@ -3116,7 +3288,8 @@ msgstr "Marrón"
 
 #. Key:	6F76AD224D40A8EFAF07BD8F51874B3C
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message
+#: Rewards [Script Bytecode]
 msgctxt ",6F76AD224D40A8EFAF07BD8F51874B3C"
 msgid "I have found some objects for you."
 msgstr "He encontrado algunos objetos para ti."
@@ -3158,7 +3331,8 @@ msgstr "No hay eventos a la vista."
 
 #. Key:	712249FB4A83E38983597CAA0D3126DF
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",712249FB4A83E38983597CAA0D3126DF"
 msgid "Do you want to buy the Swamp House for {amount} gold?"
 msgstr "¿Quieres comprar la Casa del Pantano por {amount} de oro?"
@@ -3172,7 +3346,8 @@ msgstr "Planta de nombre extraño, se puede ver en zonas pantanosas. Tiene propi
 
 #. Key:	717904624221BF2F8E7214910845AF27
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",717904624221BF2F8E7214910845AF27"
 msgid "Magic Grocery"
 msgstr "Supermercado Mágico"
@@ -3200,7 +3375,8 @@ msgstr "Menú de elementos"
 
 #. Key:	722FBD344FFC219F047FF8A9A307947D
 #. SourceLocation:	/Game/UI/Widget_InventorySlot.Widget_InventorySlot_C:OnDrop [Script Bytecode]
-#: /Game/UI/Widget_InventorySlot.Widget_InventorySlot_C:OnDrop [Script Bytecode]
+#: /Game/UI/Widget_InventorySlot.Widget_InventorySlot_C:OnDrop [Script
+#: Bytecode]
 msgctxt ",722FBD344FFC219F047FF8A9A307947D"
 msgid "Use"
 msgstr "Usar"
@@ -3249,7 +3425,8 @@ msgstr "¡Creo que me quedaré aquí por muchos años!"
 
 #. Key:	749C37F8437EC82089014AA1E5322D6E
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeComponent.Widget_PotionRecipeComponent_C:UpdateSlot [Script Bytecode]
-#: /Game/UI/Journal/Widget_PotionRecipeComponent.Widget_PotionRecipeComponent_C:UpdateSlot [Script Bytecode]
+#: /Game/UI/Journal/Widget_PotionRecipeComponent.Widget_PotionRecipeComponent_C:UpdateSlot
+#: [Script Bytecode]
 msgctxt ",749C37F8437EC82089014AA1E5322D6E"
 msgid "Not Discovered"
 msgstr "No se ha descubierto"
@@ -3305,7 +3482,8 @@ msgstr "Tintero antiguo de aspecto distinguido."
 
 #. Key:	7679A73249B51D0B2C6DC0B4E2137DFA
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",7679A73249B51D0B2C6DC0B4E2137DFA"
 msgid "Exotic"
 msgstr "Exótico"
@@ -3319,7 +3497,8 @@ msgstr "Semilla de Emborracha cabras. Plántala en un suelo labrado o en una mac
 
 #. Key:	76DA004749F72428A4CE7D82B3EF2788
 #. SourceLocation:	/Game/UI/Widget_LoadGame.Widget_LoadGame_C:GetDayAndGoldInfo [Script Bytecode]
-#: /Game/UI/Widget_LoadGame.Widget_LoadGame_C:GetDayAndGoldInfo [Script Bytecode]
+#: /Game/UI/Widget_LoadGame.Widget_LoadGame_C:GetDayAndGoldInfo [Script
+#: Bytecode]
 msgctxt ",76DA004749F72428A4CE7D82B3EF2788"
 msgid "Year {yearint}"
 msgstr "Año {yearint}"
@@ -3382,7 +3561,8 @@ msgstr "Los otros niños preferían hacer pasteles de barro y perseguir gatos."
 
 #. Key:	78569458453E25BD2E6E15B77166086B
 #. SourceLocation:	/Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
-#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
+#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01
+#: [Script Bytecode]
 msgctxt ",78569458453E25BD2E6E15B77166086B"
 msgid "Finsh Day"
 msgstr "Día final"
@@ -3417,7 +3597,8 @@ msgstr "Crema"
 
 #. Key:	7A1B124348B2EF4D009B18922F52D0B6
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(5 -
+#: Value).DisplayNameMap
 msgctxt ",7A1B124348B2EF4D009B18922F52D0B6"
 msgid "Aromatic"
 msgstr "Aromatica"
@@ -3473,7 +3654,8 @@ msgstr "Entrega a Patchi Goldthread los siguientes objetos:"
 
 #. Key:	7DCA4B1441096E8303D729B3FB7B6C00
 #. SourceLocation:	/Game/Blueprints/Actors/BP_ToolBelt.BP_ToolBelt_C:ReduceItemDurability [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_ToolBelt.BP_ToolBelt_C:ReduceItemDurability [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_ToolBelt.BP_ToolBelt_C:ReduceItemDurability
+#: [Script Bytecode]
 msgctxt ",7DCA4B1441096E8303D729B3FB7B6C00"
 msgid "Use"
 msgstr "Usar"
@@ -3504,7 +3686,7 @@ msgstr ""
 #: /Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_5.LocalizedName_31_4536304E415088940F6209BD50C2E090
 msgctxt ",7EFE0FCF456DE7808E44F78EA0B8E0EE"
 msgid "Sprint"
-msgstr "Sprint"
+msgstr "Correr"
 
 #. Key:	7F0F2AA24ED841501B8CC8B114D78F52
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_180.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -3550,7 +3732,8 @@ msgstr "Planta cuyas flores suelen tener un color rosado y bordes blancos."
 
 #. Key:	81286D4A4B3C788402DB36A81439969A
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
-#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
+#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New [Script
+#: Bytecode]
 msgctxt ",81286D4A4B3C788402DB36A81439969A"
 msgid "Ends on {dayName} {dayNumber}, {month}."
 msgstr "Termina en {dayName} {dayNumber}, {month}."
@@ -3578,7 +3761,8 @@ msgstr "Para celebrar el verano vamos a disparar fuegos artificiales, ¿quieres 
 
 #. Key:	8231D1AB41AE6899D11D69A43E8A6406
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant
+#: [Script Bytecode]
 msgctxt ",8231D1AB41AE6899D11D69A43E8A6406"
 msgid "Hold \"{interact}\" to harvest"
 msgstr "Mantén pulsado \"{interact}\" para cosechar"
@@ -3655,14 +3839,16 @@ msgstr "Piedra y Rojo"
 
 #. Key:	8409952544112F7B675D988562977384
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",8409952544112F7B675D988562977384"
 msgid "Alchemist Apothecary"
-msgstr ""
+msgstr "Boticario Alquimista"
 
 #. Key:	844394C34E4FBF3355F26981BECD8345
 #. SourceLocation:	/Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
-#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
+#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01
+#: [Script Bytecode]
 msgctxt ",844394C34E4FBF3355F26981BECD8345"
 msgid "Do you want save your progress and end the day? "
 msgstr "¿Quieres guardar tu progreso y terminar el día?"
@@ -3683,10 +3869,15 @@ msgstr "Camisa mística III"
 
 #. Key:	8518942547B695AE9C3ADE871F02236E
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText
+#: [Script Bytecode]
 msgctxt ",8518942547B695AE9C3ADE871F02236E"
-msgid "Press <img id=\"{buttonCode}\"/> to interact\r\nHold <img id=\"{buttonCode}\"/> to pick up"
-msgstr "Presiona <img id=\"{buttonCode}\"/> para interactuar\r\nMantén pulsado <img id=\"{buttonCode}\"/> para recoger"
+msgid ""
+"Press <img id=\"{buttonCode}\"/> to interact\r\n"
+"Hold <img id=\"{buttonCode}\"/> to pick up"
+msgstr ""
+"Presiona <img id=\"{buttonCode}\"/> para interactuar\r\n"
+"Mantén pulsado <img id=\"{buttonCode}\"/> para recoger"
 
 #. Key:	851B693F438C7181BDE38CA66C130696
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_079.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3713,8 +3904,22 @@ msgstr "Cerca de estacas"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_openShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_openShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",855B670F4733F6664EDB359E2DF31521"
-msgid "Touch the bell to open your shop, from that moment on all kinds of customers will enter your establishment.\r\n\r\nSome of them will find what they are looking for in the counters, however, others will make special requests.\r\n\r\nYou can close and open your shop at any time, but keep in mind that you will not be able to leave home while you have the shop open.\r\n\r\nGood luck!"
-msgstr "Toca la campana para abrir tu tienda, a partir de ese momento entrará en tu establecimiento todo tipo de clientes.\n\nAlgunos de ellos encontrarán lo que buscan en los mostradores, sin embargo, otros harán pedidos especiales.\n\nPuedes cerrar y abrir tu tienda en cualquier momento, pero ten en cuenta que no podrás salir de casa mientras tengas la tienda abierta.\n\n¡Buena suerte!"
+msgid ""
+"Touch the bell to open your shop, from that moment on all kinds of customers will enter your establishment.\r\n"
+"\r\n"
+"Some of them will find what they are looking for in the counters, however, others will make special requests.\r\n"
+"\r\n"
+"You can close and open your shop at any time, but keep in mind that you will not be able to leave home while you have the shop open.\r\n"
+"\r\n"
+"Good luck!"
+msgstr ""
+"Toca la campana para abrir tu tienda, a partir de ese momento entrará en tu establecimiento todo tipo de clientes.\n"
+"\n"
+"Algunos de ellos encontrarán lo que buscan en los mostradores, sin embargo, otros harán pedidos especiales.\n"
+"\n"
+"Puedes cerrar y abrir tu tienda en cualquier momento, pero ten en cuenta que no podrás salir de casa mientras tengas la tienda abierta.\n"
+"\n"
+"¡Buena suerte!"
 
 #. Key:	8643BC15496E2A989C7202AA5E7C2031
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:WidgetTree.SubjectText.Text
@@ -3760,7 +3965,8 @@ msgstr "Dividir"
 
 #. Key:	87644D664259D55E2C543B9935E58A07
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant
+#: [Script Bytecode]
 msgctxt ",87644D664259D55E2C543B9935E58A07"
 msgid "Watered"
 msgstr "Regado"
@@ -3858,7 +4064,8 @@ msgstr "Melocotón"
 
 #. Key:	8BBFD11841E2E09FE874D19A64D580B6
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",8BBFD11841E2E09FE874D19A64D580B6"
 msgid "Congratulations, you are now the owner of The Swamp House!"
 msgstr "¡Felicitaciones, ahora eres el propietario de La Casa del Pantano!"
@@ -3942,7 +4149,8 @@ msgstr "Curiosa planta sin hojas. Sus flores moradas tienen forma de campana."
 
 #. Key:	8E2315D2483BFB6F896E38AC8B5A2983
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText
+#: [Script Bytecode]
 msgctxt ",8E2315D2483BFB6F896E38AC8B5A2983"
 msgid "Press \"{Interact Button}\" key to interact"
 msgstr "Presiona \"{Interact Button}\" para interactuar"
@@ -3963,7 +4171,8 @@ msgstr "Brillante y de color azul, obtenido de minerales de creistal."
 
 #. Key:	8FAD1731454A1D9B3120FCBA979ADF3D
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk
+#: [Script Bytecode]
 msgctxt ",8FAD1731454A1D9B3120FCBA979ADF3D"
 msgid "This piece of land has a cost of {price} gold, do you want to buy it?"
 msgstr "Este terreno tiene un coste de {price} oro, ¿quieres comprarlo?"
@@ -4005,7 +4214,8 @@ msgstr "Repelente, un camino dulce que engaña a las hormigas golosas."
 
 #. Key:	90F990AD46C3494DD880939006486799
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message
+#: Rewards [Script Bytecode]
 msgctxt ",90F990AD46C3494DD880939006486799"
 msgid "I hope this is useful to you."
 msgstr "¡Espero que te sea útil!"
@@ -4019,7 +4229,8 @@ msgstr "Jardinera de madera, planta tus semillas tanto en interior como en exter
 
 #. Key:	91AE888A435EF01FC32D549CEDBE7C08
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 -
+#: Value).DisplayNameMap
 msgctxt ",91AE888A435EF01FC32D549CEDBE7C08"
 msgid "Autumn Fair"
 msgstr "Festival de Otoño"
@@ -4056,12 +4267,23 @@ msgstr "Toda mi familia ha continuado con el negocio, así que cuando se dieron 
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_mine.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_mine.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",92776E66459A0FDDEDAD2AAF66193898"
-msgid "Here you can find some minerals every day.\r\n\r\nWith minerals, you can't make potions, but you can sell them to earn some money, or use them to make objects.\r\n\r\nUse the Pickaxe to extract them!"
-msgstr "Aquí puedes encontrar algunos minerales todos los días.\n\nCon los minerales no puedes hacer pociones, pero puedes venderlos para ganar algo de dinero o usarlos para hacer objetos.\n\n¡Usa el pico para extraerlos!"
+msgid ""
+"Here you can find some minerals every day.\r\n"
+"\r\n"
+"With minerals, you can't make potions, but you can sell them to earn some money, or use them to make objects.\r\n"
+"\r\n"
+"Use the Pickaxe to extract them!"
+msgstr ""
+"Aquí puedes encontrar algunos minerales todos los días.\n"
+"\n"
+"Con los minerales no puedes hacer pociones, pero puedes venderlos para ganar algo de dinero o usarlos para hacer objetos.\n"
+"\n"
+"¡Usa el pico para extraerlos!"
 
 #. Key:	9287967E4689937F264DD1A2584EB78E
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(6 -
+#: Value).DisplayNameMap
 msgctxt ",9287967E4689937F264DD1A2584EB78E"
 msgid "Spring Fair"
 msgstr "Festival de Primavera"
@@ -4075,7 +4297,8 @@ msgstr "Miércoles"
 
 #. Key:	92B567D34CD7916E5CE95B9F4402605F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",92B567D34CD7916E5CE95B9F4402605F"
 msgid "Decorative"
 msgstr "Decorativo"
@@ -4180,7 +4403,8 @@ msgstr "Carro de Pascua"
 
 #. Key:	963DEBFB48CE3B3DA09C98BC565270A6
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",963DEBFB48CE3B3DA09C98BC565270A6"
 msgid "Quirky Shop"
 msgstr "Tienda extravagante"
@@ -4194,14 +4418,16 @@ msgstr "Partida"
 
 #. Key:	969416D74488CA5AC7707CA9AA2EA9E4
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_ModularWall.BP_ModularWall_C:ExecuteUbergraph_BP_ModularWall [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_ModularWall.BP_ModularWall_C:ExecuteUbergraph_BP_ModularWall [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_ModularWall.BP_ModularWall_C:ExecuteUbergraph_BP_ModularWall
+#: [Script Bytecode]
 msgctxt ",969416D74488CA5AC7707CA9AA2EA9E4"
 msgid "Change Wall / Repair"
 msgstr "Cambiar Pared / Reparar"
 
 #. Key:	96CA03B040FA11FFD3EFDBB67900C6A1
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",96CA03B040FA11FFD3EFDBB67900C6A1"
 msgid "I want to change my appearance"
 msgstr "Quiero cambiar mi apariencia"
@@ -4281,7 +4507,7 @@ msgstr "Hacha de Hierro"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_307.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",98F2B4E4438026F3E3FB4E8988A8AF9F"
 msgid "Seed that contains a Musa Velutina plant."
-msgstr ""
+msgstr "Semilla de Musa Velutina."
 
 #. Key:	993B2DD14783E361237BECA829EA876A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_269.UseText_31_2408F33E4DFC5CE5C17922A1B5C36B63
@@ -4313,7 +4539,8 @@ msgstr "Vender artículo"
 
 #. Key:	9B3B73DD490C5CF6EE015BB9E0D40DB6
 #. SourceLocation:	/Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu [Script Bytecode]
-#: /Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu [Script Bytecode]
+#: /Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu
+#: [Script Bytecode]
 msgctxt ",9B3B73DD490C5CF6EE015BB9E0D40DB6"
 msgid "Apply"
 msgstr "Aplicar"
@@ -4364,8 +4591,14 @@ msgstr "Trompeta Roja"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_alchemyTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_alchemyTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",9C90042543EF80FF150CD384E15F0B4D"
-msgid "Use the alchemy table to create your own potions.\r\n\r\nTo do this you will need 3 types of plants, experiment with combinations to discover new recipes to offer your customers!"
-msgstr "Usa la Mesa de alquimia para crear tus propias pociones.\n\nPara hacer esto necesitarás 3 tipos de plantas, ¡experimenta con combinaciones para descubrir nuevas recetas para ofrecer a tus clientes!"
+msgid ""
+"Use the alchemy table to create your own potions.\r\n"
+"\r\n"
+"To do this you will need 3 types of plants, experiment with combinations to discover new recipes to offer your customers!"
+msgstr ""
+"Usa la Mesa de alquimia para crear tus propias pociones.\n"
+"\n"
+"Para hacer esto necesitarás 3 tipos de plantas, ¡experimenta con combinaciones para descubrir nuevas recetas para ofrecer a tus clientes!"
 
 #. Key:	9CE64A83441F4AC2FD8513AAD720E4FC
 #. SourceLocation:	/Game/UI/Botanical/Widget_JournalPlantDetails.Widget_JournalPlantDetails_C:WidgetTree.PlantSeason.Text
@@ -4376,7 +4609,8 @@ msgstr "Estación:"
 
 #. Key:	9D04D9B64859069B1568D4937D662C62
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
-#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
+#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter
+#: [Script Bytecode]
 msgctxt ",9D04D9B64859069B1568D4937D662C62"
 msgid "Shop Book"
 msgstr "Libro de Tienda"
@@ -4400,7 +4634,7 @@ msgstr "Semilla de ciprés. Plántala en un suelo labrado y riégalo para que cr
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_298.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",9D2DBD38410C92F863093BA86CACB18B"
 msgid "Black Nenhun Spores"
-msgstr ""
+msgstr "Esporas de Black Nenhun"
 
 #. Key:	9D3ED7AE4A7A7D3B1FFE5D9B0C86AE9E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_281.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4488,7 +4722,8 @@ msgstr "El inventario de semillas se renueva semanalmente, vuelve el lunes por m
 
 #. Key:	A013C8F848619869B074859A7A44D459
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",A013C8F848619869B074859A7A44D459"
 msgid "Thursday"
 msgstr "Jueves"
@@ -4509,7 +4744,8 @@ msgstr "Gran estanque decorativo con un puente."
 
 #. Key:	A0950B6A447C89E03BF3C9BF027E3506
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant
+#: [Script Bytecode]
 msgctxt ",A0950B6A447C89E03BF3C9BF027E3506"
 msgid "Hold <img id=\"{buttonCode}\"/> to harvest"
 msgstr "Mantén pulsado <img id=\"{buttonCode}\"/> para cosechar"
@@ -4544,7 +4780,8 @@ msgstr "Planta silvestre muy utilizada en la medicina tradicional. ¿También ll
 
 #. Key:	A26B3861461C0FEA3FB34394DA8B6DEA
 #. SourceLocation:	/Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EToolTypes.EToolTypes.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",A26B3861461C0FEA3FB34394DA8B6DEA"
 msgid "Hatchet"
 msgstr "Hacha"
@@ -4572,7 +4809,8 @@ msgstr "Pequeño arbusto exótico con hermosas flores azules. También se le con
 
 #. Key:	A32ABC804652E5D14976CDBDFE71A183
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:ExecuteUbergraph_Widget_QuestCard [Script Bytecode]
-#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:ExecuteUbergraph_Widget_QuestCard [Script Bytecode]
+#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:ExecuteUbergraph_Widget_QuestCard
+#: [Script Bytecode]
 msgctxt ",A32ABC804652E5D14976CDBDFE71A183"
 msgid "Assignment Accepted"
 msgstr "Asignación aceptada"
@@ -4628,7 +4866,8 @@ msgstr "Estantería de pared W.N."
 
 #. Key:	A5ACC0664314A738300EB381785086D6
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant
+#: [Script Bytecode]
 msgctxt ",A5ACC0664314A738300EB381785086D6"
 msgid "Needs to be watered"
 msgstr "Necesita regado"
@@ -4663,7 +4902,8 @@ msgstr "Tu buzón está vacío"
 
 #. Key:	A63D750B42287B0BB9FB3DB013DFFB3F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(7 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(7
+#: - Value).DisplayNameMap
 msgctxt ",A63D750B42287B0BB9FB3DB013DFFB3F"
 msgid "Tree Seed"
 msgstr "Semilla de Árbol"
@@ -4691,7 +4931,8 @@ msgstr "Una jardinera de pared de cobre, planta tus semillas tanto en interior c
 
 #. Key:	A7D28B3143D5A93017D1EA8B1CFD7CC4
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",A7D28B3143D5A93017D1EA8B1CFD7CC4"
 msgid "Maybe later"
 msgstr "Quizás más tarde"
@@ -4705,7 +4946,8 @@ msgstr "¡Me alegro de que hayas aceptado el pedido! Tráeme lo que te pido y te
 
 #. Key:	A85AC7214CE39DF333D30D9400D2F964
 #. SourceLocation:	/Game/UI/Widget_ObtainedItemNotification.Widget_ObtainedItemNotification_C:ExecuteUbergraph_Widget_ObtainedItemNotification [Script Bytecode]
-#: /Game/UI/Widget_ObtainedItemNotification.Widget_ObtainedItemNotification_C:ExecuteUbergraph_Widget_ObtainedItemNotification [Script Bytecode]
+#: /Game/UI/Widget_ObtainedItemNotification.Widget_ObtainedItemNotification_C:ExecuteUbergraph_Widget_ObtainedItemNotification
+#: [Script Bytecode]
 msgctxt ",A85AC7214CE39DF333D30D9400D2F964"
 msgid "Gold"
 msgstr "Oro"
@@ -4719,7 +4961,8 @@ msgstr ""
 
 #. Key:	A8EDC3A447924D093B9A619634790719
 #. SourceLocation:	/Game/UI/Widget_Vendor.Widget_Vendor_C:PopulateItemsFunction [Script Bytecode]
-#: /Game/UI/Widget_Vendor.Widget_Vendor_C:PopulateItemsFunction [Script Bytecode]
+#: /Game/UI/Widget_Vendor.Widget_Vendor_C:PopulateItemsFunction [Script
+#: Bytecode]
 msgctxt ",A8EDC3A447924D093B9A619634790719"
 msgid "Weekly Seeds"
 msgstr "Semillas semanales"
@@ -4747,7 +4990,8 @@ msgstr "Semilla de Cilantro"
 
 #. Key:	AA5596054F8E686834554CA68385A72C
 #. SourceLocation:	/Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor
+#: [Script Bytecode]
 msgctxt ",AA5596054F8E686834554CA68385A72C"
 msgid "You need to close your shop for exit"
 msgstr "Para poder salir, debes cerrar tu tienda"
@@ -4803,7 +5047,8 @@ msgstr "Semilla de diente de león. Plántala en un suelo labrado o en una macet
 
 #. Key:	ACBC7C78448BAC12968F1CBE1728E660
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",ACBC7C78448BAC12968F1CBE1728E660"
 msgid "Talk"
 msgstr "Hablar"
@@ -4838,7 +5083,8 @@ msgstr "CREAR TIENDA"
 
 #. Key:	AD88408542EADEE2BF1839BE728F2868
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",AD88408542EADEE2BF1839BE728F2868"
 msgid "Sunday"
 msgstr "Domingo"
@@ -4866,7 +5112,8 @@ msgstr "Poción de Fuerza"
 
 #. Key:	AF4B51C244DE1FD3C76FFFAC46F48EB2
 #. SourceLocation:	/Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateWallInfo [Script Bytecode]
-#: /Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateWallInfo [Script Bytecode]
+#: /Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateWallInfo
+#: [Script Bytecode]
 msgctxt ",AF4B51C244DE1FD3C76FFFAC46F48EB2"
 msgid "Repair: "
 msgstr "Reparar:"
@@ -4876,7 +5123,7 @@ msgstr "Reparar:"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_281.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",AF62CE0B4430AE4A7C25ED810B3415E6"
 msgid "Honey Nenhun"
-msgstr ""
+msgstr "Honey Nenhun"
 
 #. Key:	AF8075F34E2E37F95774BBB8D00A520D
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Hans.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -4901,7 +5148,8 @@ msgstr "Planta exótica parecida a una margarita pero con pétalos mucho más la
 
 #. Key:	AFBEF34E4C41FD151BFCFAA3F1FFE590
 #. SourceLocation:	/Game/UI/Widget_ShopReputation.Widget_ShopReputation_C:ExecuteUbergraph_Widget_ShopReputation [Script Bytecode]
-#: /Game/UI/Widget_ShopReputation.Widget_ShopReputation_C:ExecuteUbergraph_Widget_ShopReputation [Script Bytecode]
+#: /Game/UI/Widget_ShopReputation.Widget_ShopReputation_C:ExecuteUbergraph_Widget_ShopReputation
+#: [Script Bytecode]
 msgctxt ",AFBEF34E4C41FD151BFCFAA3F1FFE590"
 msgid "Reputation Level: {repLevel}"
 msgstr "Nivel de reputación: {repLevel}"
@@ -4922,7 +5170,8 @@ msgstr "Recuerdo a mi abuela contándome historias cuando íbamos a recoger flor
 
 #. Key:	B013FE61446963D4B9F575B89013BFA9
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",B013FE61446963D4B9F575B89013BFA9"
 msgid "Haloween"
 msgstr "Halloween"
@@ -4985,7 +5234,8 @@ msgstr "Tiendas del pueblo"
 
 #. Key:	B1D8BB6D4B75F2B19573E79325E20F7F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(4
+#: - Value).DisplayNameMap
 msgctxt ",B1D8BB6D4B75F2B19573E79325E20F7F"
 msgid "Utility"
 msgstr "Utilidad"
@@ -5029,8 +5279,18 @@ msgstr "Diferencia:"
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Gloria.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 #: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Gloria.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 msgctxt ",B3F3406B463AB3BCD9D5508EDFD68258"
-msgid "Hello Alchemist!\r\n\r\nI wanted to thank you for helping me with that assignment the other day.\r\n\r\nI have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
-msgstr "¡Hola Alquimista!\r\n\r\nQuería darte las gracias por ayudarme con la tarea del otro día.\r\n\r\nHe encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
+msgid ""
+"Hello Alchemist!\r\n"
+"\r\n"
+"I wanted to thank you for helping me with that assignment the other day.\r\n"
+"\r\n"
+"I have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
+msgstr ""
+"¡Hola Alquimista!\r\n"
+"\r\n"
+"Quería darte las gracias por ayudarme con la tarea del otro día.\r\n"
+"\r\n"
+"He encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
 
 #. Key:	B42690ED4BE0420E7B41029E48690659
 #. SourceLocation:	/Game/UI/Widget_Inventory.Widget_Inventory_C:WidgetTree.TextBlock_65.Text
@@ -5211,8 +5471,22 @@ msgstr "Menta"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_board.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_board.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",B98511934F5742BAD6F5CFA666B16496"
-msgid "From the signboard you can accept orders from the Rosewood Ville villagers.\r\n\r\nYou will have a few days to be able to deliver the order, and if you deliver it in time you will be rewarded.\r\n\r\nMaking orders is another valid way of earning money apart from selling the products in the store.\r\n\r\nThe orders appear occasionally and may vary over time. Do not forget to go from time to time to check if there are new orders!"
-msgstr "Desde el Tablero puedes aceptar pedidos de los aldeanos de Rosewood Ville.\n\nTendrás unos días para poder entregar el pedido, y si lo entregas a tiempo serás recompensado.\n\nHacer pedidos es otra forma válida de ganar dinero además de vender los productos en la tienda.\n\nLos pedidos aparecen ocasionalmente y pueden variar con el tiempo. ¡No olvides pasar de vez en cuando para comprobar si hay nuevos pedidos!"
+msgid ""
+"From the signboard you can accept orders from the Rosewood Ville villagers.\r\n"
+"\r\n"
+"You will have a few days to be able to deliver the order, and if you deliver it in time you will be rewarded.\r\n"
+"\r\n"
+"Making orders is another valid way of earning money apart from selling the products in the store.\r\n"
+"\r\n"
+"The orders appear occasionally and may vary over time. Do not forget to go from time to time to check if there are new orders!"
+msgstr ""
+"Desde el Tablero puedes aceptar pedidos de los aldeanos de Rosewood Ville.\n"
+"\n"
+"Tendrás unos días para poder entregar el pedido, y si lo entregas a tiempo serás recompensado.\n"
+"\n"
+"Hacer pedidos es otra forma válida de ganar dinero además de vender los productos en la tienda.\n"
+"\n"
+"Los pedidos aparecen ocasionalmente y pueden variar con el tiempo. ¡No olvides pasar de vez en cuando para comprobar si hay nuevos pedidos!"
 
 #. Key:	B98C045646EC6281C9AC3FBFB1BD2FC8
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_230.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5258,7 +5532,8 @@ msgstr "Piedra y Púrpura"
 
 #. Key:	BB41483A4F8C5A173E7880B540538D5A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_OrderSignMK2.BP_OrderSignMK2_C:ExecuteUbergraph_BP_OrderSignMK2 [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_OrderSignMK2.BP_OrderSignMK2_C:ExecuteUbergraph_BP_OrderSignMK2 [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_OrderSignMK2.BP_OrderSignMK2_C:ExecuteUbergraph_BP_OrderSignMK2
+#: [Script Bytecode]
 msgctxt ",BB41483A4F8C5A173E7880B540538D5A"
 msgid "Today there are no orders available, come back tomorrow. "
 msgstr "Hoy no hay tareas disponibles, vuelve mañana. "
@@ -5286,7 +5561,8 @@ msgstr "Camisa Nómada I"
 
 #. Key:	BBD0E3D74DE022D8C3D02A816977AD6A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",BBD0E3D74DE022D8C3D02A816977AD6A"
 msgid "Monday"
 msgstr "Lunes"
@@ -5359,7 +5635,7 @@ msgstr "Planta exótica con delicadas florecitas que desprenden un olor dulce. A
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_244.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",BEFAF00D4031072090CA70B56C89A650"
 msgid "Crystared Lamp"
-msgstr "Lámpara de cristal"
+msgstr "Lámpara de Cristal Roja"
 
 #. Key:	BF4AE90848159E20ADB56F9DF6A0690D
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:WidgetTree.TutorialTextTitle_1.Text
@@ -5370,7 +5646,8 @@ msgstr "Plantas de Temporada"
 
 #. Key:	BF694AC0433572548E8C0ABCA3E27184
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message
+#: Rewards [Script Bytecode]
 msgctxt ",BF694AC0433572548E8C0ABCA3E27184"
 msgid "Thank-you letter."
 msgstr "Carta de agradecimiento."
@@ -5387,7 +5664,7 @@ msgstr "Reanudar"
 #: /Game/UI/Widget_ActionMenu.Widget_ActionMenu_C:Update [Script Bytecode]
 msgctxt ",C026E89345DFADD6B30A5393D5B80435"
 msgid "Convert to {amount}"
-msgstr ""
+msgstr "Convertir a {amount}"
 
 #. Key:	C027EB1D48D333150D076DAD814D8859
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_020.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5419,7 +5696,8 @@ msgstr "Componente básico de artesanía, extraído de las menas de piedra."
 
 #. Key:	C18AF9654A1C63FC262ED38F4CBD8C7B
 #. SourceLocation:	/Game/Blueprints/Actors/Events/WinterEvent/BP_WinterGift.BP_WinterGift_C:ExecuteUbergraph_BP_WinterGift [Script Bytecode]
-#: /Game/Blueprints/Actors/Events/WinterEvent/BP_WinterGift.BP_WinterGift_C:ExecuteUbergraph_BP_WinterGift [Script Bytecode]
+#: /Game/Blueprints/Actors/Events/WinterEvent/BP_WinterGift.BP_WinterGift_C:ExecuteUbergraph_BP_WinterGift
+#: [Script Bytecode]
 msgctxt ",C18AF9654A1C63FC262ED38F4CBD8C7B"
 msgid "Winter Gift"
 msgstr "Regalo de Invierno"
@@ -5433,7 +5711,8 @@ msgstr "Poción que mejora la velocidad."
 
 #. Key:	C1FD2CA3443DFF35AD183A8A5777EA88
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",C1FD2CA3443DFF35AD183A8A5777EA88"
 msgid "Potion Workshop"
 msgstr "Tienda de Pociones"
@@ -5450,7 +5729,7 @@ msgstr "Elige un nombre para tu tienda"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_038.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",C20E7A2F4DC00761A3739A9951CD1552"
 msgid "Crystared Figure"
-msgstr "Figura de Cristal"
+msgstr "Figura de Cristal Rojo"
 
 #. Key:	C2630EB4435EA2D55CAFCBBE58EC6068
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_KeyBindingModule.Widget_KeyBindingModule_C:WidgetTree.ActionNameText.Text
@@ -5506,7 +5785,7 @@ msgstr "Antorcha en forma de cuerno. ¡Perfecto para iluminar la casa de un Viqu
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_245.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",C3FB12CE4D59EE27571499A5253AA524"
 msgid "Crystagreen Lamp"
-msgstr "Lampara de Cristal Verde"
+msgstr "Lámpara de Cristal Verde"
 
 #. Key:	C45266F24C13F4F6DC3943B99D9F22DC
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_151.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5533,19 +5812,31 @@ msgstr "Pequeña planta que pasa desapercibida, como la Luna durante el día."
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_garden.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_garden.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",C5339E35401FEB9234F62893A3CF0B13"
-msgid "Welcome to your own garden!\r\n\r\nHere you can plant all kinds of plants and decorate the garden to your liking. All you need is a hoe, some seeds and a watering can!\r\n\r\nIn addition, if you want to expand the size of your garden you can buy plots in case you run out of space for your crops."
-msgstr "¡Bienvenido a tu jardín!\n\nAquí podrás plantar todo tipo de plantas y decorar el jardín a tu gusto. ¡Todo lo que necesitas es una azada, algunas semillas y una regadera!\n\nAdemás, si quieres ampliar el tamaño de tu jardín puedes comprar parcelas por si te quedas sin espacio para tus cultivos."
+msgid ""
+"Welcome to your own garden!\r\n"
+"\r\n"
+"Here you can plant all kinds of plants and decorate the garden to your liking. All you need is a hoe, some seeds and a watering can!\r\n"
+"\r\n"
+"In addition, if you want to expand the size of your garden you can buy plots in case you run out of space for your crops."
+msgstr ""
+"¡Bienvenido a tu jardín!\n"
+"\n"
+"Aquí podrás plantar todo tipo de plantas y decorar el jardín a tu gusto. ¡Todo lo que necesitas es una azada, algunas semillas y una regadera!\n"
+"\n"
+"Además, si quieres ampliar el tamaño de tu jardín puedes comprar parcelas por si te quedas sin espacio para tus cultivos."
 
 #. Key:	C546067A4B0D71A6B7EE5DBDDDE34E9E
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame
+#: [Script Bytecode]
 msgctxt ",C546067A4B0D71A6B7EE5DBDDDE34E9E"
 msgid "Click on the green zone "
 msgstr "Haga clic en la zona verde"
 
 #. Key:	C572C930461BBEE2AAF4B98823BAA1C8
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",C572C930461BBEE2AAF4B98823BAA1C8"
 msgid "Wednesday"
 msgstr "Miércoles"
@@ -5601,14 +5892,16 @@ msgstr "Poción que anula los efectos de la petrificación."
 
 #. Key:	C6811A3C4E6952FA1D67A7B9AA316F3A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk
+#: [Script Bytecode]
 msgctxt ",C6811A3C4E6952FA1D67A7B9AA316F3A"
 msgid "Land on Sale"
 msgstr "Terreno en Venta"
 
 #. Key:	C71595E64AEE3E01A2528098C9021853
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
-#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
+#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter
+#: [Script Bytecode]
 msgctxt ",C71595E64AEE3E01A2528098C9021853"
 msgid "Your shop is now open"
 msgstr "Tu tienda está abierta"
@@ -5673,8 +5966,18 @@ msgstr "Todo tu progreso será eliminado, ¿quieres eliminar tu partida guardada
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 #: /Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 msgctxt ",C9EC97ED4FD7D4C340765180E2EFCB94"
-msgid "Press <img id=\"{buttonCode3}\"/> to place\r\n\r\nPress <img id=\"{buttonCode}\"/> to rotate\r\n\r\nPress <img id=\"{buttonCode2}\"/> to toggle grid"
-msgstr "Presione <img id=\"{buttonCode3}\"/> para colocar\n\nPresiona <img id=\"{buttonCode}\"/> para rotar\n\nPresione <img id=\"{buttonCode2}\"/> para alternar la cuadrícula"
+msgid ""
+"Press <img id=\"{buttonCode3}\"/> to place\r\n"
+"\r\n"
+"Press <img id=\"{buttonCode}\"/> to rotate\r\n"
+"\r\n"
+"Press <img id=\"{buttonCode2}\"/> to toggle grid"
+msgstr ""
+"Presione <img id=\"{buttonCode3}\"/> para colocar\n"
+"\n"
+"Presiona <img id=\"{buttonCode}\"/> para rotar\n"
+"\n"
+"Presione <img id=\"{buttonCode2}\"/> para alternar la cuadrícula"
 
 #. Key:	C9F0CB2D4ED3306A59A630BDE8328BAD
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:WidgetTree.TextBlock_5.Text
@@ -5685,14 +5988,16 @@ msgstr "Quieres salir del juego?"
 
 #. Key:	C9F8D2054582FE7B1D9C6A81FF276DF7
 #. SourceLocation:	/Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor
+#: [Script Bytecode]
 msgctxt ",C9F8D2054582FE7B1D9C6A81FF276DF7"
 msgid "Go Outside"
 msgstr "Salir"
 
 #. Key:	CA42B48849A3C0A1E2EADB8EEB3B0799
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant
+#: [Script Bytecode]
 msgctxt ",CA42B48849A3C0A1E2EADB8EEB3B0799"
 msgid "Press \"{interact}\" to plant a seed"
 msgstr "Pulsa \"{interact}\" para plantar una semilla"
@@ -5706,7 +6011,8 @@ msgstr "Elixir de la Sabiduría"
 
 #. Key:	CA7622504A8F4A7E65296FAB1F047DB1
 #. SourceLocation:	/Game/UI/Widget_ShopItemPrice.Widget_ShopItemPrice_C:UpdatePriceSlot [Script Bytecode]
-#: /Game/UI/Widget_ShopItemPrice.Widget_ShopItemPrice_C:UpdatePriceSlot [Script Bytecode]
+#: /Game/UI/Widget_ShopItemPrice.Widget_ShopItemPrice_C:UpdatePriceSlot [Script
+#: Bytecode]
 msgctxt ",CA7622504A8F4A7E65296FAB1F047DB1"
 msgid "Use"
 msgstr "Usar"
@@ -5720,7 +6026,8 @@ msgstr "Nombre de la casa"
 
 #. Key:	CAC5137A4D9CD1EF5A44CEB7E464F77C
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(4 -
+#: Value).DisplayNameMap
 msgctxt ",CAC5137A4D9CD1EF5A44CEB7E464F77C"
 msgid "Stimulant"
 msgstr "Estimulante"
@@ -5741,14 +6048,16 @@ msgstr "Semilla de Hibisco Lunar"
 
 #. Key:	CAECD74543196263DE8E278B0211F9A4
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(5
+#: - Value).DisplayNameMap
 msgctxt ",CAECD74543196263DE8E278B0211F9A4"
 msgid "Plant"
 msgstr "Planta"
 
 #. Key:	CB7FB4AF4AE1CEFF73B261AD0163E57F
 #. SourceLocation:	/Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor
+#: [Script Bytecode]
 msgctxt ",CB7FB4AF4AE1CEFF73B261AD0163E57F"
 msgid "You need to close your shop first"
 msgstr "Primero debes cerrar tu tienda"
@@ -5776,7 +6085,8 @@ msgstr "Aunque me dijo que eran criaturas amables, siempre la escuché y nunca m
 
 #. Key:	CC6412234FC08136F688699CB2217E8F
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk
+#: [Script Bytecode]
 msgctxt ",CC6412234FC08136F688699CB2217E8F"
 msgid "You have adquired a new piece of land!"
 msgstr "¡Has adquirido un nuevo terreno!"
@@ -5797,7 +6107,8 @@ msgstr "Madera"
 
 #. Key:	CCC2AA4C45E9F2B47F80EEA8191D8DBC
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script Bytecode]
-#: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script Bytecode]
+#: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script
+#: Bytecode]
 msgctxt ",CCC2AA4C45E9F2B47F80EEA8191D8DBC"
 msgid "From: {npc}"
 msgstr "De: {npc}"
@@ -5806,8 +6117,18 @@ msgstr "De: {npc}"
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Hans.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 #: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Hans.EndquestMail_46_A4E957824C3585E1BDCAEEA1C534F638
 msgctxt ",CCC884004C614AE951867692994D5000"
-msgid "Hello Alchemist!\r\n\r\nI wanted to thank you for helping me with that assignment the other day.\r\n\r\nI have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
-msgstr "¡Hola Alquimista!\r\n\r\nQuería darte las gracias por ayudarme con la tarea del otro día.\r\n\r\nHe encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
+msgid ""
+"Hello Alchemist!\r\n"
+"\r\n"
+"I wanted to thank you for helping me with that assignment the other day.\r\n"
+"\r\n"
+"I have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
+msgstr ""
+"¡Hola Alquimista!\r\n"
+"\r\n"
+"Quería darte las gracias por ayudarme con la tarea del otro día.\r\n"
+"\r\n"
+"He encontrado algunos objetos que pueden ser útiles para ti, yo no los necesito así que pensé que sería una buena idea que los tuvieras."
 
 #. Key:	CCE60793472AC1A0E8A4C7B39177FDB1
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_25.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -5954,7 +6275,7 @@ msgstr "Nido de Cuervos"
 #: /Game/UI/Credits/DT_Credits.DT_Credits.credit_8.Title_2_466601A84E5F3E4BA7C71F8C49C8F7C3
 msgctxt ",D00362974CA916D829B0D7B64E5EB1AB"
 msgid "Spanish Translation"
-msgstr ""
+msgstr "Traducción Española"
 
 #. Key:	D009D00C4D55B9B309C57BACE0ED7501
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_072.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6035,14 +6356,16 @@ msgstr "Devolver componentes a la mesa"
 
 #. Key:	D30C253F4E717BADE632B98EAE8F3C76
 #. SourceLocation:	/Game/Blueprints/Actors/Events/BP_Firework.BP_Firework_C:ExecuteUbergraph_BP_Firework [Script Bytecode]
-#: /Game/Blueprints/Actors/Events/BP_Firework.BP_Firework_C:ExecuteUbergraph_BP_Firework [Script Bytecode]
+#: /Game/Blueprints/Actors/Events/BP_Firework.BP_Firework_C:ExecuteUbergraph_BP_Firework
+#: [Script Bytecode]
 msgctxt ",D30C253F4E717BADE632B98EAE8F3C76"
 msgid "Fireworks Launcher"
 msgstr "Lanzadera de fuegos artificiales"
 
 #. Key:	D30D97654ED1F8E8196CF48F6BC64373
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(6
+#: - Value).DisplayNameMap
 msgctxt ",D30D97654ED1F8E8196CF48F6BC64373"
 msgid "Special"
 msgstr "Especial"
@@ -6084,7 +6407,8 @@ msgstr "Camisa Nómada III"
 
 #. Key:	D528640B498106277E7ABF8215E03C93
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_NegotationManager.BP_NegotationManager_C:ExecuteUbergraph_BP_NegotationManager [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_NegotationManager.BP_NegotationManager_C:ExecuteUbergraph_BP_NegotationManager [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_NegotationManager.BP_NegotationManager_C:ExecuteUbergraph_BP_NegotationManager
+#: [Script Bytecode]
 msgctxt ",D528640B498106277E7ABF8215E03C93"
 msgid "Haggling Complete!"
 msgstr "Regateo completo!"
@@ -6140,7 +6464,8 @@ msgstr "Calabaza con una vela verde en su interior... Espeluznante!"
 
 #. Key:	D66B1CD049492472CF132BA47BF884F3
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",D66B1CD049492472CF132BA47BF884F3"
 msgid "Tuesday"
 msgstr "Martes"
@@ -6154,7 +6479,8 @@ msgstr "Esporas de trompeta roja"
 
 #. Key:	D6C94E9A488A3C651C0FB18E9FE2C02F
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog
+#: [Script Bytecode]
 msgctxt ",D6C94E9A488A3C651C0FB18E9FE2C02F"
 msgid "Discard"
 msgstr "Desechar"
@@ -6182,28 +6508,32 @@ msgstr "Semilla de Fairy Whim. Plántala en un suelo labrado o en una maceta y r
 
 #. Key:	D762210A4883A3DFFA1A9F87BA264F3E
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:ExecuteUbergraph_Widget_Mailbox_Message [Script Bytecode]
-#: /Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:ExecuteUbergraph_Widget_Mailbox_Message [Script Bytecode]
+#: /Game/UI/Mailbox/Widget_Mailbox_Message.Widget_Mailbox_Message_C:ExecuteUbergraph_Widget_Mailbox_Message
+#: [Script Bytecode]
 msgctxt ",D762210A4883A3DFFA1A9F87BA264F3E"
 msgid "Do you want to remove the message?"
 msgstr "¿Quieres eliminar el mensaje?"
 
 #. Key:	D8359A7B4513B130A6AB69BAE5F52E4A
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
-#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
+#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu
+#: [Script Bytecode]
 msgctxt ",D8359A7B4513B130A6AB69BAE5F52E4A"
 msgid "Unstuck Player"
-msgstr ""
+msgstr "Recolocar Jugador"
 
 #. Key:	D8E9DA4A4D1E796DCDB900AFD3CC0B80
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant
+#: [Script Bytecode]
 msgctxt ",D8E9DA4A4D1E796DCDB900AFD3CC0B80"
 msgid "Hold <img id=\"{buttonCode}\"/> to harvest"
 msgstr "Mantén pulsado <img id=\"{buttonCode}\"/> para cosechar"
 
 #. Key:	D91B021C479D0BB89A5B97A12FBB14AC
 #. SourceLocation:	/Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:ExecuteUbergraph_Widget_FloorandWallSelector [Script Bytecode]
-#: /Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:ExecuteUbergraph_Widget_FloorandWallSelector [Script Bytecode]
+#: /Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:ExecuteUbergraph_Widget_FloorandWallSelector
+#: [Script Bytecode]
 msgctxt ",D91B021C479D0BB89A5B97A12FBB14AC"
 msgid "Buy: "
 msgstr "Comprar:"
@@ -6217,7 +6547,8 @@ msgstr "Semilla de Pinky Bean. Plántala en un suelo labrado o en una maceta y r
 
 #. Key:	D96B18D24849F7B6E96581A71B9FE098
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",D96B18D24849F7B6E96581A71B9FE098"
 msgid "Poisonous"
 msgstr "Venenoso"
@@ -6231,14 +6562,16 @@ msgstr "Semilla de tulipán. Plántala en un suelo labrado o en una maceta y ri�
 
 #. Key:	D9D341A8488EAB10AAE5A49B13746B01
 #. SourceLocation:	/Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu [Script Bytecode]
-#: /Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu [Script Bytecode]
+#: /Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu
+#: [Script Bytecode]
 msgctxt ",D9D341A8488EAB10AAE5A49B13746B01"
 msgid "Reset Keybindings"
 msgstr "Restablecer las combinaciones de teclas"
 
 #. Key:	D9E9FAE142458BA785FC89B41CB7CD4A
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
-#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
+#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter
+#: [Script Bytecode]
 msgctxt ",D9E9FAE142458BA785FC89B41CB7CD4A"
 msgid "To open your store you need to have at least one shop table in place. "
 msgstr "Para abrir tu tienda necesitas tener, al menos, un mostrador en funcionamiento. "
@@ -6273,7 +6606,8 @@ msgstr ""
 
 #. Key:	DAF6F3CC43AB4B82C56186B4DD6F8F14
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+#: [Script Bytecode]
 msgctxt ",DAF6F3CC43AB4B82C56186B4DD6F8F14"
 msgid "You feel very tired, go to sleep or you will pass out "
 msgstr "Estás exhausto, ve a dormir o te desmayarás "
@@ -6296,12 +6630,55 @@ msgstr "Un separador de madera que puede usarse como pared improvisada. Puede co
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Mails.DT_Mails.mail_1.Message_8_2DC573DB4ED5171E04CB6CA35E1B21F4
 #: /Game/Blueprints/Datatables/DT_Mails.DT_Mails.mail_1.Message_8_2DC573DB4ED5171E04CB6CA35E1B21F4
 msgctxt ",DB6CBB36463098EB99AEB2BC2F2556FE"
-msgid "Greetings and welcome to Alchemy Garden!\r\n\r\nYou are now the owner of an alchemy shop, and as such you will be able to perform a wide range of daily activities:\r\n-Explore the map for plants and resources.\r\n\r\n-Create a wide assortment of potions that you can sell in your store.\r\n\r\n-Make your own tools and furniture.\r\n\r\n-Accept commissions from the villagers.\r\n\r\n-Decorate your store and your garden to create unique spaces.\r\n\r\n-Participate in seasonal events to get prizes.\r\n\r\nThank you for trusting the project, with your support the game can continue its development!\r\n\r\nPS: Here are some tools that will help you get started. I hope you have a good time.\r\n\r\nSincerely\r\nRuben "
-msgstr "¡Saludos y bienvenido a Alchemy Garden!\r\n\r\nAhora eres el propietario de una tienda de alquimia, y como tal, podrás realizar una amplia gama de actividades diarias:\r\n-Explorar el mapa en busca de plantas y recursos.\r\n\r\n-Crear un amplio surtido de pociones que podrás vender en tu tienda.\r\n\r\n-Fabricar tus propias herramientas y muebles.\r\n\r\n-Aceptar encargos y tareas de los aldeanos.\r\n\r\n-Decorar tu tienda y tu jardín para crear espacios únicos.\r\n\r\n-Participar en eventos de temporada para conseguir premios.\r\n\r\nGracias por confiar en el proyecto, ¡con tu apoyo el juego podrá continuar su desarrollo!\r\n\r\nPD: Aquí tienes algunas herramientas que te ayudarán a empezar. Espero que te diviertas.\r\n\r\nAtentamente\r\nRubén "
+msgid ""
+"Greetings and welcome to Alchemy Garden!\r\n"
+"\r\n"
+"You are now the owner of an alchemy shop, and as such you will be able to perform a wide range of daily activities:\r\n"
+"-Explore the map for plants and resources.\r\n"
+"\r\n"
+"-Create a wide assortment of potions that you can sell in your store.\r\n"
+"\r\n"
+"-Make your own tools and furniture.\r\n"
+"\r\n"
+"-Accept commissions from the villagers.\r\n"
+"\r\n"
+"-Decorate your store and your garden to create unique spaces.\r\n"
+"\r\n"
+"-Participate in seasonal events to get prizes.\r\n"
+"\r\n"
+"Thank you for trusting the project, with your support the game can continue its development!\r\n"
+"\r\n"
+"PS: Here are some tools that will help you get started. I hope you have a good time.\r\n"
+"\r\n"
+"Sincerely\r\n"
+"Ruben "
+msgstr ""
+"¡Saludos y bienvenido a Alchemy Garden!\r\n"
+"\r\n"
+"Ahora eres el propietario de una tienda de alquimia, y como tal, podrás realizar una amplia gama de actividades diarias:\r\n"
+"-Explorar el mapa en busca de plantas y recursos.\r\n"
+"\r\n"
+"-Crear un amplio surtido de pociones que podrás vender en tu tienda.\r\n"
+"\r\n"
+"-Fabricar tus propias herramientas y muebles.\r\n"
+"\r\n"
+"-Aceptar encargos y tareas de los aldeanos.\r\n"
+"\r\n"
+"-Decorar tu tienda y tu jardín para crear espacios únicos.\r\n"
+"\r\n"
+"-Participar en eventos de temporada para conseguir premios.\r\n"
+"\r\n"
+"Gracias por confiar en el proyecto, ¡con tu apoyo el juego podrá continuar su desarrollo!\r\n"
+"\r\n"
+"PD: Aquí tienes algunas herramientas que te ayudarán a empezar. Espero que te diviertas.\r\n"
+"\r\n"
+"Atentamente\r\n"
+"Rubén "
 
 #. Key:	DC059BB9486127FFBED0D9A421618811
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:Populate Recipes [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:Populate Recipes [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:Populate
+#: Recipes [Script Bytecode]
 msgctxt ",DC059BB9486127FFBED0D9A421618811"
 msgid "Potions Discovered {recipesLearned}/{allRecipes}"
 msgstr "Pociones descubiertas {recipesLearned}/{allRecipes}"
@@ -6378,7 +6755,8 @@ msgstr "Pequeña figura de momia. Póngalo en su casa o jardín para que su hoga
 
 #. Key:	DF3D5764456EEB0B89E317A5EDE3C134
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk
+#: [Script Bytecode]
 msgctxt ",DF3D5764456EEB0B89E317A5EDE3C134"
 msgid "Land chunk for sale"
 msgstr "Se vende terreno"
@@ -6465,7 +6843,7 @@ msgstr "Selecciona componentes de la lista de elementos"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_151.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",E12999F64FCC346320552BBB5387A184"
 msgid "Jellyfish Plant Seed"
-msgstr "Semilla de Plantamedusa"
+msgstr "Semilla de Planta Medusa"
 
 #. Key:	E15421594CDBA9A6101649B31BF05A05
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_292.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6476,7 +6854,8 @@ msgstr "Semilla de Piña."
 
 #. Key:	E1BEA4BC43C90EC9568FB2B2593A3E34
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",E1BEA4BC43C90EC9568FB2B2593A3E34"
 msgid "ON"
 msgstr ""
@@ -6525,17 +6904,19 @@ msgstr "Haha rudimentaria hecha de piedra, no tiene mucha durabilidad."
 
 #. Key:	E33E5F8F448DF55478C743B905590AC7
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion
+#: [Script Bytecode]
 msgctxt ",E33E5F8F448DF55478C743B905590AC7"
 msgid "Non-reactive components"
 msgstr "Componentes no reactivos"
 
 #. Key:	E38DCB0B4FB92232B2A826A2C1D29786
 #. SourceLocation:	/Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
-#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
+#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script
+#: Bytecode]
 msgctxt ",E38DCB0B4FB92232B2A826A2C1D29786"
 msgid "This item is from a previous version and is obsolete, press the right mouse button to exchange it for gold."
-msgstr ""
+msgstr "Este artículo es de una versión anterior y está obsoleto, presiona el botón derecho del mouse para cambiarlo por oro."
 
 #. Key:	E3B39FC445932EE97222689637064AA0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_051.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6546,7 +6927,8 @@ msgstr "Escritorio negro. ¡Quedará de muerte con la cama a juego!"
 
 #. Key:	E3C0B57E42C7616FF4094186DB57B803
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",E3C0B57E42C7616FF4094186DB57B803"
 msgid "Swamp House"
 msgstr "Casa del Pantano"
@@ -6588,24 +6970,34 @@ msgstr "Aquí tienes un pequeño regalo, ¡espero que te guste!"
 
 #. Key:	E431B083447A79F3A189D585E060925C
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",E431B083447A79F3A189D585E060925C"
 msgid "Good morning, {alchemistName}!"
 msgstr "¡Buenos días, {alchemistName}!"
 
 #. Key:	E46232444C7BDA75D09D3BB70D7EE3EA
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText
+#: [Script Bytecode]
 msgctxt ",E46232444C7BDA75D09D3BB70D7EE3EA"
-msgid "Press \"{Interact Button}\" key to interact\r\nHold \"{Interact Button}\" to pick up"
-msgstr "Presiona \"{Interact Button}\" para interactuar\r\nMantén pulsado \"{Interact Button}\" para recoger"
+msgid ""
+"Press \"{Interact Button}\" key to interact\r\n"
+"Hold \"{Interact Button}\" to pick up"
+msgstr ""
+"Presiona \"{Interact Button}\" para interactuar\r\n"
+"Mantén pulsado \"{Interact Button}\" para recoger"
 
 #. Key:	E4C396A942C495D41FFD79A24B86543A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.FirstDialog_30_243B85D042D5FA5C14C391832F631188(1).FirstDialog_30_243B85D042D5FA5C14C391832F631188
 #: /Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.FirstDialog_30_243B85D042D5FA5C14C391832F631188(1).FirstDialog_30_243B85D042D5FA5C14C391832F631188
 msgctxt ",E4C396A942C495D41FFD79A24B86543A"
-msgid "Every year we hide some Easter eggs around the town and its surroundings. \r\nDo you want to participate? It will be fun!"
-msgstr "Todos los años un extraño conejo esconde Huevos de Pascua por la villa y sus alrededores.\r\n¿Quieres participar? ¡Será divertido!"
+msgid ""
+"Every year we hide some Easter eggs around the town and its surroundings. \r\n"
+"Do you want to participate? It will be fun!"
+msgstr ""
+"Todos los años un extraño conejo esconde Huevos de Pascua por la villa y sus alrededores.\r\n"
+"¿Quieres participar? ¡Será divertido!"
 
 #. Key:	E4DBB0D848A84977072F8895083326D0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_191.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6623,7 +7015,8 @@ msgstr "Semilla de Ninfa de Mar. Plántala en un suelo labrado o en una maceta y
 
 #. Key:	E5A9AC7448922085802B7C97ED32694F
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog
+#: [Script Bytecode]
 msgctxt ",E5A9AC7448922085802B7C97ED32694F"
 msgid "Wait"
 msgstr "Espara"
@@ -6707,7 +7100,8 @@ msgstr "Chaleco II"
 
 #. Key:	E9FE114E405EA9352297549CFAE71573
 #. SourceLocation:	/Game/Blueprints/Actors/Events/WinterEvent/BP_WinterCandle.BP_WinterCandle_C:ExecuteUbergraph_BP_WinterCandle [Script Bytecode]
-#: /Game/Blueprints/Actors/Events/WinterEvent/BP_WinterCandle.BP_WinterCandle_C:ExecuteUbergraph_BP_WinterCandle [Script Bytecode]
+#: /Game/Blueprints/Actors/Events/WinterEvent/BP_WinterCandle.BP_WinterCandle_C:ExecuteUbergraph_BP_WinterCandle
+#: [Script Bytecode]
 msgctxt ",E9FE114E405EA9352297549CFAE71573"
 msgid "Flying Lantern"
 msgstr "Linterna Voladora"
@@ -6742,7 +7136,8 @@ msgstr "Calabaza"
 
 #. Key:	EB772AA64906BE9F0CBB2A8EAD615946
 #. SourceLocation:	/Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script Bytecode]
-#: /Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script Bytecode]
+#: /Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script
+#: Bytecode]
 msgctxt ",EB772AA64906BE9F0CBB2A8EAD615946"
 msgid "Is Watered"
 msgstr "Regado"
@@ -6819,28 +7214,32 @@ msgstr "Semilla de Tulipán"
 
 #. Key:	EE903F7049213F0050E27792089C496D
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(6 -
+#: Value).DisplayNameMap
 msgctxt ",EE903F7049213F0050E27792089C496D"
 msgid "Aether"
 msgstr "Éter"
 
 #. Key:	EF6188694E34BD50AE742F9B28CC40A9
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",EF6188694E34BD50AE742F9B28CC40A9"
 msgid "Buy this house"
 msgstr "Compra esta casa"
 
 #. Key:	EF99AD794CB52F6FE322E99BEC1FA079
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(1
+#: - Value).DisplayNameMap
 msgctxt ",EF99AD794CB52F6FE322E99BEC1FA079"
 msgid "Potion"
 msgstr "Poción"
 
 #. Key:	F0600B0D44F14788D359CC9100A84326
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:ExecuteUbergraph_BP_GardenPlant
+#: [Script Bytecode]
 msgctxt ",F0600B0D44F14788D359CC9100A84326"
 msgid "Soil"
 msgstr "Suelo Labrado"
@@ -6871,7 +7270,7 @@ msgstr "Pantalones clásicos II"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_042.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",F15BC06449733B40A9A93A99028E5CD8"
 msgid "Crystablue Figure"
-msgstr "Figura Cristazul"
+msgstr "Figura de Cristal azul"
 
 #. Key:	F19325BC4E315EF1BD9AE8AFAAD3F8C2
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_226.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6920,7 +7319,7 @@ msgstr "Camisa mística I"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_283.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",F320A82C402C184BBD63D1BB98E18D9F"
 msgid "Yolk Nenhun"
-msgstr ""
+msgstr "Yolk Nenhun"
 
 #. Key:	F35EDE6A481F10670D77B7A9B826D4AA
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_138.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6959,14 +7358,16 @@ msgstr "Semilla de Beso de Bruja. Plántala en un suelo labrado o en una maceta 
 
 #. Key:	F5A796CC425B62B0663E359F2AF7AD39
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(7 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(7 -
+#: Value).DisplayNameMap
 msgctxt ",F5A796CC425B62B0663E359F2AF7AD39"
 msgid "Summer Fair"
 msgstr "Festival de Verano"
 
 #. Key:	F60E5F6045AA7826B84331B02232829F
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog
+#: [Script Bytecode]
 msgctxt ",F60E5F6045AA7826B84331B02232829F"
 msgid "Sell Potion"
 msgstr "Vender poción"
@@ -6982,8 +7383,18 @@ msgstr "Pantalones"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_exploration.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_exploration.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",F6910AB042C0E82508FEAEAFC951B3F7"
-msgid "Explore the surroundings to discover new plants and materials for your experiments.\r\n\r\nEvery day new plants appear, you can discover a great variety during the passage of seasons.\r\n\r\nFind them all!"
-msgstr "Explora los alrededores para descubrir nuevas plantas y materiales para tus experimentos.\n\nCada día aparecen nuevas plantas, puedes descubrir una gran variedad durante el paso de las estaciones.\n\n¡Encuéntralos todos!"
+msgid ""
+"Explore the surroundings to discover new plants and materials for your experiments.\r\n"
+"\r\n"
+"Every day new plants appear, you can discover a great variety during the passage of seasons.\r\n"
+"\r\n"
+"Find them all!"
+msgstr ""
+"Explora los alrededores para descubrir nuevas plantas y materiales para tus experimentos.\n"
+"\n"
+"Cada día aparecen nuevas plantas, puedes descubrir una gran variedad durante el paso de las estaciones.\n"
+"\n"
+"¡Encuéntralos todos!"
 
 #. Key:	F69D4D9745216B4819AF109C806C7186
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SummerEvent.FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381(0).FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381
@@ -6994,7 +7405,8 @@ msgstr "¡Anda, lo has adivinado! ¡Muy bien! Disparar fuegos artificiales es mu
 
 #. Key:	F6E4CE5D4D749291C787F6908A5BE11C
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateQuestInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateQuestInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateQuestInfo
+#: [Script Bytecode]
 msgctxt ",F6E4CE5D4D749291C787F6908A5BE11C"
 msgid "Retrieve to: {NPC Name}"
 msgstr "Recuperar a: {NPC Name}"
@@ -7060,7 +7472,7 @@ msgstr "Falda IV"
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_board.Title_3_FCEFB0314AD13D024CBE1EAABD7C9C53
 msgctxt ",F95F3F5B4FE355D3831C16A9A0D1BD5B"
 msgid "Village Signboard"
-msgstr ""
+msgstr "Tablón de Anuncios"
 
 #. Key:	F9782FC5413ED32A1B9A1BAEC2A18BE7
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_015.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -7095,7 +7507,7 @@ msgstr "Mineral de Cristaroja"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_171.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",FA0C63AB48A65A13398258AA37ECEE7A"
 msgid "Cone Flower Seed"
-msgstr "Semilla de flor de cono"
+msgstr "Semilla de Equinácea."
 
 #. Key:	FA7BF09741CEB0C8A0748E9AF2E96FF4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_249.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -7115,8 +7527,12 @@ msgstr "Semilla de Fresa"
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
 #: /Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
 msgctxt ",FAD733DC48E9AB521B81BBBD32BCEC9B"
-msgid "Press <img id=\"{buttonCode}\"/> to rotate\r\nPress <img id=\"{buttonCode2}\"/> to toggle grid"
-msgstr "Pulsa <img id=\"{buttonCode}\"/> para girar\r\nPulsa <img id=\"{buttonCode2}\"/> para alternar la cuadrícula"
+msgid ""
+"Press <img id=\"{buttonCode}\"/> to rotate\r\n"
+"Press <img id=\"{buttonCode2}\"/> to toggle grid"
+msgstr ""
+"Pulsa <img id=\"{buttonCode}\"/> para girar\r\n"
+"Pulsa <img id=\"{buttonCode2}\"/> para alternar la cuadrícula"
 
 #. Key:	FB164BF5494DE6DD3DA56DB8089CD280
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_008.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -7134,7 +7550,8 @@ msgstr "Esporas de Amanita Púrpura"
 
 #. Key:	FBBD3AA4493E83B407DC0EB875B93886
 #. SourceLocation:	/Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
-#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
+#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script
+#: Bytecode]
 msgctxt ",FBBD3AA4493E83B407DC0EB875B93886"
 msgid "Cannot be sold"
 msgstr "No se puede vender"
@@ -7218,7 +7635,8 @@ msgstr "Pantalones nómadas IV"
 
 #. Key:	FD9901F74E922A9C39B301A6B1687245
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",FD9901F74E922A9C39B301A6B1687245"
 msgid "Rare"
 msgstr "Raro"
@@ -7375,7 +7793,7 @@ msgstr "Tareas"
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,autumnKey"
 msgid "Autumn"
-msgstr ""
+msgstr "Otoño"
 
 #. Key:	cancelKey
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
@@ -7592,7 +8010,7 @@ msgstr "Usar"
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,WinterKey"
 msgid "Winter"
-msgstr ""
+msgstr "Invierno"
 
 #. Key:	writeName
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
@@ -7607,4 +8025,3 @@ msgstr "Escribe un nombre"
 msgctxt "LocalizatedMessages,yes"
 msgid "Yes"
 msgstr "Si"
-
