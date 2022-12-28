@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2022-12-04 22:42\n"
-"PO-Revision-Date: 2022-12-04 22:42\n"
+"POT-Creation-Date: 2022-12-28 05:44\n"
+"PO-Revision-Date: 2022-12-28 05:44\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -47,6 +47,13 @@ msgstr "Es sieht aus wie ein Bananenbaum, wird dir aber keine Bananen geben. Exo
 msgctxt ",01D63D854BA39613555DB5910BF155D9"
 msgid "Carpet Yellow"
 msgstr "Teppich Gelb"
+
+#. Key:	01F37E064200C417193D9EBF36C89292
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+msgctxt ",01F37E064200C417193D9EBF36C89292"
+msgid "Sell Item"
+msgstr ""
 
 #. Key:	02B01551442B629F89DCD281A56F8FE3
 #. SourceLocation:	/Game/Blueprints/Actors/SeedExchange/Widget_SeedExchange.Widget_SeedExchange_C:WidgetTree.TextBlock_24.Text
@@ -566,6 +573,13 @@ msgctxt ",14AC7D8E4647816878EFF686313F356B"
 msgid "Sloth Vibes"
 msgstr "Faule Ausstrahlung"
 
+#. Key:	151F1E504DD4E4A00A448B9CE5D78BD0
+#. SourceLocation:	/Game/Blueprints/Datatables/DT_Mails.DT_Mails.mail_3.Message_8_2DC573DB4ED5171E04CB6CA35E1B21F4
+#: /Game/Blueprints/Datatables/DT_Mails.DT_Mails.mail_3.Message_8_2DC573DB4ED5171E04CB6CA35E1B21F4
+msgctxt ",151F1E504DD4E4A00A448B9CE5D78BD0"
+msgid "Dear Alchemist,\r\n\r\nIt is a pleasure to see that you have settled near Rosewood Ville, it is certainly a quiet and peaceful place.\r\nWarriors, mages and explorers often pass through here in search of rest and consumables, so opening a potion store here is a great idea!\r\n\r\nExplore the surroundings and find ingredients for your experiments, plant seeds, create beautiful gardens and decorate your home with your profits from the shop. We can't wait to see what you're capable of!\r\n\r\nAs we know that beginnings are a bit difficult, we have sent you some tools to start your new adventure on the right foot!\r\n\r\nSincerely,\r\nThe Alchemists Guild"
+msgstr ""
+
 #. Key:	153F75FA44718E00F384369023084C65
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
 #: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
@@ -601,6 +615,13 @@ msgctxt ",15D8497744BF0DD65B73378E5A018CDB"
 msgid "Spooky Pocus Bed"
 msgstr "Gruselpokus-Bett"
 
+#. Key:	15D86BFC43F2E367E229E8BF0CD7FF69
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",15D86BFC43F2E367E229E8BF0CD7FF69"
+msgid "Good thing I find an Alchemist around here! I urgently need one <s>{itemName}</>..."
+msgstr ""
+
 #. Key:	161A48144F11A8A7C41437845E2881B2
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_4.LocalizedName_31_4536304E415088940F6209BD50C2E090
 #: /Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_4.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -619,8 +640,8 @@ msgstr "Laden Tisch"
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_114.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_114.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",174C934B4A5309D19D49A8A9D041E4E3"
-msgid "Medicinal potion that improves breathing."
-msgstr "Medizinischer Trank, der die Atmung verbessert."
+msgid "Potion with an icy liquid, a favorite of the Warriors, handle with care!"
+msgstr ""
 
 #. Key:	17692EC345335ED37D20E5B5A473C399
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
@@ -776,6 +797,13 @@ msgctxt ",1B66C2334A967F6DBD1FD287E82CA985"
 msgid "Strange mushroom with a tubular shape, it has relaxing properties. May be seen in swamps from fall to winter."
 msgstr "Ein Seltsamer Pilz mit röhrenform, er hat entspannende Eigenschaften. Wird manchmal im Sumpf während des Herbstes und Winters gesehen"
 
+#. Key:	1BA2DB0A4BE547516ACB348CAA00AA4B
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",1BA2DB0A4BE547516ACB348CAA00AA4B"
+msgid "Wow! The shop is more beautiful everyday. Could you give me one <s>{itemName}</>, please?"
+msgstr ""
+
 #. Key:	1BCEF6E54A2498C20F5905B82CAFDE6D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_273.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_273.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -789,6 +817,13 @@ msgstr "Brugmansia Blätter"
 msgctxt ",1BCF70164B4AB45B5D546EB05525472F"
 msgid "So after several walks and talks until dark, one day I cooked her a pudding decorated with daisies."
 msgstr "Nach einigen Spaziergängen und Gesprächen bis in die Nacht, habe ich ihr eines Tages einen mit Gänseblümchen dekorierten Pudding gekocht."
+
+#. Key:	1BF66C924FD5BD5FFE00879BC9944FF2
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(6).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(6).hagglingTexts
+msgctxt ",1BF66C924FD5BD5FFE00879BC9944FF2"
+msgid "Maybe we can reach an agreement ..."
+msgstr ""
 
 #. Key:	1BFC2F614F3AE9961CD7458DCE484877
 #. SourceLocation:	/Game/UI/Widget_Calendar.Widget_Calendar_C:Update Calendar [Script Bytecode]
@@ -1091,6 +1126,13 @@ msgctxt ",24E8389F4905FFFDE16AF38BBFE85D83"
 msgid "Workbench"
 msgstr "Werkbank"
 
+#. Key:	24EB80F647D215089AAF2D9251962269
+#. SourceLocation:	/Game/Characters/Player/BP_player.BP_player_C:ExecuteUbergraph_BP_player [Script Bytecode]
+#: /Game/Characters/Player/BP_player.BP_player_C:ExecuteUbergraph_BP_player [Script Bytecode]
+msgctxt ",24EB80F647D215089AAF2D9251962269"
+msgid "You are too tired and you have passed out. "
+msgstr ""
+
 #. Key:	24F322884E0CC3D8C6C2E4B604185A93
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_4.Text
 #: /Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_4.Text
@@ -1245,6 +1287,13 @@ msgctxt ",2AE98E904A3AEC7F4BAE6D996E3F8951"
 msgid "A witch themed shelf for placing all kind of decorative objects."
 msgstr "Ein Regal im Hexen Thema. Du kannst darauf allerlei Dekorationen platzieren."
 
+#. Key:	2B087FEB448AA401127BE2BEA963F36C
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(5).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(5).hagglingTexts
+msgctxt ",2B087FEB448AA401127BE2BEA963F36C"
+msgid "I would like to haggle the price!"
+msgstr ""
+
 #. Key:	2B32ACAB45AA5A7D55D2B6BD68C26316
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_056.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_056.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1265,6 +1314,13 @@ msgstr "Laden schließen"
 msgctxt ",2B8761174D3B10500C19BB8C5CAF5739"
 msgid "Open Journal"
 msgstr "Tagebuch öffnen"
+
+#. Key:	2C11C1DA45ED34FC4F44F9B7818019DA
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",2C11C1DA45ED34FC4F44F9B7818019DA"
+msgid "How's it going, Alchemist? Today I need one <s>{itemName}</>, do you still have?"
+msgstr ""
 
 #. Key:	2C4879AF475D98C12C5475BE8397387A
 #. SourceLocation:	/Game/UI/Widget_ThrowItem.Widget_ThrowItem_C:WidgetTree.TextBlock_1.Text
@@ -1455,6 +1511,13 @@ msgctxt ",3349CF484E8E466504CF22BF13C8922F"
 msgid "Witchy Shelf"
 msgstr "Hexiges Regal"
 
+#. Key:	334C4C9C4A716D9FAB2F84BC349D668B
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(8).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(8).hagglingTexts
+msgctxt ",334C4C9C4A716D9FAB2F84BC349D668B"
+msgid "Oops! Let's talk about it..."
+msgstr ""
+
 #. Key:	3376EFA94A14E50743A9FBA90AAA396C
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
 #: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
@@ -1489,6 +1552,13 @@ msgstr "Liebestrank"
 msgctxt ",341473664AE1194DCE7C7FB8BA1F42FC"
 msgid "\"If you want to be a good poet, you must know the world, and in our hair salon you will not find it. Go and marvel.\""
 msgstr "\"Wenn du ein guter Dichter sein willst, musst du die Welt kennen, und die wirst du in unserem Friseursalon nicht finden. Gehe und staune.\""
+
+#. Key:	3428CB6041AAFBE510B50DBED6BBA6C3
+#. SourceLocation:	/Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",3428CB6041AAFBE510B50DBED6BBA6C3"
+msgid "Talk"
+msgstr ""
 
 #. Key:	343DF2F14A1711C4A536C180046F5F01
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(4).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -1986,6 +2056,13 @@ msgstr "Dekorative Spinne, die an der Wand platziert werden kann. Keine Angst, s
 msgctxt ",47CEE62849FC39347AE2EE9C657F8CDE"
 msgid "{amount} left"
 msgstr "{amount} übrig"
+
+#. Key:	48838BDE4AD88FC10C7104B083AB06A1
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(3).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(3).hagglingTexts
+msgctxt ",48838BDE4AD88FC10C7104B083AB06A1"
+msgid "Would you accept to lower the price?"
+msgstr ""
 
 #. Key:	4892175C4AE235B387A62BB7740BC948
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_259.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2547,12 +2624,26 @@ msgctxt ",5AE94341419377CF1174E7AF2DADA1D9"
 msgid "Place furniture"
 msgstr "Möbel platzieren"
 
+#. Key:	5B4C1E474895587C155640B388CA54E9
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(9).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(9).hagglingTexts
+msgctxt ",5B4C1E474895587C155640B388CA54E9"
+msgid "Maybe it's a little overpriced..."
+msgstr ""
+
 #. Key:	5B5B9C84401D05AD225E56A69992FFBE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_205.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_205.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",5B5B9C84401D05AD225E56A69992FFBE"
 msgid "Bone Glue"
 msgstr "Knochenkleber"
+
+#. Key:	5BC850394C6C29505BA334AA7E46B6A8
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",5BC850394C6C29505BA334AA7E46B6A8"
+msgid "Hello, would you by any chance have one <s>{itemName}</> I'm desperate looking for one!"
+msgstr ""
 
 #. Key:	5BF899AF45BA33DDA224559F0BFB890A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_10.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -2750,6 +2841,13 @@ msgctxt ",628338D24C21755A80F427B5EA8233B0"
 msgid "Close your shop before going to sleep."
 msgstr "Schließe deinen Laden bevor du schlafen gehst"
 
+#. Key:	629099D74EA9DE4FA802FAB057663360
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",629099D74EA9DE4FA802FAB057663360"
+msgid "Hello Alchemist! I'm going on adventures, I'll be more prepared with one  <s>{itemName}</> I think."
+msgstr ""
+
 #. Key:	629B8DBE4983CE1E88578498C54D04EE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_17.LocalizedName_31_4536304E415088940F6209BD50C2E090
 #: /Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_17.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -2939,6 +3037,13 @@ msgctxt ",687246954A84C29F482EDB856DF6157D"
 msgid "Wait to unstuck again"
 msgstr "Warte noch ein wenig bevor du dich wieder befreien kannst"
 
+#. Key:	687A816247E4F482951E0EB30BF3A8AE
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:WidgetTree.TextBlock_0.Text
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:WidgetTree.TextBlock_0.Text
+msgctxt ",687A816247E4F482951E0EB30BF3A8AE"
+msgid "Shop Actions"
+msgstr ""
+
 #. Key:	68BEA9424A496CF6F42F7B9B3EB438FB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_058.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_058.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3029,6 +3134,13 @@ msgstr "Werkzeug"
 msgctxt ",6AF7B196453A095418111ABE894286AC"
 msgid "Witchy Planter"
 msgstr "Hexiger Pflanztopf"
+
+#. Key:	6B4952F44A2FE48529F9F58479B0D42F
+#. SourceLocation:	/Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",6B4952F44A2FE48529F9F58479B0D42F"
+msgid "Stylist"
+msgstr ""
 
 #. Key:	6BB47F5E4AFDD71CF0D06690E2407D88
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Trees.DT_Trees.Tree_06.TreeName_108_D9E182DC49AADD428DA80FABD19E6D43
@@ -3300,8 +3412,8 @@ msgstr "Zypressenbaumsamen"
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_129.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_129.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",761E914843B6018793B1138EE76E92CA"
-msgid "Potion of Swiftness"
-msgstr "Schnelligkeitstrank"
+msgid "Potion of Luck"
+msgstr ""
 
 #. Key:	7656DB4743FAD81EAB1014976ECF3006
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_343.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3365,6 +3477,13 @@ msgstr "Ein Samen, der eine Mohn-Pflanze enthält. Pflanze ihn in bearbeiteten B
 msgctxt ",774D606F490D8B5E28BBC18EC80D7BD2"
 msgid "Rainy Morning"
 msgstr "Regnerischer Morgen"
+
+#. Key:	779EBD024378B008D18E8FA4BDD7A759
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",779EBD024378B008D18E8FA4BDD7A759"
+msgid "Hello, do you sell <s>{itemName}</>? I need one."
+msgstr ""
 
 #. Key:	77AC92B1457F991EB84E5D83E934FEF8
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -3583,6 +3702,13 @@ msgctxt ",81C93D654B3DAD13B17D718F33468118"
 msgid "To celebrate the summer we will shoot fireworks, do you want to try?"
 msgstr "Um den Sommer zu feiern, werden wir Feuerwerk abschießen, willst du es auch versuchen?"
 
+#. Key:	81CB24944228CB072F8BC793A6E3F061
+#. SourceLocation:	/Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",81CB24944228CB072F8BC793A6E3F061"
+msgid "Cloth Vendor"
+msgstr ""
+
 #. Key:	8252069E417F9C5F6D66A79E1214015B
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_324.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_324.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3624,6 +3750,13 @@ msgstr "Krähennestsamen"
 msgctxt ",83388C894205E44345DD96A83D305BBE"
 msgid "A large decorative pond for your garden."
 msgstr "Ein großer dekorativer Teich für deinen Garten."
+
+#. Key:	834604C44B1CC48EC5EA68A102846021
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",834604C44B1CC48EC5EA68A102846021"
+msgid "Hey! Would you have any <s>{itemName}</> lying around?"
+msgstr ""
 
 #. Key:	8352667141DD7A1A94BB34B935B512D7
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_318.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3682,8 +3815,8 @@ msgid "Do you want save your progress and end the day?"
 msgstr "Willst du deinen Fortschritt speichern und den Tag beenden?"
 
 #. Key:	847C83B74D2562272B69A39CEEDB0351
-#. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6(0).Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
-#: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6(0).Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
+#. SourceLocation:	/Game/Characters/NPC/MasterNPC/BP_NPC_Master.Default__BP_NPC_Master_C.NPCInfo.Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6(0).Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
+#: /Game/Characters/NPC/MasterNPC/BP_NPC_Master.Default__BP_NPC_Master_C.NPCInfo.Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6(0).Endquestdialogs_43_007A7DC544159EC3738B6AAEE78AB0D6.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
 msgctxt ",847C83B74D2562272B69A39CEEDB0351"
 msgid "Have you got the items I need? "
 msgstr "Hast du die Gegenstände, die ich brauche? "
@@ -3806,6 +3939,13 @@ msgstr "Schönhäutchen"
 msgctxt ",881CE4AB4A0F1F337E36CB857BEB44CD"
 msgid "Bones"
 msgstr "Knochen"
+
+#. Key:	8890191C4845D48D469C669083D962BC
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",8890191C4845D48D469C669083D962BC"
+msgid "Finally Rosewood Ville has an Alchemist! I need one <s>{itemName}</>, please."
+msgstr ""
 
 #. Key:	889D74C2403D8C2D641039816934CBCF
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(3).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -3996,6 +4136,13 @@ msgctxt ",8F4759B34EC6F4D82105F08A75F7FE44"
 msgid "A porcelain table lamp to decorate, illuminate and give warmth to the room."
 msgstr "Eine prozellan Tischlampe zum dekorieren, sie erleichtet den Raum und gibt ihm wärme."
 
+#. Key:	8F53390A440A3E0B3DB9BA87FC12A965
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(1).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(1).hagglingTexts
+msgctxt ",8F53390A440A3E0B3DB9BA87FC12A965"
+msgid "Wow! A bit expensive, don't you think?"
+msgstr ""
+
 #. Key:	8FAD1731454A1D9B3120FCBA979ADF3D
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
 #: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
@@ -4065,6 +4212,13 @@ msgstr "Ein hölzerner Pflanzkübel, pflanze Saat drinnen und draußen."
 msgctxt ",914B7272422103A3E8515DAA164340EE"
 msgid "Current Trend:"
 msgstr "Derzeitiger Trend:"
+
+#. Key:	916A1B3946EE9151FBCECDADE958B50F
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",916A1B3946EE9151FBCECDADE958B50F"
+msgid "How are you? Do you have any <s>{itemName}</> left?"
+msgstr ""
 
 #. Key:	91AE888A435EF01FC32D549CEDBE7C08
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 - Value).DisplayNameMap
@@ -4227,6 +4381,13 @@ msgctxt ",95A2AA264A176EE417CEA295AC53A028"
 msgid "Made of iron. Use it for water your plants and refill it in rivers or ponds."
 msgstr "Aus Eisen hergestellt. Nutze sie, um deine Pflanzen zu gießen und fülle sie an Flüssen oder Teichen wieder auf."
 
+#. Key:	95A6983F4A7BB31017428FB8634ADECC
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/BP_CustomerNPC.BP_CustomerNPC_C:ExecuteUbergraph_BP_CustomerNPC [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/BP_CustomerNPC.BP_CustomerNPC_C:ExecuteUbergraph_BP_CustomerNPC [Script Bytecode]
+msgctxt ",95A6983F4A7BB31017428FB8634ADECC"
+msgid "Customer"
+msgstr ""
+
 #. Key:	95DF6D6B4B13D790C725589CE2F20899
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_061.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_061.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4380,6 +4541,13 @@ msgstr "Anwenden"
 msgctxt ",9B3BA69041905242D452DBACBD9D66D4"
 msgid "A planter made from a log with some decorative leaves and flowers."
 msgstr "Ein Pflanztopf der aus einem Holzstumpf gemacht wurde. Dazu besitzt er einige dekorative Blätter und Blumen."
+
+#. Key:	9B4038FC45EEF581A09056922B9B419D
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(10).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(10).hagglingTexts
+msgctxt ",9B4038FC45EEF581A09056922B9B419D"
+msgid "That's too much for me..."
+msgstr ""
 
 #. Key:	9B4FDA83407D490E4ACA0C8B6C7D493E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_173.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -4598,6 +4766,13 @@ msgctxt ",A09963C441C535BDC9AEE8A5D326CDF1"
 msgid "Carpet Red"
 msgstr "Teppich Rot"
 
+#. Key:	A0E96E9148C3243D10ACCCA36277B0E8
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",A0E96E9148C3243D10ACCCA36277B0E8"
+msgid "Greetings! I would need one <s>{itemName}</>, please."
+msgstr ""
+
 #. Key:	A15B7A914658DB7DC3D285B739718947
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_234.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_234.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4745,6 +4920,13 @@ msgctxt ",A75FCFDF4228837B46F63084514411BA"
 msgid "A wall copper planter, plant your seeds both indoors and outdoors."
 msgstr "Ein Kupferpflanzkübel für die Wand, pflanze Saat drinnen und draußen."
 
+#. Key:	A78B627C432C83593E10018256196BC6
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",A78B627C432C83593E10018256196BC6"
+msgid "What a cozy little shop! I'll take one <s>{itemName}</>, please."
+msgstr ""
+
 #. Key:	A7A3E4254AB50F44895FCCA38B79573C
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
 #: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
@@ -4760,8 +4942,8 @@ msgid "Maybe later"
 msgstr "Vielleicht später"
 
 #. Key:	A83261484E3CB6D24C4C6A903A4EC45C
-#. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A(0).QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
-#: /Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A(0).QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
+#. SourceLocation:	/Game/Characters/NPC/MasterNPC/BP_NPC_Master.Default__BP_NPC_Master_C.NPCInfo.QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A(0).QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
+#: /Game/Characters/NPC/MasterNPC/BP_NPC_Master.Default__BP_NPC_Master_C.NPCInfo.QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A(0).QuestDialogs_42_4FB561444EB7E3EBF1729099BC57265A.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
 msgctxt ",A83261484E3CB6D24C4C6A903A4EC45C"
 msgid "I'm glad you accepted the order, bring me the items and I will give you a reward!"
 msgstr "Ich freue mich, dass du die Bestellung angenommen hast. Bring mir die Gegenstände und ich Belohne dich!"
@@ -4793,6 +4975,13 @@ msgstr "Löwenzahn"
 msgctxt ",A92A377B42DA404383D04897DBDE1DF8"
 msgid "Poopy Dupy"
 msgstr "Poopy Dupy"
+
+#. Key:	A9BDAB4A474C70AB278729B7C48E0430
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",A9BDAB4A474C70AB278729B7C48E0430"
+msgid "Hello! Could you please, brew one <s>{itemName}</> for me?"
+msgstr ""
 
 #. Key:	A9F7063A4C7C3468828F3C9D19F3E000
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_339.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4877,6 +5066,13 @@ msgstr "Eine schöne Bank für deinen Garten. Gemacht aus Stämmen, dekoriert mi
 msgctxt ",ACBC7C78448BAC12968F1CBE1728E660"
 msgid "Talk"
 msgstr "Reden"
+
+#. Key:	ACC980C744F49BE364500083E2E6A877
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",ACC980C744F49BE364500083E2E6A877"
+msgid "Hi! Do you have one <s>{itemName}</>?"
+msgstr ""
 
 #. Key:	ACD00DAB48EA752D243D9AA991326410
 #. SourceLocation:	/Game/UI/Widget_GameNotification.Widget_GameNotification_C:WidgetTree.ItemNameText.Text
@@ -5032,6 +5228,13 @@ msgctxt ",B0D0E86148F317F025DA4EA883228078"
 msgid "A relaxant that calms even the most stubborn ox."
 msgstr "Ein Entspannungsmittel, das selbst den hartnäckigsten Ochsen beruhigt."
 
+#. Key:	B120286C4AFD89E346EFC39198180262
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",B120286C4AFD89E346EFC39198180262"
+msgid "Hi, I'll take one <s>{itemName}</>, please."
+msgstr ""
+
 #. Key:	B131D24B4C3512982E80A7AB025011EB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_299.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_299.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5045,6 +5248,13 @@ msgstr "Dotter Nenhun Sporen"
 msgctxt ",B13FE8674AF427ED5B755FB965CF9AD6"
 msgid "Accept"
 msgstr "Akzeptieren"
+
+#. Key:	B16100AF4B3843A450D3C88A9C892DC7
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+msgctxt ",B16100AF4B3843A450D3C88A9C892DC7"
+msgid "Dismiss"
+msgstr ""
 
 #. Key:	B19E5E794C65C8162ECAB994491DC3B8
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
@@ -5179,6 +5389,13 @@ msgctxt ",B5C404374041F76C61A151BA12FF99F5"
 msgid "Get Attachments"
 msgstr "Anhänge abrufen"
 
+#. Key:	B626A44D41BB30016883A3B75FB6D948
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(2).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(2).hagglingTexts
+msgctxt ",B626A44D41BB30016883A3B75FB6D948"
+msgid "Uuh... can you lower it a bit?"
+msgstr ""
+
 #. Key:	B647DEF04F03FAE3322A2F89077A4E43
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_15.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
 #: /Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_15.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -5290,6 +5507,13 @@ msgstr "Ein Ei mit einer lustigen Farbauswahl."
 msgctxt ",BA33F10D4408CBEE7E2350B8E6200656"
 msgid "Rafflessia"
 msgstr "Rafflessie"
+
+#. Key:	BA34670C4D62B33E6A34069A37316EC6
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",BA34670C4D62B33E6A34069A37316EC6"
+msgid "Hi! I hope you have some <s>{itemName}</> left, it was just what I needed!"
+msgstr ""
 
 #. Key:	BA62EFE941F8D9390DAED5AD299A0D71
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_123.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5522,6 +5746,13 @@ msgctxt ",C18AF9654A1C63FC262ED38F4CBD8C7B"
 msgid "Winter Gift"
 msgstr "Wintergeschenk"
 
+#. Key:	C1A06C73440499BFA6EBDDAE282B42CE
+#. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_108.Name_27_A88354F441C25CE5AC4A348435C3D81B
+#: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_108.Name_27_A88354F441C25CE5AC4A348435C3D81B
+msgctxt ",C1A06C73440499BFA6EBDDAE282B42CE"
+msgid "Liquid Fire"
+msgstr ""
+
 #. Key:	C1F10D0B4A936E81475D8CA7A64995DE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_129.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_129.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5549,6 +5780,13 @@ msgstr "Gibt deinem Laden einen Namen"
 msgctxt ",C20E7A2F4DC00761A3739A9951CD1552"
 msgid "Crystared Figure"
 msgstr "Kristarot"
+
+#. Key:	C222B2284A2F9686F4DD3AA532AEA31D
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(11).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(11).hagglingTexts
+msgctxt ",C222B2284A2F9686F4DD3AA532AEA31D"
+msgid "I think it should be cheaper."
+msgstr ""
 
 #. Key:	C2630EB4435EA2D55CAFCBBE58EC6068
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_KeyBindingModule.Widget_KeyBindingModule_C:WidgetTree.ActionNameText.Text
@@ -5767,6 +6005,13 @@ msgctxt ",C8707C9640459F7A8B35D5ADD72B0044"
 msgid "Seed that contains a watermelon plant."
 msgstr "Saat aus der eine Wassermelone wächst."
 
+#. Key:	C8F0826144D7E254A67125B26B39B8E8
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",C8F0826144D7E254A67125B26B39B8E8"
+msgid "How nice to have an Alchemist so close! Would you have any  <s>{itemName}</>, please?"
+msgstr ""
+
 #. Key:	C9ABF26240A720B10F1186B45AE182E9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_181.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_181.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5802,6 +6047,20 @@ msgctxt ",C9F8D2054582FE7B1D9C6A81FF276DF7"
 msgid "Go Outside"
 msgstr "Gehe nach draußen"
 
+#. Key:	CA0D40BF44B3B2CAD7080BAC0DABCC50
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(4).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(4).hagglingTexts
+msgctxt ",CA0D40BF44B3B2CAD7080BAC0DABCC50"
+msgid "Shall we negotiate it?"
+msgstr ""
+
+#. Key:	CA4042C140192DD53BC2B3AB288A08F1
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",CA4042C140192DD53BC2B3AB288A08F1"
+msgid "Greetings! I'm looking for some <s>{itemName}</>. Do you have any?"
+msgstr ""
+
 #. Key:	CA60797949E9865B1B3349956886DA61
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_120.Name_27_A88354F441C25CE5AC4A348435C3D81B
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_120.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5836,6 +6095,13 @@ msgstr "Sporen aus denen ein Schwarzer Nenhunpilz wächst, sie können in deinem
 msgctxt ",CAD2E59A4E6ED44E06D22E8EC6206FB3"
 msgid "Moon Hibiscus Seed"
 msgstr "Mondhibiskussamen"
+
+#. Key:	CAEC55AF49A64837410891ABC829373E
+#. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_108.Description_28_8E19938F4202DF81D6D312ABE107A7F9
+#: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_108.Description_28_8E19938F4202DF81D6D312ABE107A7F9
+msgctxt ",CAEC55AF49A64837410891ABC829373E"
+msgid "Potion with a burning liquid, a favorite of Wizards, handle with care!"
+msgstr ""
 
 #. Key:	CAECD74543196263DE8E278B0211F9A4
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(5 - Value).DisplayNameMap
@@ -5907,6 +6173,13 @@ msgctxt ",CC8F70904692D036EE0B319988261272"
 msgid "Wood"
 msgstr "Holz"
 
+#. Key:	CCA7185F46C083F298C745AB4541ACAD
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+msgctxt ",CCA7185F46C083F298C745AB4541ACAD"
+msgid "Haggle"
+msgstr ""
+
 #. Key:	CCC2AA4C45E9F2B47F80EEA8191D8DBC
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script Bytecode]
 #: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script Bytecode]
@@ -5920,6 +6193,20 @@ msgstr "Von: {npc}"
 msgctxt ",CCE60793472AC1A0E8A4C7B39177FDB1"
 msgid "Wood Square Small"
 msgstr "Holz Quadrat Klein"
+
+#. Key:	CD07AA4C44E51D418ED57AA0F1C8102D
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",CD07AA4C44E51D418ED57AA0F1C8102D"
+msgid "Good to see you, Alchemist! Any <s>{itemName}</> for me?"
+msgstr ""
+
+#. Key:	CD88F33446EFD4A4B7219B8DD2E8A20C
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+msgctxt ",CD88F33446EFD4A4B7219B8DD2E8A20C"
+msgid "Wait"
+msgstr ""
 
 #. Key:	CDA1C0FA46E467C2F298E99D22E6957D
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_2.Text
@@ -5963,6 +6250,13 @@ msgctxt ",CE215DC946727490CFF0E7A094407E1E"
 msgid "Stone Stripes Brown"
 msgstr "Stein Braun-Gestreift"
 
+#. Key:	CE4068F34C6804DB29FF7C830726764C
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(7).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(7).hagglingTexts
+msgctxt ",CE4068F34C6804DB29FF7C830726764C"
+msgid "I would like a discount."
+msgstr ""
+
 #. Key:	CE596EC74D43C66BBC5E91A9C2B767C5
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:WidgetTree.TextBlock_103.Text
 #: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:WidgetTree.TextBlock_103.Text
@@ -6004,6 +6298,13 @@ msgstr "Energie Trank"
 msgctxt ",CEE23A00421E218288BA008522DB03FF"
 msgid "Bouquet Skull"
 msgstr "Blumenstraußschädel"
+
+#. Key:	CF4A581F436F37413FEFE6A286D461DC
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",CF4A581F436F37413FEFE6A286D461DC"
+msgid "Hey! How's your day going? Would you give me one <s>{itemName}</>, please?"
+msgstr ""
 
 #. Key:	CF4CA24F43EEC48EB92E3F8073BC68F5
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_323.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6628,6 +6929,13 @@ msgctxt ",E33E5F8F448DF55478C743B905590AC7"
 msgid "Non-reactive components"
 msgstr "Komponenten haben nicht miteinander Reagiert"
 
+#. Key:	E36658A04E81878F5E88DB815694D2EF
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(0).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(0).hagglingTexts
+msgctxt ",E36658A04E81878F5E88DB815694D2EF"
+msgid "Maybe we can negotiate the price?"
+msgstr ""
+
 #. Key:	E38DCB0B4FB92232B2A826A2C1D29786
 #. SourceLocation:	/Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
 #: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
@@ -6718,6 +7026,13 @@ msgstr "Ein Samen, der eine Seenymphen-Pflanze enthält. Pflanze ihn in bearbeit
 msgctxt ",E5A9AC7448922085802B7C97ED32694F"
 msgid "Wait"
 msgstr "Warten"
+
+#. Key:	E670C69F48AAA7FE234E2EA4738C650C
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",E670C69F48AAA7FE234E2EA4738C650C"
+msgid "The villagers advised me about your potion shop. Do you have any <s>{itemName}</>?"
+msgstr ""
 
 #. Key:	E6842098439BBC8153F0E4815F513605
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Minerals.DT_Minerals.Mineral_4.Name_64_A59486144BB3DF5F2A6851979EFBA7D2
@@ -7041,6 +7356,13 @@ msgctxt ",F60E5F6045AA7826B84331B02232829F"
 msgid "Sell Potion"
 msgstr "Trank verkaufen"
 
+#. Key:	F646256443FC5173787766A0ED8A4DDD
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(12).hagglingTexts
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(12).hagglingTexts
+msgctxt ",F646256443FC5173787766A0ED8A4DDD"
+msgid "Wow, I was not expecting this price."
+msgstr ""
+
 #. Key:	F667AD224D237C4BE1D932A792433C4C
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_310.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_310.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -7215,6 +7537,13 @@ msgstr "Schwarzes Metall mit einem... gruseligen Design."
 msgctxt ",FB4315AB432AED33185E9591B4E90B80"
 msgid "A shop table with shop front shape, use it for sell your products."
 msgstr "Ein Ladentisch mit extra angepasster Vorderseite, nutzte ihn um deine Produkte zu verkaufen."
+
+#. Key:	FB8DD41746F83F1BDF1BE88D9CD15576
+#. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+msgctxt ",FB8DD41746F83F1BDF1BE88D9CD15576"
+msgid "Hi, Alchemist! I want to buy one <s>{itemName}</>, please!"
+msgstr ""
 
 #. Key:	FB949ED0450FD7D3ADFFF9AF51ED186A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_295.Name_27_A88354F441C25CE5AC4A348435C3D81B
