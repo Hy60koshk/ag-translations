@@ -1,21 +1,23 @@
-﻿# Game Russian translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2022-12-28 05:44\n"
-"PO-Revision-Date: 2022-12-28 05:44\n"
+"POT-Creation-Date: 2023-07-05 07:41\n"
+"PO-Revision-Date: 2023-07-05 14:24+0200\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. Key:	003A60CC41864F1AA7140E88138383B2
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",003A60CC41864F1AA7140E88138383B2"
 msgid "Next"
 msgstr "Далее"
@@ -50,7 +52,8 @@ msgstr "Жёлтый ковёр"
 
 #. Key:	01F37E064200C417193D9EBF36C89292
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog
+#: [Script Bytecode]
 msgctxt ",01F37E064200C417193D9EBF36C89292"
 msgid "Sell Item"
 msgstr ""
@@ -113,7 +116,8 @@ msgstr "Медный горшок. В него можно посадить ра�
 
 #. Key:	04F99291421519CD67B5939FB91CFB8C
 #. SourceLocation:	/Game/UI/Widget_EnergyBar.Widget_EnergyBar_C:UpdateEnergyBar [Script Bytecode]
-#: /Game/UI/Widget_EnergyBar.Widget_EnergyBar_C:UpdateEnergyBar [Script Bytecode]
+#: /Game/UI/Widget_EnergyBar.Widget_EnergyBar_C:UpdateEnergyBar [Script
+#: Bytecode]
 msgctxt ",04F99291421519CD67B5939FB91CFB8C"
 msgid "Energy: {currentAmount}/{maxAmount}"
 msgstr "Энергия: {currentAmount}/{maxAmount}"
@@ -134,7 +138,8 @@ msgstr "Пн"
 
 #. Key:	06713A4547E902B006744A8E14C4710E
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText
+#: [Script Bytecode]
 msgctxt ",06713A4547E902B006744A8E14C4710E"
 msgid "Hold \"{Interact Button}\" to pick up"
 msgstr "Зажмите \"{Interact Button}\", чтобы подобрать"
@@ -155,7 +160,8 @@ msgstr "Здравствуй, мой друг-алхимик. После сво�
 
 #. Key:	071E956F4E0FEAA7080387B8F85F05F6
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",071E956F4E0FEAA7080387B8F85F05F6"
 msgid "Friday"
 msgstr "Пятница"
@@ -211,7 +217,8 @@ msgstr "Каждому магазину нужен прилавок. Как же
 
 #. Key:	08F3AD95445EBBB8C7EE07BBCDF365FB
 #. SourceLocation:	/Game/Blueprints/Actors/BP_QuestManager.BP_QuestManager_C:GetNewQuest [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_QuestManager.BP_QuestManager_C:GetNewQuest [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_QuestManager.BP_QuestManager_C:GetNewQuest
+#: [Script Bytecode]
 msgctxt ",08F3AD95445EBBB8C7EE07BBCDF365FB"
 msgid "I need the following items"
 msgstr "Мне нужны следующие предметы"
@@ -239,7 +246,8 @@ msgstr "Маленькая светящаяся мумия I"
 
 #. Key:	0A370A6744A4E0F965D89292DBA0640F
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
-#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
+#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter
+#: [Script Bytecode]
 msgctxt ",0A370A6744A4E0F965D89292DBA0640F"
 msgid "Your shop is now closed"
 msgstr "Магазин закрыт"
@@ -281,7 +289,8 @@ msgstr "Однажды у нас с отцом состоялся серьёзн
 
 #. Key:	0B53085B44A16E68464D4F946422980C
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton
+#: [Script Bytecode]
 msgctxt ",0B53085B44A16E68464D4F946422980C"
 msgid "{Potion Name} has been created"
 msgstr "Вы создали {Potion Name}"
@@ -295,7 +304,8 @@ msgstr "Отпразднуйте наступление лета, устроив
 
 #. Key:	0B8F81924EEE4A0B1822C08719150A57
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",0B8F81924EEE4A0B1822C08719150A57"
 msgid "Healing"
 msgstr "Лекарство"
@@ -351,7 +361,8 @@ msgstr "Семена лаванды"
 
 #. Key:	0DF2C4E646EF5EC9A80952A90BE5011E
 #. SourceLocation:	/Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script Bytecode]
-#: /Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script Bytecode]
+#: /Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script
+#: Bytecode]
 msgctxt ",0DF2C4E646EF5EC9A80952A90BE5011E"
 msgid "SOLD"
 msgstr "ПРОДАНО"
@@ -379,10 +390,15 @@ msgstr "Семена козьего хмеля"
 
 #. Key:	0E6C7B034BE19332AA763C8F56E2D513
 #. SourceLocation:	/Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ExecuteUbergraph_BP_WorldTree [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ExecuteUbergraph_BP_WorldTree [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ExecuteUbergraph_BP_WorldTree
+#: [Script Bytecode]
 msgctxt ",0E6C7B034BE19332AA763C8F56E2D513"
-msgid "Small Tree\r\nUse a Hatchet to chop down the tree."
-msgstr "Маленькое дерево\r\nИспользуйте топор, чтобы срубить его."
+msgid ""
+"Small Tree\r\n"
+"Use a Hatchet to chop down the tree."
+msgstr ""
+"Маленькое дерево\r\n"
+"Используйте топор, чтобы срубить его."
 
 #. Key:	0EBC381A495B637ABD847DA2EFE701EC
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.Exotic_1.EventName_8_EA3E407F4675FB52F37086992838CBB0
@@ -400,10 +416,18 @@ msgstr "Декоративное надгробие, которое придас
 
 #. Key:	0F153DA24E1A2F635963128BCDE50646
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",0F153DA24E1A2F635963128BCDE50646"
 msgid "Comfort"
 msgstr "Комфорт"
+
+#. Key:	0F2BFA5C4864E33C076C5F8A21380B8B
+#. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_053.Description_28_8E19938F4202DF81D6D312ABE107A7F9
+#: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_053.Description_28_8E19938F4202DF81D6D312ABE107A7F9
+msgctxt ",0F2BFA5C4864E33C076C5F8A21380B8B"
+msgid "An empty tombstone. Place it in your garden as a warning."
+msgstr ""
 
 #. Key:	0F50BDBC42932BE20160A99EC043A8A1
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_40.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -533,7 +557,8 @@ msgstr "Семена банана"
 
 #. Key:	1319B61B48014DF032E933BF84D0760F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",1319B61B48014DF032E933BF84D0760F"
 msgid "Relaxing"
 msgstr "Релаксант"
@@ -577,26 +602,55 @@ msgstr "Волны лени"
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Mails.DT_Mails.mail_3.Message_8_2DC573DB4ED5171E04CB6CA35E1B21F4
 #: /Game/Blueprints/Datatables/DT_Mails.DT_Mails.mail_3.Message_8_2DC573DB4ED5171E04CB6CA35E1B21F4
 msgctxt ",151F1E504DD4E4A00A448B9CE5D78BD0"
-msgid "Dear Alchemist,\r\n\r\nIt is a pleasure to see that you have settled near Rosewood Ville, it is certainly a quiet and peaceful place.\r\nWarriors, mages and explorers often pass through here in search of rest and consumables, so opening a potion store here is a great idea!\r\n\r\nExplore the surroundings and find ingredients for your experiments, plant seeds, create beautiful gardens and decorate your home with your profits from the shop. We can't wait to see what you're capable of!\r\n\r\nAs we know that beginnings are a bit difficult, we have sent you some tools to start your new adventure on the right foot!\r\n\r\nSincerely,\r\nThe Alchemists Guild"
+msgid ""
+"Dear Alchemist,\r\n"
+"\r\n"
+"It is a pleasure to see that you have settled near Rosewood Ville, it is certainly a quiet and peaceful place.\r\n"
+"Warriors, mages and explorers often pass through here in search of rest and consumables, so opening a potion store here is a great idea!\r\n"
+"\r\n"
+"Explore the surroundings and find ingredients for your experiments, plant seeds, create beautiful gardens and decorate your home with your profits from the shop. We can't wait to see what you're capable of!\r\n"
+"\r\n"
+"As we know that beginnings are a bit difficult, we have sent you some tools to start your new adventure on the right foot!\r\n"
+"\r\n"
+"Sincerely,\r\n"
+"The Alchemists Guild"
 msgstr ""
+"Уважаемый Алхимик,\n"
+"\n"
+"Приятно видеть, что вы поселились недалеко от Роузвуд-Вилля, это действительно тихое и мирное место.\n"
+"Воины, маги и исследователи часто проходят через это место в поисках отдыха и потребностей, поэтому открытие магазина зелий здесь - отличная идея!\n"
+"\n"
+"Исследуйте окрестности и находите ингредиенты для своих экспериментов, сажайте семена, создавайте красивые сады и украшайте свой дом прибылью от магазина. Мы с нетерпением ждем, что вы сможете сделать!\n"
+"\n"
+"Поскольку мы знаем, что начинания иногда бывают непростыми, мы отправили вам некоторые инструменты, чтобы вы начали свое новое приключение с правильной ноги!\n"
+"\n"
+"С уважением,\n"
+"Гильдия Алхимиков"
 
 #. Key:	153F75FA44718E00F384369023084C65
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script
+#: Bytecode]
 msgctxt ",153F75FA44718E00F384369023084C65"
-msgid "{PlantName}\r\nNeeds to be watered"
-msgstr "{PlantName}\r\nНуждается в поливе"
+msgid ""
+"{PlantName}\r\n"
+"Needs to be watered"
+msgstr ""
+"{PlantName}\r\n"
+"Нуждается в поливе"
 
 #. Key:	1565477643EE1BDC73FEE1A04194F35D
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(3
+#: - Value).DisplayNameMap
 msgctxt ",1565477643EE1BDC73FEE1A04194F35D"
 msgid "Furniture"
 msgstr "Мебель"
 
 #. Key:	157FB3D24CA8231E46A080B87F17B075
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:WatercanUsing [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:WatercanUsing [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:WatercanUsing
+#: [Script Bytecode]
 msgctxt ",157FB3D24CA8231E46A080B87F17B075"
 msgid "You have run out of water, go to a river to fill the watering can."
 msgstr "Вода закончилась. Сходите к речке, чтобы наполнить лейку."
@@ -617,7 +671,8 @@ msgstr "Страшная и ужасная кровать"
 
 #. Key:	15D86BFC43F2E367E229E8BF0CD7FF69
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",15D86BFC43F2E367E229E8BF0CD7FF69"
 msgid "Good thing I find an Alchemist around here! I urgently need one <s>{itemName}</>..."
 msgstr ""
@@ -647,8 +702,12 @@ msgstr ""
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 #: /Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 msgctxt ",17692EC345335ED37D20E5B5A473C399"
-msgid "Press [{RotationKey}] to rotate\r\nPress [{ToggleGrid}] to toggle grid\r\n"
-msgstr "Нажмите [{RotationKey}], чтобы повернуть\r\nНажмите [{ToggleGrid}], чтобы включить или отключить сетку\r\n"
+msgid ""
+"Press [{RotationKey}] to rotate\r\n"
+"Press [{ToggleGrid}] to toggle grid\r\n"
+msgstr ""
+"Нажмите [{RotationKey}], чтобы повернуть\r\n"
+"Нажмите [{ToggleGrid}], чтобы включить или отключить сетку\r\n"
 
 #. Key:	1776D071433BC1E928A29C97680D309D
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(6).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -659,7 +718,8 @@ msgstr "Нам ещё многому предстоит научиться!"
 
 #. Key:	177C2727464CF93D9F6360B4A27DA467
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText
+#: [Script Bytecode]
 msgctxt ",177C2727464CF93D9F6360B4A27DA467"
 msgid "Press <img id=\"{buttonCode}\"/> to interact"
 msgstr "Нажмите <img id=\"{buttonCode}\"/>, чтобы взаимодействовать"
@@ -701,7 +761,8 @@ msgstr "Синий с камнем"
 
 #. Key:	19294FF649AF940F2BDF5D859D70647B
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter
+#: [Script Bytecode]
 msgctxt ",19294FF649AF940F2BDF5D859D70647B"
 msgid "Village Event"
 msgstr "Событие в городке"
@@ -750,7 +811,8 @@ msgstr "Зимний фестиваль"
 
 #. Key:	1A73872F4769E3DF832D3497435D2174
 #. SourceLocation:	/Game/UI/Widget_ToolBeltSlot.Widget_ToolBeltSlot_C:ExecuteUbergraph_Widget_ToolBeltSlot [Script Bytecode]
-#: /Game/UI/Widget_ToolBeltSlot.Widget_ToolBeltSlot_C:ExecuteUbergraph_Widget_ToolBeltSlot [Script Bytecode]
+#: /Game/UI/Widget_ToolBeltSlot.Widget_ToolBeltSlot_C:ExecuteUbergraph_Widget_ToolBeltSlot
+#: [Script Bytecode]
 msgctxt ",1A73872F4769E3DF832D3497435D2174"
 msgid "Unequip your tool first"
 msgstr "Сначала уберите свой инструмент"
@@ -799,7 +861,8 @@ msgstr "Странный гриб трубчатой формы. Расслаб�
 
 #. Key:	1BA2DB0A4BE547516ACB348CAA00AA4B
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",1BA2DB0A4BE547516ACB348CAA00AA4B"
 msgid "Wow! The shop is more beautiful everyday. Could you give me one <s>{itemName}</>, please?"
 msgstr ""
@@ -848,7 +911,8 @@ msgstr "Череп с цветком"
 
 #. Key:	1CC6021A480D43AB03779C870C4AD250
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(5
+#: - Value).DisplayNameMap
 msgctxt ",1CC6021A480D43AB03779C870C4AD250"
 msgid "Fences"
 msgstr "забор"
@@ -869,7 +933,8 @@ msgstr "Средство, сращивающее переломанные кос
 
 #. Key:	1DBABC1B41D200481A99FDA0D5355305
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture
+#: [Script Bytecode]
 msgctxt ",1DBABC1B41D200481A99FDA0D5355305"
 msgid "This item cannot be placed inside"
 msgstr "Этот предмет нельзя разместить в доме."
@@ -883,7 +948,8 @@ msgstr "Семена синего гадючего лука"
 
 #. Key:	1DE268AC4438667B35BC06858CF19478
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",1DE268AC4438667B35BC06858CF19478"
 msgid "Common"
 msgstr "Обыч."
@@ -939,7 +1005,8 @@ msgstr "Синяя клетка со звёздами"
 
 #. Key:	1F9A1AAE448570931D04D6AA114979F4
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame
+#: [Script Bytecode]
 msgctxt ",1F9A1AAE448570931D04D6AA114979F4"
 msgid "Press on the green zone"
 msgstr "Нажмите на область, подсвеченную зелёным"
@@ -981,7 +1048,8 @@ msgstr "Милая сельская ограда"
 
 #. Key:	209DD94D4814DBE8C82033ADF5FBCD03
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",209DD94D4814DBE8C82033ADF5FBCD03"
 msgid "Laboratory"
 msgstr "Лаборатория"
@@ -1072,7 +1140,8 @@ msgstr "Крупный паркет"
 
 #. Key:	22A76FB1478CD8AFE890DC887977E99A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText
+#: [Script Bytecode]
 msgctxt ",22A76FB1478CD8AFE890DC887977E99A"
 msgid "Small Tree"
 msgstr "Маленькое дерево"
@@ -1095,19 +1164,21 @@ msgstr "Банан"
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_184.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_184.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",22F916264865E94F4266C18405747BE8"
-msgid "Hatchet made of iron with hight durability. Use it to chop down trees."
-msgstr "Железный топор. Имеет высокую прочность. Используется для добычи дерева."
+msgid "Hatchet made of iron with high durability. Use it to chop down trees."
+msgstr ""
 
 #. Key:	23A6E32147EA64A4BB9F1A99D1E42F07
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",23A6E32147EA64A4BB9F1A99D1E42F07"
 msgid "Saturday"
 msgstr "Суббота"
 
 #. Key:	23AE7AE540BFB9A0183A3BA4C61B16D7
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(3
+#: - Value).DisplayNameMap
 msgctxt ",23AE7AE540BFB9A0183A3BA4C61B16D7"
 msgid "Lighting"
 msgstr "Освещение"
@@ -1128,7 +1199,8 @@ msgstr "Верстак"
 
 #. Key:	24EB80F647D215089AAF2D9251962269
 #. SourceLocation:	/Game/Characters/Player/BP_player.BP_player_C:ExecuteUbergraph_BP_player [Script Bytecode]
-#: /Game/Characters/Player/BP_player.BP_player_C:ExecuteUbergraph_BP_player [Script Bytecode]
+#: /Game/Characters/Player/BP_player.BP_player_C:ExecuteUbergraph_BP_player
+#: [Script Bytecode]
 msgctxt ",24EB80F647D215089AAF2D9251962269"
 msgid "You are too tired and you have passed out. "
 msgstr ""
@@ -1184,7 +1256,8 @@ msgstr "Парфюм с ароматом густого леса."
 
 #. Key:	275021B74C57FAB2E4F7A38BD9E90461
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterPlayerHoldable.BP_MasterPlayerHoldable_C:SpawnFurniture
+#: [Script Bytecode]
 msgctxt ",275021B74C57FAB2E4F7A38BD9E90461"
 msgid "This item cannot be placed outside"
 msgstr "Этот предмет нельзя разместить на улице"
@@ -1256,8 +1329,14 @@ msgstr "Жуткий паук"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_room.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_room.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",299160B04505118D3F868785AA01DE21"
-msgid "Welcome to your house! At the moment it is somewhat empty and both the walls and the floors are not at their best...\r\n\r\nBut don't worry, with some work and enthusiasm you can repair the house and decorate it as you like. Turn this filthy house into a beautiful alchemy shop!"
-msgstr "Добро пожаловать к себе домой! Сейчас здесь довольно пусто и стены с полом выглядят не лучшим образом...\r\n\r\nНо не волнуйся, при желании и должном усердии, ты можешь превратить свой дом в уютнейшее местечко!"
+msgid ""
+"Welcome to your house! At the moment it is somewhat empty and both the walls and the floors are not at their best...\r\n"
+"\r\n"
+"But don't worry, with some work and enthusiasm you can repair the house and decorate it as you like. Turn this filthy house into a beautiful alchemy shop!"
+msgstr ""
+"Добро пожаловать к себе домой! Сейчас здесь довольно пусто и стены с полом выглядят не лучшим образом...\r\n"
+"\r\n"
+"Но не волнуйся, при желании и должном усердии, ты можешь превратить свой дом в уютнейшее местечко!"
 
 #. Key:	29B5DEE345912248D2266C94B6028249
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Widgets/Widget_WellDone.Widget_WellDone_C:WidgetTree.TextBlock_25.Text
@@ -1268,7 +1347,8 @@ msgstr "Отлично!"
 
 #. Key:	2A0DA0FD4E9EA108F248658E5B7AB403
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter
+#: [Script Bytecode]
 msgctxt ",2A0DA0FD4E9EA108F248658E5B7AB403"
 msgid "Do you want to end the event and the day?"
 msgstr "Завершить событие? День тоже закончится вместе с ним."
@@ -1303,7 +1383,8 @@ msgstr "Верстак. На нём можно создавать различн
 
 #. Key:	2B8164384433B8C26B0CF9AF047A3A3C
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell
+#: [Script Bytecode]
 msgctxt ",2B8164384433B8C26B0CF9AF047A3A3C"
 msgid "Close Shop"
 msgstr "Закрыть магазин"
@@ -1317,7 +1398,8 @@ msgstr "Открыть журнал"
 
 #. Key:	2C11C1DA45ED34FC4F44F9B7818019DA
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",2C11C1DA45ED34FC4F44F9B7818019DA"
 msgid "How's it going, Alchemist? Today I need one <s>{itemName}</>, do you still have?"
 msgstr ""
@@ -1354,8 +1436,14 @@ msgstr "Страшная тыквенная голова с голубой св�
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_bed.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_bed.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",2CF7C4ED49BDD86B706354ADDE669690"
-msgid "Go to bed to save progress, finish the day and recover your energy.\r\n\r\nThere is nothing like a good fluffy bed!"
-msgstr "Когда вы ложитесь спать, день завершается, вы восстанавливаете энергию, а ваш прогресс в игре сохраняется.\r\n\r\nНет ничего лучше мягкой кроватки!"
+msgid ""
+"Go to bed to save progress, finish the day and recover your energy.\r\n"
+"\r\n"
+"There is nothing like a good fluffy bed!"
+msgstr ""
+"Когда вы ложитесь спать, день завершается, вы восстанавливаете энергию, а ваш прогресс в игре сохраняется.\r\n"
+"\r\n"
+"Нет ничего лучше мягкой кроватки!"
 
 #. Key:	2D531E5445C2E99AE205B29BDB36D9B9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_062.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1394,7 +1482,8 @@ msgstr "Это зелье повышает ваши шансы на получе
 
 #. Key:	2F01324245A02BFEEE9C27A99D3EE280
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(4 -
+#: Value).DisplayNameMap
 msgctxt ",2F01324245A02BFEEE9C27A99D3EE280"
 msgid "Winter Festival"
 msgstr "Зимний фестиваль"
@@ -1436,7 +1525,8 @@ msgstr "Выберите ячейку"
 
 #. Key:	308AC2DA47E2005922F034962D2B098F
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Mailbox.BP_Mailbox_C:ExecuteUbergraph_BP_Mailbox [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Mailbox.BP_Mailbox_C:ExecuteUbergraph_BP_Mailbox [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Mailbox.BP_Mailbox_C:ExecuteUbergraph_BP_Mailbox
+#: [Script Bytecode]
 msgctxt ",308AC2DA47E2005922F034962D2B098F"
 msgid "Mailbox"
 msgstr "Почтовый ящик"
@@ -1457,7 +1547,8 @@ msgstr "Перевод на русский язык"
 
 #. Key:	315DA5F5460355A0C90F5099D7BDAED0
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message
+#: Rewards [Script Bytecode]
 msgctxt ",315DA5F5460355A0C90F5099D7BDAED0"
 msgid "Thank you Alchemist!"
 msgstr "Спасибо, алхимик!"
@@ -1520,7 +1611,8 @@ msgstr ""
 
 #. Key:	3376EFA94A14E50743A9FBA90AAA396C
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell
+#: [Script Bytecode]
 msgctxt ",3376EFA94A14E50743A9FBA90AAA396C"
 msgid "Open Shop"
 msgstr "Открыть магазин"
@@ -1555,7 +1647,8 @@ msgstr "Он сказал: «Если хочешь стать хорошим п�
 
 #. Key:	3428CB6041AAFBE510B50DBED6BBA6C3
 #. SourceLocation:	/Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",3428CB6041AAFBE510B50DBED6BBA6C3"
 msgid "Talk"
 msgstr ""
@@ -1569,7 +1662,8 @@ msgstr "Звери не умеют разговаривать, но это не 
 
 #. Key:	34EB52084A66F3808B120BA08C938925
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
-#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
+#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New [Script
+#: Bytecode]
 msgctxt ",34EB52084A66F3808B120BA08C938925"
 msgid "Requested by: {npcName}"
 msgstr "Заказчик: {npcName}"
@@ -1676,8 +1770,12 @@ msgstr "Яд"
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.HalloweenEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
 #: /Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.HalloweenEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
 msgctxt ",380A57334ABECA1D619BCEA6AECE2BDB"
-msgid "Jack-O-Greedy has come to Rosewood Ville with tricks for everyone!\r\nFind all the wisps and bring them to Jack-O-Greedy, he will surely have a good reward for you."
-msgstr "Жадный Джек пришел в Розвуд! И не с пустыми руками!\r\nРазыщите все блуждающие огоньки и отнесите их жадному Джеку, и он обязательно вознаградит вас."
+msgid ""
+"Jack-O-Greedy has come to Rosewood Ville with tricks for everyone!\r\n"
+"Find all the wisps and bring them to Jack-O-Greedy, he will surely have a good reward for you."
+msgstr ""
+"Жадный Джек пришел в Розвуд! И не с пустыми руками!\r\n"
+"Разыщите все блуждающие огоньки и отнесите их жадному Джеку, и он обязательно вознаградит вас."
 
 #. Key:	3814600D430DEE498EEBFDB29D142FBF
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_047.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -1702,7 +1800,8 @@ msgstr "Звук"
 
 #. Key:	38D8B46A4411EE84EADADBAA2BCE35A7
 #. SourceLocation:	/Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_WorldTree.BP_WorldTree_C:ShowInteractionText
+#: [Script Bytecode]
 msgctxt ",38D8B46A4411EE84EADADBAA2BCE35A7"
 msgid "Use a Hatchet to chop down the tree."
 msgstr "Чтобы срубить дерево, используйте топор"
@@ -1767,8 +1866,12 @@ msgstr "Буфет"
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
 #: /Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
 msgctxt ",3C8E66504163604F9D93FE90FD4B8C38"
-msgid "Press [{RotationKey}] to rotate\r\nPress [{ToggleGrid}] to toggle grid"
-msgstr "Нажмите [{RotationKey}], чтобы повернуть\r\nНажмите [{ToggleGrid}], чтобы включить или отключить сетку"
+msgid ""
+"Press [{RotationKey}] to rotate\r\n"
+"Press [{ToggleGrid}] to toggle grid"
+msgstr ""
+"Нажмите [{RotationKey}], чтобы повернуть\r\n"
+"Нажмите [{ToggleGrid}], чтобы включить или отключить сетку"
 
 #. Key:	3D2DBB3D46AF6E10152DCE90144B2D1E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_217.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1816,19 +1919,27 @@ msgstr "Маленькая фигурка мумии."
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_villageShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_villageShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",3F43ABCB4054AC77F408D4B59EDD9EC6"
-msgid "In the village you will find some shops where you can buy all kinds of products.\r\n\r\nSeeds, clothes, tools and even furniture!"
-msgstr "В городке вы найдёте несколько магазинов, в которых можно приобрести разнообразные товары.\r\n\r\nСемена, одежду, инструменты и даже мебель!"
+msgid ""
+"In the village you will find some shops where you can buy all kinds of products.\r\n"
+"\r\n"
+"Seeds, clothes, tools and even furniture!"
+msgstr ""
+"В городке вы найдёте несколько магазинов, в которых можно приобрести разнообразные товары.\r\n"
+"\r\n"
+"Семена, одежду, инструменты и даже мебель!"
 
 #. Key:	3F565C4C4872636BA42565BEEFDB8F61
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",3F565C4C4872636BA42565BEEFDB8F61"
 msgid "Retrieve Items"
 msgstr "Передать предметы"
 
 #. Key:	3FA9A2DC4C8490A8F1123CB8CBB4264E
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter
+#: [Script Bytecode]
 msgctxt ",3FA9A2DC4C8490A8F1123CB8CBB4264E"
 msgid "Today there is an event in the town, if you enter you will not be able to leave until you finish the event. If you have pending tasks to do today, finish them before entering."
 msgstr "Сегодня в городе состоится праздник. Если вы войдёте в город, то уже не сможете выйти, пока не закончится праздник, а вместе с ним и день. Если у вас ещё есть какие-то дела на сегодня, то сначала закончите их."
@@ -1849,7 +1960,8 @@ msgstr "Нажмите [{ToggleGrid}], чтобы включить или отк
 
 #. Key:	3FC5398247B8FCC02E7784B190F4AC14
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:UpdateKnownRecipe [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:UpdateKnownRecipe [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:UpdateKnownRecipe
+#: [Script Bytecode]
 msgctxt ",3FC5398247B8FCC02E7784B190F4AC14"
 msgid "Recipe Not Valid"
 msgstr "Неправильный рецепт"
@@ -1870,7 +1982,8 @@ msgstr "Маленький декоративный пруд для вашего
 
 #. Key:	3FFFAA514542C524489E14BF2A0D8E2C
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(4
+#: - Value).DisplayNameMap
 msgctxt ",3FFFAA514542C524489E14BF2A0D8E2C"
 msgid "Component"
 msgstr "компонент"
@@ -1926,7 +2039,8 @@ msgstr "Семена пурпурного хоботка"
 
 #. Key:	41A87DFD4E6CD8AEB875B8ABD36E0085
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/BP_AlchemyTable_New.BP_AlchemyTable_New_C:FinishCraftingFunciton
+#: [Script Bytecode]
 msgctxt ",41A87DFD4E6CD8AEB875B8ABD36E0085"
 msgid "These components aren't reactive, invalid result."
 msgstr "Провал: эти ингредиенты не вступают в ракцию."
@@ -1963,8 +2077,14 @@ msgstr "Чёрный"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_shopTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_shopTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",4366CC0E42D8BCB22878409AF7FDCCD0"
-msgid "At these tables you can place your products for sale. You can sell potions, plants and minerals.\r\n\r\nAt the moment, you only have a table but later you can buy more tables to expand your offer."
-msgstr "На прилавке вы можете выставлять свои товары на продажу. Вы можете продавать зелья, растения и полезные ископаемые.\r\n\r\nСейчас у вас есть только один прилавок, но позже вы сможете купить дополнительные столы и витрины."
+msgid ""
+"At these tables you can place your products for sale. You can sell potions, plants and minerals.\r\n"
+"\r\n"
+"At the moment, you only have a table but later you can buy more tables to expand your offer."
+msgstr ""
+"На прилавке вы можете выставлять свои товары на продажу. Вы можете продавать зелья, растения и полезные ископаемые.\r\n"
+"\r\n"
+"Сейчас у вас есть только один прилавок, но позже вы сможете купить дополнительные столы и витрины."
 
 #. Key:	445DFC3C47131ECF3AF8E1AB6128FA50
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_062.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2033,8 +2153,24 @@ msgstr "Пустое надгробие"
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/DT_RoleLetters.DT_RoleLetters.letter_2.LetterText_11_11F4D37E48D063D6B3FF5483EB97A84B
 #: /Game/Blueprints/Actors/Shop/DT_RoleLetters.DT_RoleLetters.letter_2.LetterText_11_11F4D37E48D063D6B3FF5483EB97A84B
 msgctxt ",4734BB4B4453418A3F276283175A9128"
-msgid "Dear Alchemist,\r\n\r\nRumors have reached us about the presence of dragons in the nearby area. This will undoubtedly attract many warriors in search of adventure and rewards in the coming days.\r\n\r\nIt is possible that they may rest in the town and pass by your store, so we advise you to have a stock of potions ready for them.\r\n\r\nSincerely,\r\nThe Alchemists Guild"
-msgstr "Дорогой алхиимик,\r\n\r\nНас посетили слухи о повлении дракона недалеко от Роузвуда. Это событие без сомнения привлечёт в город множество войнов, отоных до денег и славы.\r\n\r\nПотому рекомендуем заготовить заранее побольше зелий к их появлению на пороге твоей лавки.\r\n\r\nС наилучшими пожеланиями,\r\nГильдия алхимиков"
+msgid ""
+"Dear Alchemist,\r\n"
+"\r\n"
+"Rumors have reached us about the presence of dragons in the nearby area. This will undoubtedly attract many warriors in search of adventure and rewards in the coming days.\r\n"
+"\r\n"
+"It is possible that they may rest in the town and pass by your store, so we advise you to have a stock of potions ready for them.\r\n"
+"\r\n"
+"Sincerely,\r\n"
+"The Alchemists Guild"
+msgstr ""
+"Дорогой алхиимик,\r\n"
+"\r\n"
+"Нас посетили слухи о повлении дракона недалеко от Роузвуда. Это событие без сомнения привлечёт в город множество войнов, отоных до денег и славы.\r\n"
+"\r\n"
+"Потому рекомендуем заготовить заранее побольше зелий к их появлению на пороге твоей лавки.\r\n"
+"\r\n"
+"С наилучшими пожеланиями,\r\n"
+"Гильдия алхимиков"
 
 #. Key:	478349B14907D03DB03367BAA5B66045
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.François.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(0).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -2052,7 +2188,8 @@ msgstr "Декоративный паук, которого можно пове�
 
 #. Key:	47CEE62849FC39347AE2EE9C657F8CDE
 #. SourceLocation:	/Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script Bytecode]
-#: /Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script Bytecode]
+#: /Game/UI/Widget_VendorItem.Widget_VendorItem_C:UpdateSlotInfo [Script
+#: Bytecode]
 msgctxt ",47CEE62849FC39347AE2EE9C657F8CDE"
 msgid "{amount} left"
 msgstr "Осталось {amount}"
@@ -2122,7 +2259,8 @@ msgstr "Фиолетовые щупальца в бутылочке. На пол
 
 #. Key:	4B3A0FF74BC6F3B348FFB3A937E9D0A3
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo
+#: [Script Bytecode]
 msgctxt ",4B3A0FF74BC6F3B348FFB3A937E9D0A3"
 msgid "Ends on {dayName} {dayNumber}, {month}."
 msgstr "Заканчивается в {dayName} ({month}, {dayNumber})"
@@ -2234,7 +2372,8 @@ msgstr "Розовая фасоль"
 
 #. Key:	4EC5B5E747D13CD9DB24248CC77AC59B
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_ModularFloor.BP_ModularFloor_C:ExecuteUbergraph_BP_ModularFloor [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_ModularFloor.BP_ModularFloor_C:ExecuteUbergraph_BP_ModularFloor [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_ModularFloor.BP_ModularFloor_C:ExecuteUbergraph_BP_ModularFloor
+#: [Script Bytecode]
 msgctxt ",4EC5B5E747D13CD9DB24248CC77AC59B"
 msgid "Change Floor / Repair"
 msgstr "Переложить пол / отремонтировать"
@@ -2339,7 +2478,8 @@ msgstr "Непростой гриб трубчатой формы. Имеет с
 
 #. Key:	515CBAFF463338E89FD86E8E689DD4DB
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
-#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
+#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New [Script
+#: Bytecode]
 msgctxt ",515CBAFF463338E89FD86E8E689DD4DB"
 msgid "{amount} Gold"
 msgstr "Золото: {amount}"
@@ -2458,7 +2598,8 @@ msgstr "И с того дня мы больше не расставались!"
 
 #. Key:	5444AF7743B866AAC607A89B808FC60F
 #. SourceLocation:	/Game/UI/Widget_NewdayScreeen.Widget_NewdayScreeen_C:ShowNewDayMessage [Script Bytecode]
-#: /Game/UI/Widget_NewdayScreeen.Widget_NewdayScreeen_C:ShowNewDayMessage [Script Bytecode]
+#: /Game/UI/Widget_NewdayScreeen.Widget_NewdayScreeen_C:ShowNewDayMessage
+#: [Script Bytecode]
 msgctxt ",5444AF7743B866AAC607A89B808FC60F"
 msgid "Year {yearnNumber}"
 msgstr "{yearnNumber} год"
@@ -2472,7 +2613,8 @@ msgstr "Синяя лисичка"
 
 #. Key:	5496C5E84364638DE6EA42B37C4B7323
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(5 -
+#: Value).DisplayNameMap
 msgctxt ",5496C5E84364638DE6EA42B37C4B7323"
 msgid "Exotic Fair"
 msgstr "Экзотическая ярмарка"
@@ -2486,14 +2628,16 @@ msgstr "Семена мака"
 
 #. Key:	552210E34F418B5CE15D59932339D8C7
 #. SourceLocation:	/Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script Bytecode]
-#: /Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script Bytecode]
+#: /Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script
+#: Bytecode]
 msgctxt ",552210E34F418B5CE15D59932339D8C7"
 msgid "Is Not Watered"
 msgstr "Не полито"
 
 #. Key:	55881FF247EBA6B36E73CA84B73C900C
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:CompleteQuest [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:CompleteQuest [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:CompleteQuest
+#: [Script Bytecode]
 msgctxt ",55881FF247EBA6B36E73CA84B73C900C"
 msgid "Quest complete!"
 msgstr "Задание завершено!"
@@ -2563,7 +2707,8 @@ msgstr "Семена лилии. Чтобы растение выросло, п�
 
 #. Key:	5807DD3349C8E426B636F9A321B2CEAF
 #. SourceLocation:	/Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateWallInfo [Script Bytecode]
-#: /Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateWallInfo [Script Bytecode]
+#: /Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateWallInfo
+#: [Script Bytecode]
 msgctxt ",5807DD3349C8E426B636F9A321B2CEAF"
 msgid "Repair:"
 msgstr "Восстановить:"
@@ -2640,7 +2785,8 @@ msgstr "Костный клей"
 
 #. Key:	5BC850394C6C29505BA334AA7E46B6A8
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",5BC850394C6C29505BA334AA7E46B6A8"
 msgid "Hello, would you by any chance have one <s>{itemName}</> I'm desperate looking for one!"
 msgstr ""
@@ -2675,7 +2821,8 @@ msgstr "Медная кирка. Имеет среднюю прочность. �
 
 #. Key:	5D826FBC4C97132EBDF810BAC1770875
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureStandardText
+#: [Script Bytecode]
 msgctxt ",5D826FBC4C97132EBDF810BAC1770875"
 msgid "Hold <img id=\"{buttonCode}\"/> to pick up"
 msgstr "Зажмите <img id=\"{buttonCode}\"/>, чтобы поднять"
@@ -2703,7 +2850,8 @@ msgstr "Зелёный светильник Джека"
 
 #. Key:	5E174FC94C8DB149DE170AAC1CE73543
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",5E174FC94C8DB149DE170AAC1CE73543"
 msgid "Buy Clothes"
 msgstr "Купить одежду"
@@ -2724,7 +2872,8 @@ msgstr "Им нравятся угощения, и они наверняка п�
 
 #. Key:	5E5290EC4CC30F21F5D603B01F32BC23
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ExecuteUbergraph_Widget_Mailbox [Script Bytecode]
-#: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ExecuteUbergraph_Widget_Mailbox [Script Bytecode]
+#: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ExecuteUbergraph_Widget_Mailbox
+#: [Script Bytecode]
 msgctxt ",5E5290EC4CC30F21F5D603B01F32BC23"
 msgid "Remove Message"
 msgstr "Удалить сообщение"
@@ -2801,14 +2950,16 @@ msgstr "Ступенчатый фонтан с маленьким домиком
 
 #. Key:	613CE3714C0C1BD24E8EAF8CED011A28
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateWeeklyQuestInfo
+#: [Script Bytecode]
 msgctxt ",613CE3714C0C1BD24E8EAF8CED011A28"
 msgid "{retrieverName} needs you to bring him the following items before the deadline."
 msgstr "{retrieverName} нуждается в вашей помощи. Принесите"
 
 #. Key:	6180F1C948B9F64EDE7E37B52EE805B8
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_PlayerHouse.BP_PlayerHouse_C:ExecuteUbergraph_BP_PlayerHouse [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_PlayerHouse.BP_PlayerHouse_C:ExecuteUbergraph_BP_PlayerHouse [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_PlayerHouse.BP_PlayerHouse_C:ExecuteUbergraph_BP_PlayerHouse
+#: [Script Bytecode]
 msgctxt ",6180F1C948B9F64EDE7E37B52EE805B8"
 msgid "Your House"
 msgstr "Ваш дом"
@@ -2836,14 +2987,16 @@ msgstr "Ведьминская лавочка"
 
 #. Key:	628338D24C21755A80F427B5EA8233B0
 #. SourceLocation:	/Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
-#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
+#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01
+#: [Script Bytecode]
 msgctxt ",628338D24C21755A80F427B5EA8233B0"
 msgid "Close your shop before going to sleep."
 msgstr "Прежде чем пойти спать, закройте свой магазин."
 
 #. Key:	629099D74EA9DE4FA802FAB057663360
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",629099D74EA9DE4FA802FAB057663360"
 msgid "Hello Alchemist! I'm going on adventures, I'll be more prepared with one  <s>{itemName}</> I think."
 msgstr ""
@@ -2864,7 +3017,8 @@ msgstr "Магнолия"
 
 #. Key:	62C583704634EC18BF848C9FBA65BA82
 #. SourceLocation:	/Game/Blueprints/Actors/Events/BP_Firework.BP_Firework_C:ExecuteUbergraph_BP_Firework [Script Bytecode]
-#: /Game/Blueprints/Actors/Events/BP_Firework.BP_Firework_C:ExecuteUbergraph_BP_Firework [Script Bytecode]
+#: /Game/Blueprints/Actors/Events/BP_Firework.BP_Firework_C:ExecuteUbergraph_BP_Firework
+#: [Script Bytecode]
 msgctxt ",62C583704634EC18BF848C9FBA65BA82"
 msgid "Fireworks Launcher"
 msgstr "Пускатель фейерверков"
@@ -3032,7 +3186,8 @@ msgstr "Роузвуд — прекрасное место, не так ли?"
 
 #. Key:	687246954A84C29F482EDB856DF6157D
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
-#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
+#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu
+#: [Script Bytecode]
 msgctxt ",687246954A84C29F482EDB856DF6157D"
 msgid "Wait to unstuck again"
 msgstr "Подождите немного, чтобы исправить застревание"
@@ -3067,7 +3222,8 @@ msgstr "Базовый компонент для создания предмет
 
 #. Key:	6A04064644FC2D7317EFBD834A030A83
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(0
+#: - Value).DisplayNameMap
 msgctxt ",6A04064644FC2D7317EFBD834A030A83"
 msgid "Seed"
 msgstr "Семена"
@@ -3083,8 +3239,12 @@ msgstr "Клубника"
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
 #: /Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.Eventdescription_10_A3017DA74E070440C10F3A8CAC3D457E
 msgctxt ",6A6333954C0D565BC9C9B09B43B64798"
-msgid "The Spring Festival has arrived in Rosewood Ville.\r\nGo to town and collect all the hidden Easter Eggs to get an exclusive decorative item."
-msgstr "В Роузвуде начался весенний фестиваль!\r\nСоберите все пасхальные яйца, спрятанные в городе и его окрестностях, чтобы получить эксклюзивный декоративный предмет."
+msgid ""
+"The Spring Festival has arrived in Rosewood Ville.\r\n"
+"Go to town and collect all the hidden Easter Eggs to get an exclusive decorative item."
+msgstr ""
+"В Роузвуде начался весенний фестиваль!\r\n"
+"Соберите все пасхальные яйца, спрятанные в городе и его окрестностях, чтобы получить эксклюзивный декоративный предмет."
 
 #. Key:	6A7760354467D9D59F31D8949739BFC4
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_149.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3123,7 +3283,8 @@ msgstr "Укажите количество"
 
 #. Key:	6AF2BBCD4C35CC55682816AA0722CC75
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",6AF2BBCD4C35CC55682816AA0722CC75"
 msgid "Tool"
 msgstr "инструмент"
@@ -3137,7 +3298,8 @@ msgstr "Ведьминский цветочный горшок"
 
 #. Key:	6B4952F44A2FE48529F9F58479B0D42F
 #. SourceLocation:	/Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",6B4952F44A2FE48529F9F58479B0D42F"
 msgid "Stylist"
 msgstr ""
@@ -3221,7 +3383,8 @@ msgstr "Серый"
 
 #. Key:	6F76AD224D40A8EFAF07BD8F51874B3C
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message
+#: Rewards [Script Bytecode]
 msgctxt ",6F76AD224D40A8EFAF07BD8F51874B3C"
 msgid "I have found some objects for you."
 msgstr "У меня есть кое-что для вас."
@@ -3270,14 +3433,16 @@ msgstr "В этот день нет событий."
 
 #. Key:	712249FB4A83E38983597CAA0D3126DF
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",712249FB4A83E38983597CAA0D3126DF"
 msgid "Do you want to buy the Swamp House for {amount} gold?"
 msgstr "Хотите приобрести дом на болоте за {amount} золотых?"
 
 #. Key:	713E0E424D50DCDE5E3CF48329630840
 #. SourceLocation:	/Game/Blueprints/Actors/Events/WinterEvent/BP_WinterCandle.BP_WinterCandle_C:ExecuteUbergraph_BP_WinterCandle [Script Bytecode]
-#: /Game/Blueprints/Actors/Events/WinterEvent/BP_WinterCandle.BP_WinterCandle_C:ExecuteUbergraph_BP_WinterCandle [Script Bytecode]
+#: /Game/Blueprints/Actors/Events/WinterEvent/BP_WinterCandle.BP_WinterCandle_C:ExecuteUbergraph_BP_WinterCandle
+#: [Script Bytecode]
 msgctxt ",713E0E424D50DCDE5E3CF48329630840"
 msgid "Flying Lantern"
 msgstr "Летающий фонарь"
@@ -3291,7 +3456,8 @@ msgstr "Растение со странным названием. Его мож
 
 #. Key:	717904624221BF2F8E7214910845AF27
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",717904624221BF2F8E7214910845AF27"
 msgid "Magic Grocery"
 msgstr "Магический рынок"
@@ -3333,7 +3499,8 @@ msgstr "Маленький пруд с грибочками и радужным 
 
 #. Key:	722FBD344FFC219F047FF8A9A307947D
 #. SourceLocation:	/Game/UI/Widget_InventorySlot.Widget_InventorySlot_C:OnDrop [Script Bytecode]
-#: /Game/UI/Widget_InventorySlot.Widget_InventorySlot_C:OnDrop [Script Bytecode]
+#: /Game/UI/Widget_InventorySlot.Widget_InventorySlot_C:OnDrop [Script
+#: Bytecode]
 msgctxt ",722FBD344FFC219F047FF8A9A307947D"
 msgid "Use"
 msgstr "Использовать"
@@ -3361,7 +3528,8 @@ msgstr "Думаю, я надолго останусь здесь жить!"
 
 #. Key:	749C37F8437EC82089014AA1E5322D6E
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeComponent.Widget_PotionRecipeComponent_C:UpdateSlot [Script Bytecode]
-#: /Game/UI/Journal/Widget_PotionRecipeComponent.Widget_PotionRecipeComponent_C:UpdateSlot [Script Bytecode]
+#: /Game/UI/Journal/Widget_PotionRecipeComponent.Widget_PotionRecipeComponent_C:UpdateSlot
+#: [Script Bytecode]
 msgctxt ",749C37F8437EC82089014AA1E5322D6E"
 msgid "Not Discovered"
 msgstr "Ещё не изучено"
@@ -3431,7 +3599,8 @@ msgstr "Старинная чернильница, которая будет п�
 
 #. Key:	7679A73249B51D0B2C6DC0B4E2137DFA
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(2 -
+#: Value).DisplayNameMap
 msgctxt ",7679A73249B51D0B2C6DC0B4E2137DFA"
 msgid "Exotic"
 msgstr "Экзотич."
@@ -3445,7 +3614,8 @@ msgstr "Семена козьего хмеля. Чтобы растение вы
 
 #. Key:	76DA004749F72428A4CE7D82B3EF2788
 #. SourceLocation:	/Game/UI/Widget_LoadGame.Widget_LoadGame_C:GetDayAndGoldInfo [Script Bytecode]
-#: /Game/UI/Widget_LoadGame.Widget_LoadGame_C:GetDayAndGoldInfo [Script Bytecode]
+#: /Game/UI/Widget_LoadGame.Widget_LoadGame_C:GetDayAndGoldInfo [Script
+#: Bytecode]
 msgctxt ",76DA004749F72428A4CE7D82B3EF2788"
 msgid "Year {yearint}"
 msgstr "{yearint} год"
@@ -3480,7 +3650,8 @@ msgstr "Дождливое утро"
 
 #. Key:	779EBD024378B008D18E8FA4BDD7A759
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",779EBD024378B008D18E8FA4BDD7A759"
 msgid "Hello, do you sell <s>{itemName}</>? I need one."
 msgstr ""
@@ -3515,7 +3686,8 @@ msgstr "Остальным детям больше нравилось делат
 
 #. Key:	78569458453E25BD2E6E15B77166086B
 #. SourceLocation:	/Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
-#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
+#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01
+#: [Script Bytecode]
 msgctxt ",78569458453E25BD2E6E15B77166086B"
 msgid "Finsh Day"
 msgstr "Рыбный день"
@@ -3550,7 +3722,8 @@ msgstr "Кремовый"
 
 #. Key:	7A1B124348B2EF4D009B18922F52D0B6
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(5 -
+#: Value).DisplayNameMap
 msgctxt ",7A1B124348B2EF4D009B18922F52D0B6"
 msgid "Aromatic"
 msgstr "Аромат"
@@ -3613,7 +3786,8 @@ msgstr "Передайте Веретёнке Златошвейке следу�
 
 #. Key:	7DCA4B1441096E8303D729B3FB7B6C00
 #. SourceLocation:	/Game/Blueprints/Actors/BP_ToolBelt.BP_ToolBelt_C:ReduceItemDurability [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_ToolBelt.BP_ToolBelt_C:ReduceItemDurability [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_ToolBelt.BP_ToolBelt_C:ReduceItemDurability
+#: [Script Bytecode]
 msgctxt ",7DCA4B1441096E8303D729B3FB7B6C00"
 msgid "Use"
 msgstr "Использовать"
@@ -3669,7 +3843,8 @@ msgstr "Цветки этого растения обычно имеют роз�
 
 #. Key:	81286D4A4B3C788402DB36A81439969A
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
-#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New Quest [Script Bytecode]
+#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:Update Quest Card New [Script
+#: Bytecode]
 msgctxt ",81286D4A4B3C788402DB36A81439969A"
 msgid "Ends on {dayName} {dayNumber}, {month}."
 msgstr "Крайний срок: {dayName} ({month}, день {dayNumber})."
@@ -3704,7 +3879,8 @@ msgstr "В честь начала лета мы запускаем фейерв
 
 #. Key:	81CB24944228CB072F8BC793A6E3F061
 #. SourceLocation:	/Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Characters/NPC/MasterNPC/NPCActionsEnum.NPCActionsEnum.DisplayNameMap(1
+#: - Value).DisplayNameMap
 msgctxt ",81CB24944228CB072F8BC793A6E3F061"
 msgid "Cloth Vendor"
 msgstr ""
@@ -3753,7 +3929,8 @@ msgstr "Большой декоративный пруд для вашего с�
 
 #. Key:	834604C44B1CC48EC5EA68A102846021
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",834604C44B1CC48EC5EA68A102846021"
 msgid "Hey! Would you have any <s>{itemName}</> lying around?"
 msgstr ""
@@ -3802,14 +3979,16 @@ msgstr "Красный с камнем"
 
 #. Key:	8409952544112F7B675D988562977384
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",8409952544112F7B675D988562977384"
 msgid "Alchemist Apothecary"
 msgstr "Алхимик-аптекарь"
 
 #. Key:	844394C34E4FBF3355F26981BECD8345
 #. SourceLocation:	/Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
-#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01 [Script Bytecode]
+#: /Game/Blueprints/Actors/Furniture/Beds/Bed01/BP_Furniture_Bed01.BP_Furniture_Bed01_C:ExecuteUbergraph_BP_Furniture_Bed01
+#: [Script Bytecode]
 msgctxt ",844394C34E4FBF3355F26981BECD8345"
 msgid "Do you want save your progress and end the day?"
 msgstr "Сохранить игру и завершить день?"
@@ -3830,10 +4009,15 @@ msgstr "Стол с природными узорами, на который в�
 
 #. Key:	8518942547B695AE9C3ADE871F02236E
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText
+#: [Script Bytecode]
 msgctxt ",8518942547B695AE9C3ADE871F02236E"
-msgid "Press <img id=\"{buttonCode}\"/> to interact\r\nHold <img id=\"{buttonCode}\"/> to pick up"
-msgstr "Нажмите <img id=\"{buttonCode}\"/>, чтобы взаимодействовать\r\nЗажмите <img id=\"{buttonCode}\"/>, чтобы поднять"
+msgid ""
+"Press <img id=\"{buttonCode}\"/> to interact\r\n"
+"Hold <img id=\"{buttonCode}\"/> to pick up"
+msgstr ""
+"Нажмите <img id=\"{buttonCode}\"/>, чтобы взаимодействовать\r\n"
+"Зажмите <img id=\"{buttonCode}\"/>, чтобы поднять"
 
 #. Key:	851B693F438C7181BDE38CA66C130696
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_079.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3860,8 +4044,22 @@ msgstr "Штакетник"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_openShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_openShop.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",855B670F4733F6664EDB359E2DF31521"
-msgid "Touch the bell to open your shop, from that moment on all kinds of customers will enter your establishment.\r\n\r\nSome of them will find what they are looking for in the counters, however, others will make special requests.\r\n\r\nYou can close and open your shop at any time, but keep in mind that you will not be able to leave home while you have the shop open.\r\n\r\nGood luck!"
-msgstr "Позвоните в колокольчик, чтобы открыть ваш магазин для посетителей.\r\n\r\nКто-то найдёт что-то интересное для себя на ваших прилавках, а кто-то и захочет заказать у вас нечто особенное.\r\n\r\nМагазин можно открывать и закрывать в любое время, но учтите, что пока магазин открыт, вы не можете покидать дом или спать.\r\n\r\nУдачи!"
+msgid ""
+"Touch the bell to open your shop, from that moment on all kinds of customers will enter your establishment.\r\n"
+"\r\n"
+"Some of them will find what they are looking for in the counters, however, others will make special requests.\r\n"
+"\r\n"
+"You can close and open your shop at any time, but keep in mind that you will not be able to leave home while you have the shop open.\r\n"
+"\r\n"
+"Good luck!"
+msgstr ""
+"Позвоните в колокольчик, чтобы открыть ваш магазин для посетителей.\r\n"
+"\r\n"
+"Кто-то найдёт что-то интересное для себя на ваших прилавках, а кто-то и захочет заказать у вас нечто особенное.\r\n"
+"\r\n"
+"Магазин можно открывать и закрывать в любое время, но учтите, что пока магазин открыт, вы не можете покидать дом или спать.\r\n"
+"\r\n"
+"Удачи!"
 
 #. Key:	85EC0D774B55373D6CB8A591CABC6601
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_312.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -3942,7 +4140,8 @@ msgstr "Кости"
 
 #. Key:	8890191C4845D48D469C669083D962BC
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",8890191C4845D48D469C669083D962BC"
 msgid "Finally Rosewood Ville has an Alchemist! I need one <s>{itemName}</>, please."
 msgstr ""
@@ -4019,7 +4218,8 @@ msgstr "Персиковый"
 
 #. Key:	8BBFD11841E2E09FE874D19A64D580B6
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",8BBFD11841E2E09FE874D19A64D580B6"
 msgid "Congratulations, you are now the owner of The Swamp House!"
 msgstr "Поздравляем, вы приобрели дом на болоте!"
@@ -4103,7 +4303,8 @@ msgstr "Занятное растение, не имеющее листьев. �
 
 #. Key:	8E2315D2483BFB6F896E38AC8B5A2983
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowInteractableActorText
+#: [Script Bytecode]
 msgctxt ",8E2315D2483BFB6F896E38AC8B5A2983"
 msgid "Press \"{Interact Button}\" key to interact"
 msgstr "Нажмите \"{Interact Button}\", чтобы взаимодействовать"
@@ -4145,7 +4346,8 @@ msgstr ""
 
 #. Key:	8FAD1731454A1D9B3120FCBA979ADF3D
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk
+#: [Script Bytecode]
 msgctxt ",8FAD1731454A1D9B3120FCBA979ADF3D"
 msgid "This piece of land has a cost of {price} gold, do you want to buy it?"
 msgstr "Этот участок земли стоит {price} золотых монет. Вы хотите его купить?"
@@ -4194,7 +4396,8 @@ msgstr "Полка в форме дерева, на самом верху сто
 
 #. Key:	90F990AD46C3494DD880939006486799
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message
+#: Rewards [Script Bytecode]
 msgctxt ",90F990AD46C3494DD880939006486799"
 msgid "I hope this is useful to you."
 msgstr "Надеюсь, вам это пригодится."
@@ -4215,14 +4418,16 @@ msgstr "Сейчас популярно:"
 
 #. Key:	916A1B3946EE9151FBCECDADE958B50F
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",916A1B3946EE9151FBCECDADE958B50F"
 msgid "How are you? Do you have any <s>{itemName}</> left?"
 msgstr ""
 
 #. Key:	91AE888A435EF01FC32D549CEDBE7C08
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 -
+#: Value).DisplayNameMap
 msgctxt ",91AE888A435EF01FC32D549CEDBE7C08"
 msgid "Autumn Fair"
 msgstr "Осенняя ярмарка"
@@ -4259,12 +4464,23 @@ msgstr "Вся моя семья занималась парикмахерски
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_mine.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_mine.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",92776E66459A0FDDEDAD2AAF66193898"
-msgid "Here you can find some minerals every day.\r\n\r\nWith minerals, you can't make potions, but you can sell them to earn some money, or use them to make objects.\r\n\r\nUse the Pickaxe to extract them!"
-msgstr "Здесь вы каждый день можете найти какие-нибудь новые минералы.\r\n\r\nМинералы можно использовать при изготовлении зелий и некоторых предметов, или просто продать.\r\n\r\nДля добычи минералов используйте кирку."
+msgid ""
+"Here you can find some minerals every day.\r\n"
+"\r\n"
+"With minerals, you can't make potions, but you can sell them to earn some money, or use them to make objects.\r\n"
+"\r\n"
+"Use the Pickaxe to extract them!"
+msgstr ""
+"Здесь вы каждый день можете найти какие-нибудь новые минералы.\r\n"
+"\r\n"
+"Минералы можно использовать при изготовлении зелий и некоторых предметов, или просто продать.\r\n"
+"\r\n"
+"Для добычи минералов используйте кирку."
 
 #. Key:	9287967E4689937F264DD1A2584EB78E
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(6 -
+#: Value).DisplayNameMap
 msgctxt ",9287967E4689937F264DD1A2584EB78E"
 msgid "Spring Fair"
 msgstr "Весенняя ярмарка"
@@ -4278,7 +4494,8 @@ msgstr "Ср"
 
 #. Key:	92B567D34CD7916E5CE95B9F4402605F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(2 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(2
+#: - Value).DisplayNameMap
 msgctxt ",92B567D34CD7916E5CE95B9F4402605F"
 msgid "Decorative"
 msgstr "декор"
@@ -4383,7 +4600,8 @@ msgstr "Железная лейка. Используется для полив�
 
 #. Key:	95A6983F4A7BB31017428FB8634ADECC
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/BP_CustomerNPC.BP_CustomerNPC_C:ExecuteUbergraph_BP_CustomerNPC [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/BP_CustomerNPC.BP_CustomerNPC_C:ExecuteUbergraph_BP_CustomerNPC [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/BP_CustomerNPC.BP_CustomerNPC_C:ExecuteUbergraph_BP_CustomerNPC
+#: [Script Bytecode]
 msgctxt ",95A6983F4A7BB31017428FB8634ADECC"
 msgid "Customer"
 msgstr ""
@@ -4404,7 +4622,8 @@ msgstr "Пасхальная карета"
 
 #. Key:	963DEBFB48CE3B3DA09C98BC565270A6
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",963DEBFB48CE3B3DA09C98BC565270A6"
 msgid "Quirky Shop"
 msgstr "Причудливая лавка"
@@ -4418,14 +4637,16 @@ msgstr "Игра"
 
 #. Key:	969416D74488CA5AC7707CA9AA2EA9E4
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_ModularWall.BP_ModularWall_C:ExecuteUbergraph_BP_ModularWall [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_ModularWall.BP_ModularWall_C:ExecuteUbergraph_BP_ModularWall [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_ModularWall.BP_ModularWall_C:ExecuteUbergraph_BP_ModularWall
+#: [Script Bytecode]
 msgctxt ",969416D74488CA5AC7707CA9AA2EA9E4"
 msgid "Change Wall / Repair"
 msgstr "Перестроить стены / отремонтировать"
 
 #. Key:	96CA03B040FA11FFD3EFDBB67900C6A1
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",96CA03B040FA11FFD3EFDBB67900C6A1"
 msgid "I want to change my appearance"
 msgstr "Я хочу изменить свой внешний вид"
@@ -4530,7 +4751,8 @@ msgstr "Продать предмет"
 
 #. Key:	9B3B73DD490C5CF6EE015BB9E0D40DB6
 #. SourceLocation:	/Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu [Script Bytecode]
-#: /Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu [Script Bytecode]
+#: /Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu
+#: [Script Bytecode]
 msgctxt ",9B3B73DD490C5CF6EE015BB9E0D40DB6"
 msgid "Apply"
 msgstr "Применить"
@@ -4595,8 +4817,13 @@ msgstr "Прилавок из тёмного дерева со странным�
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_alchemyTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_alchemyTable.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",9C90042543EF80FF150CD384E15F0B4D"
-msgid "Use the alchemy table to create your own potions.\r\n\r\nTo do this you will need 3 types of plants, experiment with combinations to discover new recipes to offer your customers!"
-msgstr "Используйте алхимический стол, чтобы создавать свои собственные зелья.\r\n\r\n"
+msgid ""
+"Use the alchemy table to create your own potions.\r\n"
+"\r\n"
+"To do this you will need 3 types of plants, experiment with combinations to discover new recipes to offer your customers!"
+msgstr ""
+"Используйте алхимический стол, чтобы создавать свои собственные зелья.\r\n"
+"\r"
 
 #. Key:	9CE42D624973D19CC1C9CF9C86B99CDB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_319.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4614,7 +4841,8 @@ msgstr "Сезон:"
 
 #. Key:	9D04D9B64859069B1568D4937D662C62
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
-#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
+#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter
+#: [Script Bytecode]
 msgctxt ",9D04D9B64859069B1568D4937D662C62"
 msgid "Shop Book"
 msgstr "Магазинная книга"
@@ -4698,10 +4926,15 @@ msgstr "Каменная кирка"
 
 #. Key:	9F53F53A4E4B2AD28B5E31BDBEB8FB7C
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterWorldPlant.BP_MasterWorldPlant_C:ExecuteUbergraph_BP_MasterWorldPlant
+#: [Script Bytecode]
 msgctxt ",9F53F53A4E4B2AD28B5E31BDBEB8FB7C"
-msgid "{PlantName}\r\nHold key to harvest"
-msgstr "{PlantName}\r\nЗажмите кнопку, чтобы сорвать"
+msgid ""
+"{PlantName}\r\n"
+"Hold key to harvest"
+msgstr ""
+"{PlantName}\r\n"
+"Зажмите кнопку, чтобы сорвать"
 
 #. Key:	9F6A13EB448D76355B08989D322CB7A9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.HalloweenEvent.FirstDialog_30_243B85D042D5FA5C14C391832F631188(0).FirstDialog_30_243B85D042D5FA5C14C391832F631188
@@ -4733,7 +4966,8 @@ msgstr "Ассортимент семян обновляется каждую н
 
 #. Key:	A013C8F848619869B074859A7A44D459
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",A013C8F848619869B074859A7A44D459"
 msgid "Thursday"
 msgstr "Четверг"
@@ -4768,7 +5002,8 @@ msgstr "Бордовый ковёр"
 
 #. Key:	A0E96E9148C3243D10ACCCA36277B0E8
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",A0E96E9148C3243D10ACCCA36277B0E8"
 msgid "Greetings! I would need one <s>{itemName}</>, please."
 msgstr ""
@@ -4817,7 +5052,8 @@ msgstr "Маленький экзотический кустик с красив
 
 #. Key:	A32ABC804652E5D14976CDBDFE71A183
 #. SourceLocation:	/Game/UI/Widget_QuestCard.Widget_QuestCard_C:ExecuteUbergraph_Widget_QuestCard [Script Bytecode]
-#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:ExecuteUbergraph_Widget_QuestCard [Script Bytecode]
+#: /Game/UI/Widget_QuestCard.Widget_QuestCard_C:ExecuteUbergraph_Widget_QuestCard
+#: [Script Bytecode]
 msgctxt ",A32ABC804652E5D14976CDBDFE71A183"
 msgid "Assignment Accepted"
 msgstr "Задание принято"
@@ -4894,7 +5130,8 @@ msgstr "Ваш почтовый ящик пуст"
 
 #. Key:	A63D750B42287B0BB9FB3DB013DFFB3F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(7 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(7
+#: - Value).DisplayNameMap
 msgctxt ",A63D750B42287B0BB9FB3DB013DFFB3F"
 msgid "Tree Seed"
 msgstr "семена деревьев"
@@ -4922,21 +5159,24 @@ msgstr "Медный подвесной горшок. В него можно п�
 
 #. Key:	A78B627C432C83593E10018256196BC6
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",A78B627C432C83593E10018256196BC6"
 msgid "What a cozy little shop! I'll take one <s>{itemName}</>, please."
 msgstr ""
 
 #. Key:	A7A3E4254AB50F44895FCCA38B79573C
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo
+#: [Script Bytecode]
 msgctxt ",A7A3E4254AB50F44895FCCA38B79573C"
 msgid "Potion used by {roleName}"
 msgstr "Зелье, которым пользуется {roleName}"
 
 #. Key:	A7D28B3143D5A93017D1EA8B1CFD7CC4
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",A7D28B3143D5A93017D1EA8B1CFD7CC4"
 msgid "Maybe later"
 msgstr "Может быть позже"
@@ -4950,14 +5190,16 @@ msgstr "Я рад, что ты принял мой заказ. Принеси м
 
 #. Key:	A85AC7214CE39DF333D30D9400D2F964
 #. SourceLocation:	/Game/UI/Widget_ObtainedItemNotification.Widget_ObtainedItemNotification_C:ExecuteUbergraph_Widget_ObtainedItemNotification [Script Bytecode]
-#: /Game/UI/Widget_ObtainedItemNotification.Widget_ObtainedItemNotification_C:ExecuteUbergraph_Widget_ObtainedItemNotification [Script Bytecode]
+#: /Game/UI/Widget_ObtainedItemNotification.Widget_ObtainedItemNotification_C:ExecuteUbergraph_Widget_ObtainedItemNotification
+#: [Script Bytecode]
 msgctxt ",A85AC7214CE39DF333D30D9400D2F964"
 msgid "Gold"
 msgstr "Золото"
 
 #. Key:	A8EDC3A447924D093B9A619634790719
 #. SourceLocation:	/Game/UI/Widget_Vendor.Widget_Vendor_C:PopulateItemsFunction [Script Bytecode]
-#: /Game/UI/Widget_Vendor.Widget_Vendor_C:PopulateItemsFunction [Script Bytecode]
+#: /Game/UI/Widget_Vendor.Widget_Vendor_C:PopulateItemsFunction [Script
+#: Bytecode]
 msgctxt ",A8EDC3A447924D093B9A619634790719"
 msgid "Weekly Seeds"
 msgstr "Семена недели"
@@ -4978,7 +5220,8 @@ msgstr "Слабительное"
 
 #. Key:	A9BDAB4A474C70AB278729B7C48E0430
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",A9BDAB4A474C70AB278729B7C48E0430"
 msgid "Hello! Could you please, brew one <s>{itemName}</> for me?"
 msgstr ""
@@ -4999,7 +5242,8 @@ msgstr "Семена кориандра"
 
 #. Key:	AA5596054F8E686834554CA68385A72C
 #. SourceLocation:	/Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor
+#: [Script Bytecode]
 msgctxt ",AA5596054F8E686834554CA68385A72C"
 msgid "You need to close your shop for exit"
 msgstr "Чтобы выйти, нужно сначала закрыть магазин"
@@ -5062,14 +5306,16 @@ msgstr "Милая садовая лавочка, сделанная из брё
 
 #. Key:	ACBC7C78448BAC12968F1CBE1728E660
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",ACBC7C78448BAC12968F1CBE1728E660"
 msgid "Talk"
 msgstr "Поговорить"
 
 #. Key:	ACC980C744F49BE364500083E2E6A877
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",ACC980C744F49BE364500083E2E6A877"
 msgid "Hi! Do you have one <s>{itemName}</>?"
 msgstr ""
@@ -5104,7 +5350,8 @@ msgstr "ОТКРЫТЬ МАГАЗИН"
 
 #. Key:	AD88408542EADEE2BF1839BE728F2868
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",AD88408542EADEE2BF1839BE728F2868"
 msgid "Sunday"
 msgstr "Воскресенье"
@@ -5139,7 +5386,8 @@ msgstr "Баночка с глазами, плавающими в жёлтой �
 
 #. Key:	AF4B51C244DE1FD3C76FFFAC46F48EB2
 #. SourceLocation:	/Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateFloorInfo [Script Bytecode]
-#: /Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateFloorInfo [Script Bytecode]
+#: /Game/UI/Widget_FloorandWallSelector.Widget_FloorandWallSelector_C:UpdateFloorInfo
+#: [Script Bytecode]
 msgctxt ",AF4B51C244DE1FD3C76FFFAC46F48EB2"
 msgid "Repair:"
 msgstr "Восстановить:"
@@ -5174,7 +5422,8 @@ msgstr "Экзотическое растение, похожее на рома�
 
 #. Key:	AFBEF34E4C41FD151BFCFAA3F1FFE590
 #. SourceLocation:	/Game/UI/Widget_ShopReputation.Widget_ShopReputation_C:ExecuteUbergraph_Widget_ShopReputation [Script Bytecode]
-#: /Game/UI/Widget_ShopReputation.Widget_ShopReputation_C:ExecuteUbergraph_Widget_ShopReputation [Script Bytecode]
+#: /Game/UI/Widget_ShopReputation.Widget_ShopReputation_C:ExecuteUbergraph_Widget_ShopReputation
+#: [Script Bytecode]
 msgctxt ",AFBEF34E4C41FD151BFCFAA3F1FFE590"
 msgid "Reputation Level: {repLevel}"
 msgstr "Репутация: {repLevel}"
@@ -5195,7 +5444,8 @@ msgstr "Моя бабушка рассказывала мне интересны
 
 #. Key:	B013FE61446963D4B9F575B89013BFA9
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(3 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(3 -
+#: Value).DisplayNameMap
 msgctxt ",B013FE61446963D4B9F575B89013BFA9"
 msgid "Halloween"
 msgstr "Хэллоуин"
@@ -5230,7 +5480,8 @@ msgstr "Зелье, способное успокоить даже самого 
 
 #. Key:	B120286C4AFD89E346EFC39198180262
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",B120286C4AFD89E346EFC39198180262"
 msgid "Hi, I'll take one <s>{itemName}</>, please."
 msgstr ""
@@ -5251,14 +5502,16 @@ msgstr "Принять"
 
 #. Key:	B16100AF4B3843A450D3C88A9C892DC7
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog
+#: [Script Bytecode]
 msgctxt ",B16100AF4B3843A450D3C88A9C892DC7"
 msgid "Dismiss"
 msgstr ""
 
 #. Key:	B19E5E794C65C8162ECAB994491DC3B8
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo
+#: [Script Bytecode]
 msgctxt ",B19E5E794C65C8162ECAB994491DC3B8"
 msgid "Warrior"
 msgstr "Воин"
@@ -5272,7 +5525,8 @@ msgstr "Магазины нашего городка"
 
 #. Key:	B1D8BB6D4B75F2B19573E79325E20F7F
 #. SourceLocation:	/Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(4
+#: - Value).DisplayNameMap
 msgctxt ",B1D8BB6D4B75F2B19573E79325E20F7F"
 msgid "Utility"
 msgstr "Хозяйство"
@@ -5491,8 +5745,22 @@ msgstr "Перечная мята"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_board.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_board.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",B98511934F5742BAD6F5CFA666B16496"
-msgid "From the signboard you can accept orders from the Rosewood Ville villagers.\r\n\r\nYou will have a few days to be able to deliver the order, and if you deliver it in time you will be rewarded.\r\n\r\nMaking orders is another valid way of earning money apart from selling the products in the store.\r\n\r\nThe orders appear occasionally and may vary over time. Do not forget to go from time to time to check if there are new orders!"
-msgstr "На доске объявлений жители Роузвуда размещают свои заказы на те или иные предметы.\r\n\r\nВы можете принять такой заказ, и если вы выполните его вовремя, доставив нужные предметы заказчику, то получите вознаграждение.\r\n\r\nВыполнение заказов - неплохой источник дохода.\r\n\r\nВремя от времени на доске появляются новые объявления, так что не забывайте иногда поглядывать на доску!"
+msgid ""
+"From the signboard you can accept orders from the Rosewood Ville villagers.\r\n"
+"\r\n"
+"You will have a few days to be able to deliver the order, and if you deliver it in time you will be rewarded.\r\n"
+"\r\n"
+"Making orders is another valid way of earning money apart from selling the products in the store.\r\n"
+"\r\n"
+"The orders appear occasionally and may vary over time. Do not forget to go from time to time to check if there are new orders!"
+msgstr ""
+"На доске объявлений жители Роузвуда размещают свои заказы на те или иные предметы.\r\n"
+"\r\n"
+"Вы можете принять такой заказ, и если вы выполните его вовремя, доставив нужные предметы заказчику, то получите вознаграждение.\r\n"
+"\r\n"
+"Выполнение заказов - неплохой источник дохода.\r\n"
+"\r\n"
+"Время от времени на доске появляются новые объявления, так что не забывайте иногда поглядывать на доску!"
 
 #. Key:	B98C045646EC6281C9AC3FBFB1BD2FC8
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_230.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5510,7 +5778,8 @@ msgstr "Раффлезия"
 
 #. Key:	BA34670C4D62B33E6A34069A37316EC6
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",BA34670C4D62B33E6A34069A37316EC6"
 msgid "Hi! I hope you have some <s>{itemName}</> left, it was just what I needed!"
 msgstr ""
@@ -5538,10 +5807,15 @@ msgstr "Откройте свой магазин!"
 
 #. Key:	BAECF0684C5C9F9B1D1B5383B9417B53
 #. SourceLocation:	/Game/Blueprints/Actors/BP_MasterMineral.BP_MasterMineral_C:ExecuteUbergraph_BP_MasterMineral [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_MasterMineral.BP_MasterMineral_C:ExecuteUbergraph_BP_MasterMineral [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_MasterMineral.BP_MasterMineral_C:ExecuteUbergraph_BP_MasterMineral
+#: [Script Bytecode]
 msgctxt ",BAECF0684C5C9F9B1D1B5383B9417B53"
-msgid "{MineralName}\r\nUse a pickaxe to extract the mineral"
-msgstr "{MineralName}\r\nИспользуйте кирку, чтобы добыть."
+msgid ""
+"{MineralName}\r\n"
+"Use a pickaxe to extract the mineral"
+msgstr ""
+"{MineralName}\r\n"
+"Используйте кирку, чтобы добыть."
 
 #. Key:	BB080E2D40C5D6F605E0D88D1F310667
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_327.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5559,7 +5833,8 @@ msgstr "Пурпурный с камнем"
 
 #. Key:	BB41483A4F8C5A173E7880B540538D5A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_OrderSignMK2.BP_OrderSignMK2_C:ExecuteUbergraph_BP_OrderSignMK2 [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_OrderSignMK2.BP_OrderSignMK2_C:ExecuteUbergraph_BP_OrderSignMK2 [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_OrderSignMK2.BP_OrderSignMK2_C:ExecuteUbergraph_BP_OrderSignMK2
+#: [Script Bytecode]
 msgctxt ",BB41483A4F8C5A173E7880B540538D5A"
 msgid "Today there are no orders available, come back tomorrow. "
 msgstr "Сегодня заказов нет, приходите завтра."
@@ -5580,7 +5855,8 @@ msgstr "Начать игру"
 
 #. Key:	BBD0E3D74DE022D8C3D02A816977AD6A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",BBD0E3D74DE022D8C3D02A816977AD6A"
 msgid "Monday"
 msgstr "Понедельник"
@@ -5629,7 +5905,8 @@ msgstr "Белая садовая ограда"
 
 #. Key:	BD8F1F2F4BFDA2C4F6CBE7AD03E99FEC
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ExecuteUbergraph_Widget_Mailbox [Script Bytecode]
-#: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ExecuteUbergraph_Widget_Mailbox [Script Bytecode]
+#: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ExecuteUbergraph_Widget_Mailbox
+#: [Script Bytecode]
 msgctxt ",BD8F1F2F4BFDA2C4F6CBE7AD03E99FEC"
 msgid "Do you want to remove the message?"
 msgstr "Удалить данное сообщение?"
@@ -5664,7 +5941,8 @@ msgstr "Красная хрустальная лампа"
 
 #. Key:	BF0BEAE54265A3E2E196738E30882663
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo
+#: [Script Bytecode]
 msgctxt ",BF0BEAE54265A3E2E196738E30882663"
 msgid "Explorer"
 msgstr "Исследователь"
@@ -5692,7 +5970,8 @@ msgstr "Стул, украшенный листьями и цветами."
 
 #. Key:	BF694AC0433572548E8C0ABCA3E27184
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message Rewards [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:Generate Message
+#: Rewards [Script Bytecode]
 msgctxt ",BF694AC0433572548E8C0ABCA3E27184"
 msgid "Thank-you letter."
 msgstr "Благодарственное письмо"
@@ -5741,7 +6020,8 @@ msgstr "Базовый компонент для создания предмет
 
 #. Key:	C18AF9654A1C63FC262ED38F4CBD8C7B
 #. SourceLocation:	/Game/Blueprints/Actors/Events/WinterEvent/BP_WinterGift.BP_WinterGift_C:ExecuteUbergraph_BP_WinterGift [Script Bytecode]
-#: /Game/Blueprints/Actors/Events/WinterEvent/BP_WinterGift.BP_WinterGift_C:ExecuteUbergraph_BP_WinterGift [Script Bytecode]
+#: /Game/Blueprints/Actors/Events/WinterEvent/BP_WinterGift.BP_WinterGift_C:ExecuteUbergraph_BP_WinterGift
+#: [Script Bytecode]
 msgctxt ",C18AF9654A1C63FC262ED38F4CBD8C7B"
 msgid "Winter Gift"
 msgstr "Подарок зимы"
@@ -5762,7 +6042,8 @@ msgstr "Горьковатое зелье, повышающее скорость
 
 #. Key:	C1FD2CA3443DFF35AD183A8A5777EA88
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/Widget_ReputationWindow.Widget_ReputationWindow_C:ExecuteUbergraph_Widget_ReputationWindow
+#: [Script Bytecode]
 msgctxt ",C1FD2CA3443DFF35AD183A8A5777EA88"
 msgid "Potion Workshop"
 msgstr "Зельеварочный стол"
@@ -5876,19 +6157,31 @@ msgstr "Маленький цветок, который, как правило, 
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_garden.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_garden.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",C5339E35401FEB9234F62893A3CF0B13"
-msgid "Welcome to your own garden!\r\n\r\nHere you can plant all kinds of plants and decorate the garden to your liking. All you need is a hoe, some seeds and a watering can!\r\n\r\nIn addition, if you want to expand the size of your garden you can buy plots in case you run out of space for your crops."
-msgstr "А вот и ваш сад!\r\n\r\nЗдесь вы можете сажать любые растения и украсить сам сад так, как вам нравится! Всё, что вам для этого потребуется - мотыга, лейка и кое-какие семена.\r\n\r\nТакже вы можете купить дополнительные участки земли, если захотите увеличить площадь сада."
+msgid ""
+"Welcome to your own garden!\r\n"
+"\r\n"
+"Here you can plant all kinds of plants and decorate the garden to your liking. All you need is a hoe, some seeds and a watering can!\r\n"
+"\r\n"
+"In addition, if you want to expand the size of your garden you can buy plots in case you run out of space for your crops."
+msgstr ""
+"А вот и ваш сад!\r\n"
+"\r\n"
+"Здесь вы можете сажать любые растения и украсить сам сад так, как вам нравится! Всё, что вам для этого потребуется - мотыга, лейка и кое-какие семена.\r\n"
+"\r\n"
+"Также вы можете купить дополнительные участки земли, если захотите увеличить площадь сада."
 
 #. Key:	C546067A4B0D71A6B7EE5DBDDDE34E9E
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_NegotiationMiniGame.Widget_NegotiationMiniGame_C:ExecuteUbergraph_Widget_NegotiationMiniGame
+#: [Script Bytecode]
 msgctxt ",C546067A4B0D71A6B7EE5DBDDDE34E9E"
 msgid "Click on the green zone"
 msgstr "Нажмите на зелёной зоне"
 
 #. Key:	C572C930461BBEE2AAF4B98823BAA1C8
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",C572C930461BBEE2AAF4B98823BAA1C8"
 msgid "Wednesday"
 msgstr "Среда"
@@ -5944,14 +6237,16 @@ msgstr "Жгучее зелье, помогающее от оцепенения.
 
 #. Key:	C6811A3C4E6952FA1D67A7B9AA316F3A
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk
+#: [Script Bytecode]
 msgctxt ",C6811A3C4E6952FA1D67A7B9AA316F3A"
 msgid "Land on Sale"
 msgstr "Земля на продажу"
 
 #. Key:	C71595E64AEE3E01A2528098C9021853
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
-#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
+#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter
+#: [Script Bytecode]
 msgctxt ",C71595E64AEE3E01A2528098C9021853"
 msgid "Your shop is now open"
 msgstr "Магазин открыт"
@@ -6007,7 +6302,8 @@ msgstr "Семена арбуза"
 
 #. Key:	C8F0826144D7E254A67125B26B39B8E8
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",C8F0826144D7E254A67125B26B39B8E8"
 msgid "How nice to have an Alchemist so close! Would you have any  <s>{itemName}</>, please?"
 msgstr ""
@@ -6030,8 +6326,18 @@ msgstr "Весь ваш прогресс будет удален. Вы дейс�
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 #: /Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
 msgctxt ",C9EC97ED4FD7D4C340765180E2EFCB94"
-msgid "Press <img id=\"{buttonCode3}\"/> to place\r\n\r\nPress <img id=\"{buttonCode}\"/> to rotate\r\n\r\nPress <img id=\"{buttonCode2}\"/> to toggle grid"
-msgstr "Нажмите <img id=\"{buttonCode3}\"/>, чтобы поставить\r\n\r\nНажмите <img id=\"{buttonCode}\"/>, чтобы повернуть\r\n\r\nНажмите <img id=\"{buttonCode2}\"/>, чтобы включить/выключить сетку"
+msgid ""
+"Press <img id=\"{buttonCode3}\"/> to place\r\n"
+"\r\n"
+"Press <img id=\"{buttonCode}\"/> to rotate\r\n"
+"\r\n"
+"Press <img id=\"{buttonCode2}\"/> to toggle grid"
+msgstr ""
+"Нажмите <img id=\"{buttonCode3}\"/>, чтобы поставить\r\n"
+"\r\n"
+"Нажмите <img id=\"{buttonCode}\"/>, чтобы повернуть\r\n"
+"\r\n"
+"Нажмите <img id=\"{buttonCode2}\"/>, чтобы включить/выключить сетку"
 
 #. Key:	C9F0CB2D4ED3306A59A630BDE8328BAD
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:WidgetTree.TextBlock_5.Text
@@ -6042,7 +6348,8 @@ msgstr "Вы уверены? Несохранённый прогресс буд�
 
 #. Key:	C9F8D2054582FE7B1D9C6A81FF276DF7
 #. SourceLocation:	/Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor
+#: [Script Bytecode]
 msgctxt ",C9F8D2054582FE7B1D9C6A81FF276DF7"
 msgid "Go Outside"
 msgstr "Выйти"
@@ -6056,7 +6363,8 @@ msgstr ""
 
 #. Key:	CA4042C140192DD53BC2B3AB288A08F1
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",CA4042C140192DD53BC2B3AB288A08F1"
 msgid "Greetings! I'm looking for some <s>{itemName}</>. Do you have any?"
 msgstr ""
@@ -6077,7 +6385,8 @@ msgstr "Толстая деревянная декоративныя оград�
 
 #. Key:	CAC5137A4D9CD1EF5A44CEB7E464F77C
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(4 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(4 -
+#: Value).DisplayNameMap
 msgctxt ",CAC5137A4D9CD1EF5A44CEB7E464F77C"
 msgid "Stimulant"
 msgstr "Стимулятор"
@@ -6105,7 +6414,8 @@ msgstr ""
 
 #. Key:	CAECD74543196263DE8E278B0211F9A4
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(5 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(5
+#: - Value).DisplayNameMap
 msgctxt ",CAECD74543196263DE8E278B0211F9A4"
 msgid "Plant"
 msgstr "растение"
@@ -6119,7 +6429,8 @@ msgstr "Деревянна настенная лампа со свечой."
 
 #. Key:	CB7FB4AF4AE1CEFF73B261AD0163E57F
 #. SourceLocation:	/Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_HouseDoor.BP_HouseDoor_C:ExecuteUbergraph_BP_HouseDoor
+#: [Script Bytecode]
 msgctxt ",CB7FB4AF4AE1CEFF73B261AD0163E57F"
 msgid "You need to close your shop first"
 msgstr "Сперва закройте магазин"
@@ -6147,7 +6458,8 @@ msgstr "Хоть она и говорила о них как о добрых с�
 
 #. Key:	CC6412234FC08136F688699CB2217E8F
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk
+#: [Script Bytecode]
 msgctxt ",CC6412234FC08136F688699CB2217E8F"
 msgid "You have adquired a new piece of land!"
 msgstr "Вы приобрели новый участок земли!"
@@ -6175,14 +6487,16 @@ msgstr "Дерево"
 
 #. Key:	CCA7185F46C083F298C745AB4541ACAD
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog
+#: [Script Bytecode]
 msgctxt ",CCA7185F46C083F298C745AB4541ACAD"
 msgid "Haggle"
 msgstr ""
 
 #. Key:	CCC2AA4C45E9F2B47F80EEA8191D8DBC
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script Bytecode]
-#: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script Bytecode]
+#: /Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script
+#: Bytecode]
 msgctxt ",CCC2AA4C45E9F2B47F80EEA8191D8DBC"
 msgid "From: {npc}"
 msgstr "От: {npc}"
@@ -6196,14 +6510,16 @@ msgstr "Мелкий паркет"
 
 #. Key:	CD07AA4C44E51D418ED57AA0F1C8102D
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",CD07AA4C44E51D418ED57AA0F1C8102D"
 msgid "Good to see you, Alchemist! Any <s>{itemName}</> for me?"
 msgstr ""
 
 #. Key:	CD88F33446EFD4A4B7219B8DD2E8A20C
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog
+#: [Script Bytecode]
 msgctxt ",CD88F33446EFD4A4B7219B8DD2E8A20C"
 msgid "Wait"
 msgstr ""
@@ -6301,7 +6617,8 @@ msgstr "Череп с цветами"
 
 #. Key:	CF4A581F436F37413FEFE6A286D461DC
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",CF4A581F436F37413FEFE6A286D461DC"
 msgid "Hey! How's your day going? Would you give me one <s>{itemName}</>, please?"
 msgstr ""
@@ -6448,7 +6765,8 @@ msgstr "Вернуть ингредиенты на стол"
 
 #. Key:	D30D97654ED1F8E8196CF48F6BC64373
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(6
+#: - Value).DisplayNameMap
 msgctxt ",D30D97654ED1F8E8196CF48F6BC64373"
 msgid "Special"
 msgstr "Особые"
@@ -6483,14 +6801,20 @@ msgstr "Семена перечной мяты"
 
 #. Key:	D5141B6D414872D0C139EFB5F80F0796
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script
+#: Bytecode]
 msgctxt ",D5141B6D414872D0C139EFB5F80F0796"
-msgid "Soil\r\nPlant a seed"
-msgstr "Почва\r\nМожно посадить сюда семена"
+msgid ""
+"Soil\r\n"
+"Plant a seed"
+msgstr ""
+"Почва\r\n"
+"Можно посадить сюда семена"
 
 #. Key:	D528640B498106277E7ABF8215E03C93
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_NegotationManager.BP_NegotationManager_C:ExecuteUbergraph_BP_NegotationManager [Script Bytecode]
-#: /Game/Blueprints/Actors/ModularShop/BP_NegotationManager.BP_NegotationManager_C:ExecuteUbergraph_BP_NegotationManager [Script Bytecode]
+#: /Game/Blueprints/Actors/ModularShop/BP_NegotationManager.BP_NegotationManager_C:ExecuteUbergraph_BP_NegotationManager
+#: [Script Bytecode]
 msgctxt ",D528640B498106277E7ABF8215E03C93"
 msgid "Haggling Complete!"
 msgstr "Торг завершён"
@@ -6518,10 +6842,15 @@ msgstr "Перевод осуществляется силами сообщес�
 
 #. Key:	D595C0E84227189268BEAD9A57387474
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script
+#: Bytecode]
 msgctxt ",D595C0E84227189268BEAD9A57387474"
-msgid "{PlantName}\r\nHold key to harvest"
-msgstr "{PlantName}\r\nЗажмите клавишу для сбора"
+msgid ""
+"{PlantName}\r\n"
+"Hold key to harvest"
+msgstr ""
+"{PlantName}\r\n"
+"Зажмите клавишу для сбора"
 
 #. Key:	D5B2399149CC48609F44B9BCB4087613
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_297.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6553,7 +6882,8 @@ msgstr "Страшная тыквенная голова с зелёной св�
 
 #. Key:	D66B1CD049492472CF132BA47BF884F3
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar
+#: [Script Bytecode]
 msgctxt ",D66B1CD049492472CF132BA47BF884F3"
 msgid "Tuesday"
 msgstr "Вторник"
@@ -6567,7 +6897,8 @@ msgstr "Споры красной лисички"
 
 #. Key:	D6C94E9A488A3C651C0FB18E9FE2C02F
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog
+#: [Script Bytecode]
 msgctxt ",D6C94E9A488A3C651C0FB18E9FE2C02F"
 msgid "Discard"
 msgstr "Отклонить"
@@ -6595,24 +6926,31 @@ msgstr "Семена прихоти феи. Чтобы растение выро
 
 #. Key:	D7C7433F43030BD81B1C98AE667BC4A1
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo
+#: [Script Bytecode]
 msgctxt ",D7C7433F43030BD81B1C98AE667BC4A1"
 msgid "Mage"
 msgstr "Маг"
 
 #. Key:	D8359A7B4513B130A6AB69BAE5F52E4A
 #. SourceLocation:	/Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
-#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu [Script Bytecode]
+#: /Game/UI/Widget_PauseMenu.Widget_PauseMenu_C:ExecuteUbergraph_Widget_PauseMenu
+#: [Script Bytecode]
 msgctxt ",D8359A7B4513B130A6AB69BAE5F52E4A"
 msgid "Unstuck Player"
 msgstr "Вылезти из застревания"
 
 #. Key:	D8E5F32649B7E59916B196919FC8D678
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GardenPlant.BP_GardenPlant_C:UpdateText [Script
+#: Bytecode]
 msgctxt ",D8E5F32649B7E59916B196919FC8D678"
-msgid "{PlantName}\r\nWatered"
-msgstr "{PlantName}\r\nПолит"
+msgid ""
+"{PlantName}\r\n"
+"Watered"
+msgstr ""
+"{PlantName}\r\n"
+"Полит"
 
 #. Key:	D931F45540A7AC1F03FFE0BEED2828B7
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_176.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6623,7 +6961,8 @@ msgstr "Семена розовой фасоли. Чтобы растение в
 
 #. Key:	D96B18D24849F7B6E96581A71B9FE098
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(0 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(0 -
+#: Value).DisplayNameMap
 msgctxt ",D96B18D24849F7B6E96581A71B9FE098"
 msgid "Poisonous"
 msgstr "Яд"
@@ -6637,14 +6976,16 @@ msgstr "Семена тюльпана. Чтобы растение выросл�
 
 #. Key:	D9D341A8488EAB10AAE5A49B13746B01
 #. SourceLocation:	/Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu [Script Bytecode]
-#: /Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu [Script Bytecode]
+#: /Game/UI/Widget_OptionsMenu.Widget_OptionsMenu_C:ExecuteUbergraph_Widget_OptionsMenu
+#: [Script Bytecode]
 msgctxt ",D9D341A8488EAB10AAE5A49B13746B01"
 msgid "Reset Keybindings"
 msgstr "Сбросить переназначения клавиш"
 
 #. Key:	D9E9FAE142458BA785FC89B41CB7CD4A
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
-#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter [Script Bytecode]
+#: /Game/Blueprints/Actors/Shop/BP_Counter.BP_Counter_C:ExecuteUbergraph_BP_Counter
+#: [Script Bytecode]
 msgctxt ",D9E9FAE142458BA785FC89B41CB7CD4A"
 msgid "To open your store you need to have at least one shop table in place. "
 msgstr "Чтобы открыть магазин, вам необходимо иметь хотя бы один стол для выкладки товара."
@@ -6679,7 +7020,8 @@ msgstr "Чёрный ненхан"
 
 #. Key:	DAF6F3CC43AB4B82C56186B4DD6F8F14
 #. SourceLocation:	/Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_GameManager.BP_GameManager_C:ExecuteUbergraph_BP_GameManager
+#: [Script Bytecode]
 msgctxt ",DAF6F3CC43AB4B82C56186B4DD6F8F14"
 msgid "You feel very tired, go to sleep or you will pass out "
 msgstr "Вы очень устали. Ложитесь спать, иначе вы потеряете сознание."
@@ -6700,7 +7042,8 @@ msgstr "Деревянная перегородка, которую можно �
 
 #. Key:	DC059BB9486127FFBED0D9A421618811
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:Populate Recipes [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:Populate Recipes [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_AlchemyItems.Widget_AlchemyItems_C:Populate
+#: Recipes [Script Bytecode]
 msgctxt ",DC059BB9486127FFBED0D9A421618811"
 msgid "Potions Discovered {recipesLearned}/{allRecipes}"
 msgstr "Выучено рецептов: {recipesLearned}/{allRecipes}"
@@ -6784,7 +7127,8 @@ msgstr "Маленькая фигурка мумии."
 
 #. Key:	DF3D5764456EEB0B89E317A5EDE3C134
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
-#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
+#: /Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk
+#: [Script Bytecode]
 msgctxt ",DF3D5764456EEB0B89E317A5EDE3C134"
 msgid "Land chunk for sale"
 msgstr "Участок земли. Продаётся."
@@ -6924,7 +7268,8 @@ msgstr "Каменный топор. Имеет низкую прочность.
 
 #. Key:	E33E5F8F448DF55478C743B905590AC7
 #. SourceLocation:	/Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion [Script Bytecode]
-#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion [Script Bytecode]
+#: /Game/Blueprints/Actors/AlchemyTable/Test/Widgets/Widget_FinishPotion.Widget_FinishPotion_C:ExecuteUbergraph_Widget_FinishPotion
+#: [Script Bytecode]
 msgctxt ",E33E5F8F448DF55478C743B905590AC7"
 msgid "Non-reactive components"
 msgstr "Компоненты не дают реакции"
@@ -6938,7 +7283,8 @@ msgstr ""
 
 #. Key:	E38DCB0B4FB92232B2A826A2C1D29786
 #. SourceLocation:	/Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
-#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
+#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script
+#: Bytecode]
 msgctxt ",E38DCB0B4FB92232B2A826A2C1D29786"
 msgid "This item is from a previous version and is obsolete, press the right mouse button to exchange it for gold."
 msgstr "Этот предмет был в прошлой версии игры, и более не существует. Нажмите ПКМ, чтобы обменять его на золото."
@@ -6952,7 +7298,8 @@ msgstr "Жуткий чёрный стол с флуоресцентными ч�
 
 #. Key:	E3C0B57E42C7616FF4094186DB57B803
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",E3C0B57E42C7616FF4094186DB57B803"
 msgid "Swamp House"
 msgstr "Дом на болоте"
@@ -6987,24 +7334,34 @@ msgstr "Платяной шкаф, в котором вы можете смен�
 
 #. Key:	E431B083447A79F3A189D585E060925C
 #. SourceLocation:	/Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
-#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog [Script Bytecode]
+#: /Game/UI/Widget_NPCDialog.Widget_NPCDialog_C:ExecuteUbergraph_Widget_NPCDialog
+#: [Script Bytecode]
 msgctxt ",E431B083447A79F3A189D585E060925C"
 msgid "Good morning, {alchemistName}!"
 msgstr "Доброе утро, {alchemistName}!"
 
 #. Key:	E46232444C7BDA75D09D3BB70D7EE3EA
 #. SourceLocation:	/Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText [Script Bytecode]
-#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText [Script Bytecode]
+#: /Game/Blueprints/Actors/InteractionTextFunctionLibrary.InteractionTextFunctionLibrary_C:ShowFurnitureInteractText
+#: [Script Bytecode]
 msgctxt ",E46232444C7BDA75D09D3BB70D7EE3EA"
-msgid "Press \"{Interact Button}\" key to interact\r\nHold \"{Interact Button}\" to pick up"
-msgstr "Нажмите \"{Interact Button}\", чтобы взаимодействовать\r\nУдерживайте \"{Interact Button}\", чтобы поднять"
+msgid ""
+"Press \"{Interact Button}\" key to interact\r\n"
+"Hold \"{Interact Button}\" to pick up"
+msgstr ""
+"Нажмите \"{Interact Button}\", чтобы взаимодействовать\r\n"
+"Удерживайте \"{Interact Button}\", чтобы поднять"
 
 #. Key:	E4C396A942C495D41FFD79A24B86543A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.FirstDialog_30_243B85D042D5FA5C14C391832F631188(1).FirstDialog_30_243B85D042D5FA5C14C391832F631188
 #: /Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SpringEvent.FirstDialog_30_243B85D042D5FA5C14C391832F631188(1).FirstDialog_30_243B85D042D5FA5C14C391832F631188
 msgctxt ",E4C396A942C495D41FFD79A24B86543A"
-msgid "Every year we hide some Easter eggs around the town and its surroundings. \r\nDo you want to participate? It will be fun!"
-msgstr "Каждый год мы прячем пасхальные яйца по всему городу и в его окрестностях.\r\nНе хочешь поучаствовать? Будет весело!"
+msgid ""
+"Every year we hide some Easter eggs around the town and its surroundings. \r\n"
+"Do you want to participate? It will be fun!"
+msgstr ""
+"Каждый год мы прячем пасхальные яйца по всему городу и в его окрестностях.\r\n"
+"Не хочешь поучаствовать? Будет весело!"
 
 #. Key:	E4DBB0D848A84977072F8895083326D0
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_191.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -7022,14 +7379,16 @@ msgstr "Семена морской нимфы. Чтобы растение вы
 
 #. Key:	E5A9AC7448922085802B7C97ED32694F
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog
+#: [Script Bytecode]
 msgctxt ",E5A9AC7448922085802B7C97ED32694F"
 msgid "Wait"
 msgstr "Ждать"
 
 #. Key:	E670C69F48AAA7FE234E2EA4738C650C
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",E670C69F48AAA7FE234E2EA4738C650C"
 msgid "The villagers advised me about your potion shop. Do you have any <s>{itemName}</>?"
 msgstr ""
@@ -7134,7 +7493,8 @@ msgstr "Светильник Джека"
 
 #. Key:	EB772AA64906BE9F0CBB2A8EAD615946
 #. SourceLocation:	/Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script Bytecode]
-#: /Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script Bytecode]
+#: /Game/UI/Widget_Crop.Widget_Crop_C:ExecuteUbergraph_Widget_Crop [Script
+#: Bytecode]
 msgctxt ",EB772AA64906BE9F0CBB2A8EAD615946"
 msgid "Is Watered"
 msgstr "Полито"
@@ -7204,21 +7564,24 @@ msgstr "Горшок матери-природы"
 
 #. Key:	EE903F7049213F0050E27792089C496D
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(6 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemElement.EItemElement.DisplayNameMap(6 -
+#: Value).DisplayNameMap
 msgctxt ",EE903F7049213F0050E27792089C496D"
 msgid "Aether"
 msgstr "Эфир"
 
 #. Key:	EF6188694E34BD50AE742F9B28CC40A9
 #. SourceLocation:	/Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
-#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign [Script Bytecode]
+#: /Game/Blueprints/Actors/PlayerHouse/BP_HouseBuySign.BP_HouseBuySign_C:ExecuteUbergraph_BP_HouseBuySign
+#: [Script Bytecode]
 msgctxt ",EF6188694E34BD50AE742F9B28CC40A9"
 msgid "Buy this house"
 msgstr "Купить дом"
 
 #. Key:	EF99AD794CB52F6FE322E99BEC1FA079
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(1
+#: - Value).DisplayNameMap
 msgctxt ",EF99AD794CB52F6FE322E99BEC1FA079"
 msgid "Potion"
 msgstr "Зелье"
@@ -7262,8 +7625,24 @@ msgstr "Медный топор"
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/DT_RoleLetters.DT_RoleLetters.letter_1.LetterText_11_11F4D37E48D063D6B3FF5483EB97A84B
 #: /Game/Blueprints/Actors/Shop/DT_RoleLetters.DT_RoleLetters.letter_1.LetterText_11_11F4D37E48D063D6B3FF5483EB97A84B
 msgctxt ",F19EA1F1492F1F1400E2F9A88182B1CF"
-msgid "Dear Alchemist,\r\n\r\nWe have detected a large influx of Explorers in the area due to the discovery of ancient ruins near Rosewood Ville.\r\n\r\nIt is possible that they may rest in the town and pass by your store, so we advise you to have a stock of potions ready for them.\r\n\r\nSincerely,\r\nThe Alchemists Guild"
-msgstr "Дорогой алхимик,\r\n\r\nНеподалёку от Роузвуда были найдены древние руины, и это привлекло в наши края множество исследователей с разных концов света.\r\n\r\nОни наверняка будут проходить мимо твоего магазина, поэтому советуем тебе подготовиться к их наплыву и подготовить запас зелий для продажи.\r\n\r\nС наилучшими пожеланиями,\r\nГильдия алхимиков"
+msgid ""
+"Dear Alchemist,\r\n"
+"\r\n"
+"We have detected a large influx of Explorers in the area due to the discovery of ancient ruins near Rosewood Ville.\r\n"
+"\r\n"
+"It is possible that they may rest in the town and pass by your store, so we advise you to have a stock of potions ready for them.\r\n"
+"\r\n"
+"Sincerely,\r\n"
+"The Alchemists Guild"
+msgstr ""
+"Дорогой алхимик,\r\n"
+"\r\n"
+"Неподалёку от Роузвуда были найдены древние руины, и это привлекло в наши края множество исследователей с разных концов света.\r\n"
+"\r\n"
+"Они наверняка будут проходить мимо твоего магазина, поэтому советуем тебе подготовиться к их наплыву и подготовить запас зелий для продажи.\r\n"
+"\r\n"
+"С наилучшими пожеланиями,\r\n"
+"Гильдия алхимиков"
 
 #. Key:	F1A066F2456163BC3EE96DB33F685ACE
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.François.Dialogs_31_DD70E80D43885939B5750983268ED22F(2).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(1).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -7337,7 +7716,8 @@ msgstr "Семена ведьминого поцелуя. Чтобы расте�
 
 #. Key:	F5A796CC425B62B0663E359F2AF7AD39
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(7 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(7 -
+#: Value).DisplayNameMap
 msgctxt ",F5A796CC425B62B0663E359F2AF7AD39"
 msgid "Summer Fair"
 msgstr "Летняя ярмарка"
@@ -7351,7 +7731,8 @@ msgstr "Бойцы поблизости"
 
 #. Key:	F60E5F6045AA7826B84331B02232829F
 #. SourceLocation:	/Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
-#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog [Script Bytecode]
+#: /Game/UI/NegotiationMinigame/Widget_ShopActionDialog.Widget_ShopActionDialog_C:ExecuteUbergraph_Widget_ShopActionDialog
+#: [Script Bytecode]
 msgctxt ",F60E5F6045AA7826B84331B02232829F"
 msgid "Sell Potion"
 msgstr "Продать зелье"
@@ -7381,8 +7762,18 @@ msgstr "Штаны"
 #. SourceLocation:	/Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_exploration.Text_4_4B054AED432B88A37BC26580F46F3D67
 #: /Game/Blueprints/Actors/Tutorial/DT_TutorialTexts.DT_TutorialTexts.tutorial_exploration.Text_4_4B054AED432B88A37BC26580F46F3D67
 msgctxt ",F6910AB042C0E82508FEAEAFC951B3F7"
-msgid "Explore the surroundings to discover new plants and materials for your experiments.\r\n\r\nEvery day new plants appear, you can discover a great variety during the passage of seasons.\r\n\r\nFind them all!"
-msgstr "Изучайте окресности, чтобы находить новые растения и материалы для ваших экспериментов.\r\n\r\nКаждый день вырастают новые растения, и в течение сезона можно найти огромное количество различных трав.\r\n\r\nСоберите их все!"
+msgid ""
+"Explore the surroundings to discover new plants and materials for your experiments.\r\n"
+"\r\n"
+"Every day new plants appear, you can discover a great variety during the passage of seasons.\r\n"
+"\r\n"
+"Find them all!"
+msgstr ""
+"Изучайте окресности, чтобы находить новые растения и материалы для ваших экспериментов.\r\n"
+"\r\n"
+"Каждый день вырастают новые растения, и в течение сезона можно найти огромное количество различных трав.\r\n"
+"\r\n"
+"Соберите их все!"
 
 #. Key:	F69D4D9745216B4819AF109C806C7186
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_WorldEvents.DT_WorldEvents.SummerEvent.FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381(0).FinishDialog_31_C0F3C45E40FB5BE224D4DBB8870F4381
@@ -7393,7 +7784,8 @@ msgstr "Именно так! Салют — это очень весело! Во
 
 #. Key:	F6E4CE5D4D749291C787F6908A5BE11C
 #. SourceLocation:	/Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateQuestInfo [Script Bytecode]
-#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateQuestInfo [Script Bytecode]
+#: /Game/UI/Journal/Widget_Journal_01.Widget_Journal_01_C:UpdateQuestInfo
+#: [Script Bytecode]
 msgctxt ",F6E4CE5D4D749291C787F6908A5BE11C"
 msgid "Retrieve to: {NPC Name}"
 msgstr "Передать: {NPC Name}"
@@ -7514,15 +7906,39 @@ msgstr "Семена клубники"
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
 #: /Game/UI/Widget_Game.Widget_Game_C:GeneralSetup [Script Bytecode]
 msgctxt ",FAD733DC48E9AB521B81BBBD32BCEC9B"
-msgid "Press <img id=\"{buttonCode}\"/> to rotate\r\nPress <img id=\"{buttonCode2}\"/> to toggle grid"
-msgstr "Нажмите <img id=\"{buttonCode}\"/>, чтобы повернуть\r\nНажмите<img id=\"{buttonCode2}\"/>, чтобы включить или отключить сетку"
+msgid ""
+"Press <img id=\"{buttonCode}\"/> to rotate\r\n"
+"Press <img id=\"{buttonCode2}\"/> to toggle grid"
+msgstr ""
+"Нажмите <img id=\"{buttonCode}\"/>, чтобы повернуть\r\n"
+"Нажмите<img id=\"{buttonCode2}\"/>, чтобы включить или отключить сетку"
 
 #. Key:	FAD8A7D544F03EACEF07B5A04D96B5CA
 #. SourceLocation:	/Game/Blueprints/Actors/Shop/DT_RoleLetters.DT_RoleLetters.letter_3.LetterText_11_11F4D37E48D063D6B3FF5483EB97A84B
 #: /Game/Blueprints/Actors/Shop/DT_RoleLetters.DT_RoleLetters.letter_3.LetterText_11_11F4D37E48D063D6B3FF5483EB97A84B
 msgctxt ",FAD8A7D544F03EACEF07B5A04D96B5CA"
-msgid "The Magicians' Convention\r\n\r\nDear Alchemist,\r\n\r\nA convention of the Wizards Guild is going to be held in the capital city, where true eminences are going to attend.\r\n\r\nAs Rosewood Ville is on their way, it is possible that they will rest in town and pass by your store, so we advise you to have a stock of potions ready for them.\r\n\r\nSincerely,\r\nThe Alchemists Guild"
-msgstr "Собрание магов\r\n\r\nДорогой алхимик,\r\n\r\nВ столице скоро пройдёт собрание членов гильдии магов, куда прибудут самые высокопоставленные её члены.\r\n\r\nПо дороге они будут проезжать и Роузвуд, так что есть вероятность того, что они захотят остановиться в нашем городке и посетить твой магазин. Так что советуем тебе запастись зельями к их визиту.\r\n\r\nС наилучшими пожеланиями,\r\nГильдия алхимиков"
+msgid ""
+"The Magicians' Convention\r\n"
+"\r\n"
+"Dear Alchemist,\r\n"
+"\r\n"
+"A convention of the Wizards Guild is going to be held in the capital city, where true eminences are going to attend.\r\n"
+"\r\n"
+"As Rosewood Ville is on their way, it is possible that they will rest in town and pass by your store, so we advise you to have a stock of potions ready for them.\r\n"
+"\r\n"
+"Sincerely,\r\n"
+"The Alchemists Guild"
+msgstr ""
+"Собрание магов\r\n"
+"\r\n"
+"Дорогой алхимик,\r\n"
+"\r\n"
+"В столице скоро пройдёт собрание членов гильдии магов, куда прибудут самые высокопоставленные её члены.\r\n"
+"\r\n"
+"По дороге они будут проезжать и Роузвуд, так что есть вероятность того, что они захотят остановиться в нашем городке и посетить твой магазин. Так что советуем тебе запастись зельями к их визиту.\r\n"
+"\r\n"
+"С наилучшими пожеланиями,\r\n"
+"Гильдия алхимиков"
 
 #. Key:	FB164BF5494DE6DD3DA56DB8089CD280
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_008.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -7540,7 +7956,8 @@ msgstr "Прилавок в форме прилавка. Используетс�
 
 #. Key:	FB8DD41746F83F1BDF1BE88D9CD15576
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
-#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
+#: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog
+#: [Script Bytecode]
 msgctxt ",FB8DD41746F83F1BDF1BE88D9CD15576"
 msgid "Hi, Alchemist! I want to buy one <s>{itemName}</>, please!"
 msgstr ""
@@ -7554,7 +7971,8 @@ msgstr "Споры фиолетового мухомора"
 
 #. Key:	FBBD3AA4493E83B407DC0EB875B93886
 #. SourceLocation:	/Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
-#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
+#: /Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script
+#: Bytecode]
 msgctxt ",FBBD3AA4493E83B407DC0EB875B93886"
 msgid "Cannot be sold"
 msgstr "Нельзя продать"
@@ -7631,7 +8049,8 @@ msgstr "Пруд матери-природы"
 
 #. Key:	FD9901F74E922A9C39B301A6B1687245
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(1 - Value).DisplayNameMap
-#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/Enumerators/EItemRarities.EItemRarities.DisplayNameMap(1 -
+#: Value).DisplayNameMap
 msgctxt ",FD9901F74E922A9C39B301A6B1687245"
 msgid "Rare"
 msgstr "Редкий"
@@ -7794,8 +8213,18 @@ msgstr "Осень"
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 #: /Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
 msgctxt "LocalizatedMessages,awardMail"
-msgid "Hello Alchemist!\r\n\r\nI wanted to thank you for helping me with that assignment the other day.\r\n\r\nI have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
-msgstr "Привет, алхимик!\r\n\r\nСпасибо, что помог мне тогда.\r\n\r\nЯ нашёл несколько ненужных мне вещиц, и подумал, что, может, тебе они будут интересны. Держи."
+msgid ""
+"Hello Alchemist!\r\n"
+"\r\n"
+"I wanted to thank you for helping me with that assignment the other day.\r\n"
+"\r\n"
+"I have found some objects that may be useful for you, I don't need them so I thought it would be a good idea for you to have them."
+msgstr ""
+"Привет, алхимик!\r\n"
+"\r\n"
+"Спасибо, что помог мне тогда.\r\n"
+"\r\n"
+"Я нашёл несколько ненужных мне вещиц, и подумал, что, может, тебе они будут интересны. Держи."
 
 #. Key:	buy
 #. SourceLocation:	/Game/Blueprints/Datatables/LocalizatedMessages.LocalizatedMessages
@@ -8034,4 +8463,3 @@ msgstr "Укажите имя"
 msgctxt "LocalizatedMessages,yes"
 msgid "Yes"
 msgstr "Да"
-
