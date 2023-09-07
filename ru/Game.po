@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-07-05 07:41\n"
-"PO-Revision-Date: 2023-07-05 14:24+0200\n"
+"PO-Revision-Date: 2023-07-05 15:09+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -56,7 +56,7 @@ msgstr "Жёлтый ковёр"
 #: [Script Bytecode]
 msgctxt ",01F37E064200C417193D9EBF36C89292"
 msgid "Sell Item"
-msgstr ""
+msgstr "Продать предмет"
 
 #. Key:	02B01551442B629F89DCD281A56F8FE3
 #. SourceLocation:	/Game/Blueprints/Actors/SeedExchange/Widget_SeedExchange.Widget_SeedExchange_C:WidgetTree.TextBlock_24.Text
@@ -427,7 +427,7 @@ msgstr "Комфорт"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_053.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",0F2BFA5C4864E33C076C5F8A21380B8B"
 msgid "An empty tombstone. Place it in your garden as a warning."
-msgstr ""
+msgstr "Пустая надгробная плита. Разместите её в своём саду в качестве предостережения."
 
 #. Key:	0F50BDBC42932BE20160A99EC043A8A1
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_40.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -675,7 +675,7 @@ msgstr "Страшная и ужасная кровать"
 #: [Script Bytecode]
 msgctxt ",15D86BFC43F2E367E229E8BF0CD7FF69"
 msgid "Good thing I find an Alchemist around here! I urgently need one <s>{itemName}</>..."
-msgstr ""
+msgstr "Как хорошо, что я нашёл алхимика в этой местности! Мне срочно нужен предмет <s>{itemName}</s>..."
 
 #. Key:	161A48144F11A8A7C41437845E2881B2
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_4.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -696,7 +696,7 @@ msgstr "Магазинный прилавок"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_114.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",174C934B4A5309D19D49A8A9D041E4E3"
 msgid "Potion with an icy liquid, a favorite of the Warriors, handle with care!"
-msgstr ""
+msgstr "Зелье с ледяной жидкостью, любимое воинами, обращайтесь с осторожностью!"
 
 #. Key:	17692EC345335ED37D20E5B5A473C399
 #. SourceLocation:	/Game/UI/Widget_Game.Widget_Game_C:ShowRotation&GridText [Script Bytecode]
@@ -865,7 +865,7 @@ msgstr "Странный гриб трубчатой формы. Расслаб�
 #: [Script Bytecode]
 msgctxt ",1BA2DB0A4BE547516ACB348CAA00AA4B"
 msgid "Wow! The shop is more beautiful everyday. Could you give me one <s>{itemName}</>, please?"
-msgstr ""
+msgstr "Вау! Магазин становится красивее с каждым днем. Не могли бы вы дать мне одно <s>{itemName}</s>, пожалуйста?"
 
 #. Key:	1BCEF6E54A2498C20F5905B82CAFDE6D
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_273.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -886,7 +886,7 @@ msgstr "Мы гуляли и болтали днями напролёт, и во
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(6).hagglingTexts
 msgctxt ",1BF66C924FD5BD5FFE00879BC9944FF2"
 msgid "Maybe we can reach an agreement ..."
-msgstr ""
+msgstr "Может быть, мы можем достичь соглашения..."
 
 #. Key:	1BFC2F614F3AE9961CD7458DCE484877
 #. SourceLocation:	/Game/UI/Widget_Calendar.Widget_Calendar_C:Update Calendar [Script Bytecode]
@@ -1165,7 +1165,7 @@ msgstr "Банан"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_184.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",22F916264865E94F4266C18405747BE8"
 msgid "Hatchet made of iron with high durability. Use it to chop down trees."
-msgstr ""
+msgstr "Топор из прочного железа с высокой стойкостью. Используйте его для срубки деревьев."
 
 #. Key:	23A6E32147EA64A4BB9F1A99D1E42F07
 #. SourceLocation:	/Game/Blueprints/Actors/BP_Calendar.BP_Calendar_C:ExecuteUbergraph_BP_Calendar [Script Bytecode]
@@ -1203,7 +1203,7 @@ msgstr "Верстак"
 #: [Script Bytecode]
 msgctxt ",24EB80F647D215089AAF2D9251962269"
 msgid "You are too tired and you have passed out. "
-msgstr ""
+msgstr "Вы слишком устали и потеряли сознание."
 
 #. Key:	24F322884E0CC3D8C6C2E4B604185A93
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_4.Text
@@ -1372,7 +1372,7 @@ msgstr "Полка, обладающая колдовской аурой. На �
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(5).hagglingTexts
 msgctxt ",2B087FEB448AA401127BE2BEA963F36C"
 msgid "I would like to haggle the price!"
-msgstr ""
+msgstr "Я хотел бы поторговаться по цене!"
 
 #. Key:	2B32ACAB45AA5A7D55D2B6BD68C26316
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_056.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -1402,7 +1402,7 @@ msgstr "Открыть журнал"
 #: [Script Bytecode]
 msgctxt ",2C11C1DA45ED34FC4F44F9B7818019DA"
 msgid "How's it going, Alchemist? Today I need one <s>{itemName}</>, do you still have?"
-msgstr ""
+msgstr "Как у вас дела, алхимик? Сегодня мне нужно одно <s>{itemName}</s>, у вас еще есть?"
 
 #. Key:	2C4879AF475D98C12C5475BE8397387A
 #. SourceLocation:	/Game/UI/Widget_ThrowItem.Widget_ThrowItem_C:WidgetTree.TextBlock_1.Text
@@ -1607,7 +1607,7 @@ msgstr "Ведьминская полка"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(8).hagglingTexts
 msgctxt ",334C4C9C4A716D9FAB2F84BC349D668B"
 msgid "Oops! Let's talk about it..."
-msgstr ""
+msgstr "Ой! Давайте поговорим об этом..."
 
 #. Key:	3376EFA94A14E50743A9FBA90AAA396C
 #. SourceLocation:	/Game/Blueprints/Actors/ModularShop/BP_Bell.BP_Bell_C:ExecuteUbergraph_BP_Bell [Script Bytecode]
@@ -1651,7 +1651,7 @@ msgstr "Он сказал: «Если хочешь стать хорошим п�
 #: - Value).DisplayNameMap
 msgctxt ",3428CB6041AAFBE510B50DBED6BBA6C3"
 msgid "Talk"
-msgstr ""
+msgstr "Pазговор"
 
 #. Key:	343DF2F14A1711C4A536C180046F5F01
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Cornelia.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(4).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -2199,7 +2199,7 @@ msgstr "Осталось {amount}"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(3).hagglingTexts
 msgctxt ",48838BDE4AD88FC10C7104B083AB06A1"
 msgid "Would you accept to lower the price?"
-msgstr ""
+msgstr "Вы согласитесь снизить цену?"
 
 #. Key:	4892175C4AE235B387A62BB7740BC948
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_259.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2774,7 +2774,7 @@ msgstr "Разместить мебель"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(9).hagglingTexts
 msgctxt ",5B4C1E474895587C155640B388CA54E9"
 msgid "Maybe it's a little overpriced..."
-msgstr ""
+msgstr "Может цена немного завышена..."
 
 #. Key:	5B5B9C84401D05AD225E56A69992FFBE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_205.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -2789,7 +2789,7 @@ msgstr "Костный клей"
 #: [Script Bytecode]
 msgctxt ",5BC850394C6C29505BA334AA7E46B6A8"
 msgid "Hello, would you by any chance have one <s>{itemName}</> I'm desperate looking for one!"
-msgstr ""
+msgstr "Здравствуйте, у вас есть случайно <s>{itemName}</> Я отчаянно ищу!"
 
 #. Key:	5BF899AF45BA33DDA224559F0BFB890A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_10.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -2999,7 +2999,7 @@ msgstr "Прежде чем пойти спать, закройте свой м�
 #: [Script Bytecode]
 msgctxt ",629099D74EA9DE4FA802FAB057663360"
 msgid "Hello Alchemist! I'm going on adventures, I'll be more prepared with one  <s>{itemName}</> I think."
-msgstr ""
+msgstr "Алхимик привет! Я собираюсь на приключения, я думаю, я буду более подготовлен с одним <s>{itemName}</>."
 
 #. Key:	629B8DBE4983CE1E88578498C54D04EE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_KeyBindings.DT_KeyBindings.binding_17.LocalizedName_31_4536304E415088940F6209BD50C2E090
@@ -3197,7 +3197,7 @@ msgstr "Подождите немного, чтобы исправить зас�
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:WidgetTree.TextBlock_0.Text
 msgctxt ",687A816247E4F482951E0EB30BF3A8AE"
 msgid "Shop Actions"
-msgstr ""
+msgstr "Действия в магазине"
 
 #. Key:	68BEA9424A496CF6F42F7B9B3EB438FB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_058.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3302,7 +3302,7 @@ msgstr "Ведьминский цветочный горшок"
 #: - Value).DisplayNameMap
 msgctxt ",6B4952F44A2FE48529F9F58479B0D42F"
 msgid "Stylist"
-msgstr ""
+msgstr "Стилист"
 
 #. Key:	6BB47F5E4AFDD71CF0D06690E2407D88
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Trees.DT_Trees.Tree_06.TreeName_108_D9E182DC49AADD428DA80FABD19E6D43
@@ -3581,7 +3581,7 @@ msgstr "Семена кипариса"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_129.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",761E914843B6018793B1138EE76E92CA"
 msgid "Potion of Luck"
-msgstr ""
+msgstr "Зелье удачи"
 
 #. Key:	7656DB4743FAD81EAB1014976ECF3006
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_343.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3654,7 +3654,7 @@ msgstr "Дождливое утро"
 #: [Script Bytecode]
 msgctxt ",779EBD024378B008D18E8FA4BDD7A759"
 msgid "Hello, do you sell <s>{itemName}</>? I need one."
-msgstr ""
+msgstr "Здравствуйте, вы продаете <s>{itemName}</>? Мне нужен один."
 
 #. Key:	77AC92B1457F991EB84E5D83E934FEF8
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Walls.DT_Walls.WallType_17.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -3883,7 +3883,7 @@ msgstr "В честь начала лета мы запускаем фейерв
 #: - Value).DisplayNameMap
 msgctxt ",81CB24944228CB072F8BC793A6E3F061"
 msgid "Cloth Vendor"
-msgstr ""
+msgstr "Торговец тканью"
 
 #. Key:	8252069E417F9C5F6D66A79E1214015B
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_324.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -3933,7 +3933,7 @@ msgstr "Большой декоративный пруд для вашего с�
 #: [Script Bytecode]
 msgctxt ",834604C44B1CC48EC5EA68A102846021"
 msgid "Hey! Would you have any <s>{itemName}</> lying around?"
-msgstr ""
+msgstr "Привет! У вас есть какие-нибудь <s>{itemName}</>?"
 
 #. Key:	8352667141DD7A1A94BB34B935B512D7
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_318.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4144,7 +4144,7 @@ msgstr "Кости"
 #: [Script Bytecode]
 msgctxt ",8890191C4845D48D469C669083D962BC"
 msgid "Finally Rosewood Ville has an Alchemist! I need one <s>{itemName}</>, please."
-msgstr ""
+msgstr "Наконец-то в Роузвуд Вилле появился алхимик! Мне нужен один <s>{itemName}</>, пожалуйста."
 
 #. Key:	889D74C2403D8C2D641039816934CBCF
 #. SourceLocation:	/Game/Blueprints/Datatables/NPC_DB.NPC_DB.Adda.Dialogs_31_DD70E80D43885939B5750983268ED22F(1).Dialogs_31_DD70E80D43885939B5750983268ED22F.Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71(3).Dialog_3_0677DDDD4ACEAC58F372F4AF4B3AAA71
@@ -4342,7 +4342,7 @@ msgstr "Фарфоровая настольная лампа, которая у�
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(1).hagglingTexts
 msgctxt ",8F53390A440A3E0B3DB9BA87FC12A965"
 msgid "Wow! A bit expensive, don't you think?"
-msgstr ""
+msgstr "Ух ты! Немного дороговато, тебе не кажется?"
 
 #. Key:	8FAD1731454A1D9B3120FCBA979ADF3D
 #. SourceLocation:	/Game/Blueprints/Actors/BP_LandChunk.BP_LandChunk_C:ExecuteUbergraph_BP_LandChunk [Script Bytecode]
@@ -4422,7 +4422,7 @@ msgstr "Сейчас популярно:"
 #: [Script Bytecode]
 msgctxt ",916A1B3946EE9151FBCECDADE958B50F"
 msgid "How are you? Do you have any <s>{itemName}</> left?"
-msgstr ""
+msgstr "Как вы? У вас остались <s>{itemName}</>?"
 
 #. Key:	91AE888A435EF01FC32D549CEDBE7C08
 #. SourceLocation:	/Game/Blueprints/Enumerators/EEvents.EEvents.DisplayNameMap(8 - Value).DisplayNameMap
@@ -4604,7 +4604,7 @@ msgstr "Железная лейка. Используется для полив�
 #: [Script Bytecode]
 msgctxt ",95A6983F4A7BB31017428FB8634ADECC"
 msgid "Customer"
-msgstr ""
+msgstr "Клиент"
 
 #. Key:	95DF6D6B4B13D790C725589CE2F20899
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_061.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -4769,7 +4769,7 @@ msgstr "Горшок, сделанный из бревна и украшенны
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(10).hagglingTexts
 msgctxt ",9B4038FC45EEF581A09056922B9B419D"
 msgid "That's too much for me..."
-msgstr ""
+msgstr "Это слишком для меня..."
 
 #. Key:	9B4FDA83407D490E4ACA0C8B6C7D493E
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_173.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -5006,7 +5006,7 @@ msgstr "Бордовый ковёр"
 #: [Script Bytecode]
 msgctxt ",A0E96E9148C3243D10ACCCA36277B0E8"
 msgid "Greetings! I would need one <s>{itemName}</>, please."
-msgstr ""
+msgstr "Привет! Мне нужен один <s>{itemName}</>, пожалуйста."
 
 #. Key:	A15B7A914658DB7DC3D285B739718947
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_234.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5163,7 +5163,7 @@ msgstr "Медный подвесной горшок. В него можно п�
 #: [Script Bytecode]
 msgctxt ",A78B627C432C83593E10018256196BC6"
 msgid "What a cozy little shop! I'll take one <s>{itemName}</>, please."
-msgstr ""
+msgstr "Какой уютный магазинчик! Я возьму один <s>{itemName}</>, пожалуйста."
 
 #. Key:	A7A3E4254AB50F44895FCCA38B79573C
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
@@ -5224,7 +5224,7 @@ msgstr "Слабительное"
 #: [Script Bytecode]
 msgctxt ",A9BDAB4A474C70AB278729B7C48E0430"
 msgid "Hello! Could you please, brew one <s>{itemName}</> for me?"
-msgstr ""
+msgstr "Привет! Не могли бы вы сварить для меня один <s>{itemName}</>?"
 
 #. Key:	A9F7063A4C7C3468828F3C9D19F3E000
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_339.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5318,7 +5318,7 @@ msgstr "Поговорить"
 #: [Script Bytecode]
 msgctxt ",ACC980C744F49BE364500083E2E6A877"
 msgid "Hi! Do you have one <s>{itemName}</>?"
-msgstr ""
+msgstr "Привет! У вас есть <s>{itemName}</>?"
 
 #. Key:	ACD00DAB48EA752D243D9AA991326410
 #. SourceLocation:	/Game/UI/Widget_GameNotification.Widget_GameNotification_C:WidgetTree.ItemNameText.Text
@@ -5484,7 +5484,7 @@ msgstr "Зелье, способное успокоить даже самого 
 #: [Script Bytecode]
 msgctxt ",B120286C4AFD89E346EFC39198180262"
 msgid "Hi, I'll take one <s>{itemName}</>, please."
-msgstr ""
+msgstr "Привет! У вас есть <s>{itemName}</>?"
 
 #. Key:	B131D24B4C3512982E80A7AB025011EB
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_299.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -5506,7 +5506,7 @@ msgstr "Принять"
 #: [Script Bytecode]
 msgctxt ",B16100AF4B3843A450D3C88A9C892DC7"
 msgid "Dismiss"
-msgstr ""
+msgstr "Увольнять"
 
 #. Key:	B19E5E794C65C8162ECAB994491DC3B8
 #. SourceLocation:	/Game/UI/Journal/Widget_PotionRecipeInfo.Widget_PotionRecipeInfo_C:UpdateRecipeInfo [Script Bytecode]
@@ -5648,7 +5648,7 @@ msgstr "Забрать вложения"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(2).hagglingTexts
 msgctxt ",B626A44D41BB30016883A3B75FB6D948"
 msgid "Uuh... can you lower it a bit?"
-msgstr ""
+msgstr "Э-э... можно немного потише?"
 
 #. Key:	B647DEF04F03FAE3322A2F89077A4E43
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Floors.DT_Floors.FloorType_15.Name_2_38ECFC374F1A077CB7AB6293A62F4FFF
@@ -5782,7 +5782,7 @@ msgstr "Раффлезия"
 #: [Script Bytecode]
 msgctxt ",BA34670C4D62B33E6A34069A37316EC6"
 msgid "Hi! I hope you have some <s>{itemName}</> left, it was just what I needed!"
-msgstr ""
+msgstr "Привет! Надеюсь, у вас осталось немного <s>{itemName}</>, это было как раз то, что мне было нужно!"
 
 #. Key:	BA62EFE941F8D9390DAED5AD299A0D71
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_123.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6031,7 +6031,7 @@ msgstr "Подарок зимы"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_108.Name_27_A88354F441C25CE5AC4A348435C3D81B
 msgctxt ",C1A06C73440499BFA6EBDDAE282B42CE"
 msgid "Liquid Fire"
-msgstr ""
+msgstr "Жидкий огонь"
 
 #. Key:	C1F10D0B4A936E81475D8CA7A64995DE
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_129.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -6067,7 +6067,7 @@ msgstr "Хрустальная статуэтка"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(11).hagglingTexts
 msgctxt ",C222B2284A2F9686F4DD3AA532AEA31D"
 msgid "I think it should be cheaper."
-msgstr ""
+msgstr "Думаю должно быть дешевле."
 
 #. Key:	C2630EB4435EA2D55CAFCBBE58EC6068
 #. SourceLocation:	/Game/UI/MainMenu/OptionModules/Widget_KeyBindingModule.Widget_KeyBindingModule_C:WidgetTree.ActionNameText.Text
@@ -6306,7 +6306,7 @@ msgstr "Семена арбуза"
 #: [Script Bytecode]
 msgctxt ",C8F0826144D7E254A67125B26B39B8E8"
 msgid "How nice to have an Alchemist so close! Would you have any  <s>{itemName}</>, please?"
-msgstr ""
+msgstr "Как хорошо, что Алхимик так близко! У вас есть <s>{itemName}</>, пожалуйста?"
 
 #. Key:	C9ABF26240A720B10F1186B45AE182E9
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_181.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6359,7 +6359,7 @@ msgstr "Выйти"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(4).hagglingTexts
 msgctxt ",CA0D40BF44B3B2CAD7080BAC0DABCC50"
 msgid "Shall we negotiate it?"
-msgstr ""
+msgstr "Договариваемся об этом?"
 
 #. Key:	CA4042C140192DD53BC2B3AB288A08F1
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:GetRandomDialog [Script Bytecode]
@@ -6367,7 +6367,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",CA4042C140192DD53BC2B3AB288A08F1"
 msgid "Greetings! I'm looking for some <s>{itemName}</>. Do you have any?"
-msgstr ""
+msgstr "Привет! Я ищу <s>{itemName}</>. У вас есть?"
 
 #. Key:	CA60797949E9865B1B3349956886DA61
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_120.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -6410,7 +6410,7 @@ msgstr "Семена гибискуса болотного"
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_108.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",CAEC55AF49A64837410891ABC829373E"
 msgid "Potion with a burning liquid, a favorite of Wizards, handle with care!"
-msgstr ""
+msgstr "Зелье с обжигающей жидкостью, любимица Волшебников, обращаться с осторожностью!"
 
 #. Key:	CAECD74543196263DE8E278B0211F9A4
 #. SourceLocation:	/Game/Blueprints/Enumerators/EItemCategories.EItemCategories.DisplayNameMap(5 - Value).DisplayNameMap
@@ -6491,7 +6491,7 @@ msgstr "Дерево"
 #: [Script Bytecode]
 msgctxt ",CCA7185F46C083F298C745AB4541ACAD"
 msgid "Haggle"
-msgstr ""
+msgstr "Торговаться"
 
 #. Key:	CCC2AA4C45E9F2B47F80EEA8191D8DBC
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:ShowMessage [Script Bytecode]
@@ -6514,7 +6514,7 @@ msgstr "Мелкий паркет"
 #: [Script Bytecode]
 msgctxt ",CD07AA4C44E51D418ED57AA0F1C8102D"
 msgid "Good to see you, Alchemist! Any <s>{itemName}</> for me?"
-msgstr ""
+msgstr "Рад тебя видеть, Алхимик! Любые <s>{itemName}</> для меня?"
 
 #. Key:	CD88F33446EFD4A4B7219B8DD2E8A20C
 #. SourceLocation:	/Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Widget_AskedItemDialog_C:ExecuteUbergraph_Widget_AskedItemDialog [Script Bytecode]
@@ -6522,7 +6522,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt ",CD88F33446EFD4A4B7219B8DD2E8A20C"
 msgid "Wait"
-msgstr ""
+msgstr "Ждать"
 
 #. Key:	CDA1C0FA46E467C2F298E99D22E6957D
 #. SourceLocation:	/Game/Blueprints/Actors/CharacterCreation/Widget_CharacterCreation.Widget_CharacterCreation_C:WidgetTree.TextBlock_2.Text
@@ -6571,7 +6571,7 @@ msgstr "Серые полоски с камнем"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(7).hagglingTexts
 msgctxt ",CE4068F34C6804DB29FF7C830726764C"
 msgid "I would like a discount."
-msgstr ""
+msgstr "Я хотел бы скидку."
 
 #. Key:	CE596EC74D43C66BBC5E91A9C2B767C5
 #. SourceLocation:	/Game/UI/Mailbox/Widget_Mailbox.Widget_Mailbox_C:WidgetTree.TextBlock_103.Text
@@ -6621,7 +6621,7 @@ msgstr "Череп с цветами"
 #: [Script Bytecode]
 msgctxt ",CF4A581F436F37413FEFE6A286D461DC"
 msgid "Hey! How's your day going? Would you give me one <s>{itemName}</>, please?"
-msgstr ""
+msgstr "Привет! Как проходит твой день? Не могли бы вы дать мне один <s>{itemName}</>, пожалуйста?"
 
 #. Key:	CF4CA24F43EEC48EB92E3F8073BC68F5
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_323.Name_27_A88354F441C25CE5AC4A348435C3D81B
@@ -7279,7 +7279,7 @@ msgstr "Компоненты не дают реакции"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(0).hagglingTexts
 msgctxt ",E36658A04E81878F5E88DB815694D2EF"
 msgid "Maybe we can negotiate the price?"
-msgstr ""
+msgstr "Может, договоримся о цене?"
 
 #. Key:	E38DCB0B4FB92232B2A826A2C1D29786
 #. SourceLocation:	/Game/UI/Widget_ItemDetails.Widget_ItemDetails_C:UpdateDetailWidget [Script Bytecode]
@@ -7391,7 +7391,7 @@ msgstr "Ждать"
 #: [Script Bytecode]
 msgctxt ",E670C69F48AAA7FE234E2EA4738C650C"
 msgid "The villagers advised me about your potion shop. Do you have any <s>{itemName}</>?"
-msgstr ""
+msgstr "Жители деревни посоветовали мне ваш магазин зелий. У вас есть <s>{itemName}</>?"
 
 #. Key:	E6842098439BBC8153F0E4815F513605
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Minerals.DT_Minerals.Mineral_4.Name_64_A59486144BB3DF5F2A6851979EFBA7D2
@@ -7742,7 +7742,7 @@ msgstr "Продать зелье"
 #: /Game/Characters/NPC/CustomerNPC/Widget_AskedItemDialog.Default__Widget_AskedItemDialog_C.hagglingTexts(12).hagglingTexts
 msgctxt ",F646256443FC5173787766A0ED8A4DDD"
 msgid "Wow, I was not expecting this price."
-msgstr ""
+msgstr "Ого, не ожидал такой цены."
 
 #. Key:	F667AD224D237C4BE1D932A792433C4C
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_310.Description_28_8E19938F4202DF81D6D312ABE107A7F9
@@ -7960,7 +7960,7 @@ msgstr "Прилавок в форме прилавка. Используетс�
 #: [Script Bytecode]
 msgctxt ",FB8DD41746F83F1BDF1BE88D9CD15576"
 msgid "Hi, Alchemist! I want to buy one <s>{itemName}</>, please!"
-msgstr ""
+msgstr "Привет, Алхимик! Я хочу купить <s>{itemName}</>, пожалуйста!"
 
 #. Key:	FB949ED0450FD7D3ADFFF9AF51ED186A
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_295.Name_27_A88354F441C25CE5AC4A348435C3D81B

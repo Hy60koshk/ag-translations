@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2022-12-28 05:44\n"
-"PO-Revision-Date: 2022-12-28 05:44\n"
+"POT-Creation-Date: 2023-09-07 14:18\n"
+"PO-Revision-Date: 2023-09-07 14:18\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -403,6 +403,13 @@ msgstr ""
 #: /Game/Blueprints/Enumerators/EFurnitureCategories.EFurnitureCategories.DisplayNameMap(0 - Value).DisplayNameMap
 msgctxt ",0F153DA24E1A2F635963128BCDE50646"
 msgid "Comfort"
+msgstr ""
+
+#. Key:	0F2BFA5C4864E33C076C5F8A21380B8B
+#. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_053.Description_28_8E19938F4202DF81D6D312ABE107A7F9
+#: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_053.Description_28_8E19938F4202DF81D6D312ABE107A7F9
+msgctxt ",0F2BFA5C4864E33C076C5F8A21380B8B"
+msgid "An empty tombstone. Place it in your garden as a warning."
 msgstr ""
 
 #. Key:	0F50BDBC42932BE20160A99EC043A8A1
@@ -1095,7 +1102,7 @@ msgstr ""
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_184.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_184.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt ",22F916264865E94F4266C18405747BE8"
-msgid "Hatchet made of iron with hight durability. Use it to chop down trees."
+msgid "Hatchet made of iron with high durability. Use it to chop down trees."
 msgstr ""
 
 #. Key:	23A6E32147EA64A4BB9F1A99D1E42F07
@@ -7759,7 +7766,7 @@ msgstr ""
 #. SourceLocation:	/Game/Blueprints/Datatables/DT_Items.DT_Items.Item_034.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 #: /Game/Blueprints/Datatables/DT_Items.DT_Items.Item_034.Description_28_8E19938F4202DF81D6D312ABE107A7F9
 msgctxt "DT_Items,Item_034_Description"
-msgid "A \"Woody Nouveau\" style fountain. Made of stone and iron."
+msgid "A \"Woody Nouveau\" style fountain. Made of stone and copper."
 msgstr ""
 
 #. Key:	Item_036_Description
